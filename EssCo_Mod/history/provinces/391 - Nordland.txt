@@ -6,7 +6,7 @@ title = c_nordland
 # Settlements
 max_settlements = 2
 b_rost = castle
-#b_kabelvag = temple
+b_kabelvag = temple
 #b_bodo = city
 #b_narvik = castle
 #b_andenes = castle
@@ -14,7 +14,7 @@ b_rost = castle
 #b_beiarn = castle
 #b_harstad = city
 
-culture = norwegian
+culture = lappish
 religion = norse_pagan
 
 # History

@@ -7,7 +7,7 @@ title = c_livs
 max_settlements = 4
 b_lemisele = castle
 b_wenden = temple
-b_uxkull = city
+#b_uxkull = city
 
 #b_cesis = castle
 #b_salaspils = castle

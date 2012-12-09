@@ -7,7 +7,7 @@ title = c_narva
 max_settlements = 4
 b_agelinde = castle
 b_narva = city
-b_wesenberg = temple
+#b_wesenberg = temple
 
 #b_telsborg = castle
 #b_pudiviru = castle

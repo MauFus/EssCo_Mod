@@ -7,7 +7,7 @@ title = c_samoyeds
 max_settlements = 2
 b_verkhmgla = castle
 #b_sukhanikha = city
-#b_yazhma = temple
+b_yazhma = temple
 
 #b_arkhipovo = castle
 #b_vizhas = castle
@@ -16,7 +16,7 @@ b_verkhmgla = castle
 #b_kiya = castle
 
 # Misc
-culture = komi
+culture = ugricbaltic
 religion = finnish_pagan
 
 # History

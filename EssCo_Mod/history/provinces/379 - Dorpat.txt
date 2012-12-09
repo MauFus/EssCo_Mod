@@ -6,7 +6,7 @@ title = c_dorpat
 # Settlements
 max_settlements = 4
 b_fellin = castle
-b_jarva = city
+#b_jarva = city
 b_tartu = temple
 
 #b_odenpah = castle
@@ -16,8 +16,8 @@ b_tartu = temple
 #b_vanaKastre = castle
 
 # Misc
-culture = finnish
-religion = finnish_pagan
+culture = lettigallish
+religion = baltic_pagan
 
 # History
 #1224.1.1 = { b_jarva = city } #bishopric of Dorpat

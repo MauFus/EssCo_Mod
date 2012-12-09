@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_oulu = castle
 
-#b_nykarleby = city
+b_nykarleby = city
 
 #b_kristinestad = temple 
 #b_korsholm = castle

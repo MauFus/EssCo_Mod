@@ -12,7 +12,7 @@ b_haldensleben = city
 #b_mansfeld = castle
 #b_dessau = castle
 #b_arnstein = castle
-b_querfurt = castle
+#b_querfurt = castle
 #b_bernburg  = city
 
 # Misc

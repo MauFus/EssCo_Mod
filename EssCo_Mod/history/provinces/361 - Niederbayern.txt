@@ -7,7 +7,7 @@ title = c_niederbayern
 max_settlements = 4
 b_wittelsbach = castle
 b_regensburg = temple
-b_landshut = city
+#b_landshut = city
 
 #b_ingolstadt = city
 #b_rohrbach = castle

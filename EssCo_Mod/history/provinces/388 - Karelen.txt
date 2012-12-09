@@ -8,7 +8,7 @@ max_settlements = 2
 
 b_kem = castle
 
-#b_sordavala = city
+b_sordavala = city
 #b_kalevala = temple
 #b_kostomuksha = castle
 #b_pitkyaranta = castle

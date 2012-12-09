@@ -7,7 +7,7 @@ title = c_osel
 max_settlements = 3
 b_muhu = castle
 b_kuressare = city
-b_hiiumaa = temple
+#b_hiiumaa = temple
 
 #b_valjala = castle
 #b_poide = castle

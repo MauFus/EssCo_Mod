@@ -29,7 +29,9 @@
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-* Modded provinces to 360  +  826-827
+* Modded provinces to 399  +  826-827
+
+! TODO - Pommeranian
 
 088 - ger
 089 - ger
@@ -78,6 +80,24 @@
 350 - ita
 351 - ita
 359 - ger
+362 - boe
+363 - boe
+365 - pom
+367 - pom
+368 - pru
+369 - pru
+372 - let
+380 - fin
+381 - fin
+385 - fin
+389 - lap
+391 - lap
+393 - ugr
+394 - ugr
+395 - ugr
+396 - ugr
+398 - ugr
+399 - ugr
 
 
 ---------- De Jure Duchies -----------------------

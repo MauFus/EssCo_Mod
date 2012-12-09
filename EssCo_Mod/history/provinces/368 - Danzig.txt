@@ -7,7 +7,7 @@ title = c_danzig
 max_settlements = 5
 b_bytow = castle
 b_danzig = city
-b_oliva = temple
+#b_oliva = temple
 
 #b_tuchel = city
 #b_schwetz = castle
@@ -16,7 +16,7 @@ b_oliva = temple
 #b_schlochau = castle
 
 # Misc
-culture = pommeranian
+culture = prussian
 religion = baltic_pagan
 
 # History

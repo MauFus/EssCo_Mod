@@ -7,7 +7,7 @@ title = c_zemigalians
 max_settlements = 5
 b_bauska = castle
 b_riga = city
-b_skaistkalne = temple
+#b_skaistkalne = temple
 
 #b_mezotne = castle
 #b_cruczeborch = castle

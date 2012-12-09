@@ -5934,11 +5934,11 @@
 ### Rügen
 
 7161 = {
-	name = "z Liubice"
+	name = "Liubice"
 	culture = pommeranian
 }
 7162 = {
-	name = "z Pomorski"
+	name = "Pomorski"
 	culture = pommeranian
 }
 7163 = {
@@ -18248,7 +18248,7 @@
 	culture = german
 }
 101907 = {
-	name="z Wagria"
+	name="Wagria"
 	culture = pommeranian
 }
 101908 = {

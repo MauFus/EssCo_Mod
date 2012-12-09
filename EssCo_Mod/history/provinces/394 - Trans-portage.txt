@@ -7,7 +7,7 @@ title = c_trans-portage
 max_settlements = 3
 b_kargopol = castle
 #b_shenkursk = city
-#b_solovetsky = temple
+b_solovetsky = temple
 
 #b_konosha = castle
 #b_nyandoma = castle
@@ -16,7 +16,7 @@ b_kargopol = castle
 #b_obozerskiy = castle
 
 # Misc
-culture = komi
+culture = ugricbaltic
 religion = finnish_pagan
 
 # History

@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_ust-onega = castle
 
-#b_aunus = city		#possibly 1187
+b_aunus = city		#possibly 1187
 
 #b_kondopoga = city
 #b_pudoga = castle
@@ -18,7 +18,7 @@ b_ust-onega = castle
 #b_pryazha = castle
 
 # Misc
-culture = komi
+culture = ugricbaltic
 religion = finnish_pagan
 
 # History

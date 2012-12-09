@@ -6,7 +6,7 @@ title = c_ugra
 # Settlements
 max_settlements = 3
 b_ukhta = castle
-#b_yarega = city
+b_yarega = city
 #b_sosnogorsk = temple
 
 #b_vodnyy = castle
@@ -16,7 +16,7 @@ b_ukhta = castle
 #b_voyvozh = castle
 
 # Misc
-culture = komi
+culture = ugricbaltic
 religion = finnish_pagan
 
 # History
