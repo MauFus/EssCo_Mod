@@ -1,0 +1,123 @@
+--------------------------------------------------
+---------- CampaignMod Modifies-Log --------------
+--------------------------------------------------
+
+---------- Events --------------------------------
+* Mongol invasions deleted
+* End date delayed of 90000 years
+
+---------- Religions -----------------------------
+* Pagans playable
+* Zoroastrians playable
+* Muslin, Pagans and Zoroastrians: added pacifist trait (is it usefull??)
+
+* Lollard heresy added in England
+* Cathar heresy added in Aquitaine
+* Waldesian heresy added in Burgundy
+
+---------- Cultures ------------------------------
+* English culture event deleted
+* Mongol conversion bonus deleted
+
+* English added in some Saxon territories
+* Norman enlarged in northern France
+* Basque enlarged in Castillian and Occitan territories
+* Castillian and Portoguese enlarged in Andalusia
+
+---------- Characters ----------------------------
+* No initial de jure Duchies, Kingdoms or Empires
+* Liege bug fixed
+
+---------- Provinces -----------------------------
+* Modded provinces to 360  +  826-827
+
+088 - ger
+089 - ger
+120 - ger
+122 - ger
+125 - ger
+231 - ita
+234 - ita
+235 - ita
+236 - ita
+238 - ger
+245 - ger
+246 - ger
+251 - ger
+253 - ger
+254 - ger
+257 - ger
+258 - ger
+259 - ger
+278 - lap
+299 - per
+304 - pom
+306 - pom
+307 - pom
+308 - pom
+309 - pom
+312 - ger
+313 - ger
+318 - ita
+319 - ita
+322 - ita
+324 - ita
+328 - ita
+329 - ita
+330 - ita
+331 - ita
+332 - ita
+335 - ita
+338 - gre
+339 - gre
+343 - mag
+344 - ita
+347 - ita
+348 - ita
+349 - ita
+350 - ita
+351 - ita
+359 - ger
+
+
+---------- De Jure Duchies -----------------------
+* Redifined Connaught, Meath, Leinster (Ireland)
+* Leinster became titular and uncreatable
+* Redifined Norfolk, Oxford, Gloucester (England)
+* Gloucester became titular and uncreatable
+* Created Calais in Flanders
+* Created Girona in Barcellona
+* Redifined Galicia and Portucale (Galicia)
+* Redifines Beja and Algarve (Portugal)
+* Redefined Sevilla, Cordoba and Murcia (Andalusia)
+* Redefined Anjou, Berry, Orleans, Normandy and Valois (France)
+* Create Saona in Burgundy
+* Create Rennes in Brittany
+* Redefined Toulouse, Gascogne and Auvergne (Aquitaine)
+* Create Languedoc in Toulouse
+* Create Helvetia in Upper Burgundy
+
+---------- De Jure Kingdoms ----------------------
+
+---------- De Jure Empires -----------------------
+* New titular kingdoms added in correct de jure empire
+
+---------- Titular Kingdoms ----------------------
+* Added Ulster and Leinster in Ireland
+* Added Cornwall in Wales
+* Added Alba and Strathclyde in Scotland
+* Added Northumbria, Mercia, Anglia and Wessex in England
+* Added Belgium and Holland in Frisia
+* Added Catalonia and Valencia in Aragona
+* Added Asturias in Leon
+* Added Lusitania in Portugal
+* Added Spain, Betica and Granada in Andalusia
+* Added Normandy, Neustria, Loira and Burgundia in France
+* Added Occitania, Guyenne and Septimania in Aquitaine
+* Added Provence and Swiss in Burgundy
+
+---------- Translations --------------------------
+* Britannia kingdoms and duchies translated
+* Hispania kingdoms and duchies translated
+* Francia kingdoms and duchies translated
+* Frisia translated
