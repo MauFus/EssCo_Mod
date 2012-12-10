@@ -4,7 +4,7 @@
 	holder=1350 #Lothar-Udo I 
 } 
 1057.11.7={ 
-	holder=7032 #Lothar-Udo II 
+	holder=8420
 } 
 1082.1.2={ 
 	holder=7034 #Heinrich I 

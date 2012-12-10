@@ -1,13 +1,9 @@
 1043.1.1= 
 { 
 } 
-1043.1.1= 
+1063.1.1= 
 { 
-holder=8410 #Gottschalk Nakonid 
-} 
-1066.6.7= 
-{ 
-holder=20584 #Kruto Wizlawid 
+holder=96103
 } 
 1093.1.1= 
 { 

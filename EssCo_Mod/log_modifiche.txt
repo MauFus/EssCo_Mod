@@ -31,8 +31,6 @@
 ---------- Provinces -----------------------------
 * Modded provinces to 399  +  826-827
 
-! TODO - Pommeranian
-
 088 - ger
 089 - ger
 120 - ger
@@ -53,11 +51,6 @@
 259 - ger
 278 - lap
 299 - per
-304 - pom
-306 - pom
-307 - pom
-308 - pom
-309 - pom
 312 - ger
 313 - ger
 318 - ita
@@ -82,8 +75,6 @@
 359 - ger
 362 - boe
 363 - boe
-365 - pom
-367 - pom
 368 - pru
 369 - pru
 372 - let
