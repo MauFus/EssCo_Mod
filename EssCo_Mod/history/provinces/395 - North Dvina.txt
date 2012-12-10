@@ -16,7 +16,7 @@ b_solvychegodsk = city
 #b_archangelsk = city
 
 # Misc
-culture = ugricbaltic
+culture = komi
 religion = finnish_pagan
 
 # History

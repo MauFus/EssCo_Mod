@@ -29,7 +29,7 @@
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-* Modded provinces to 399  +  826-827
+* Modded provinces to 405  +  826-827
 
 088 - ger
 089 - ger
@@ -83,12 +83,17 @@
 385 - fin
 389 - lap
 391 - lap
-393 - ugr
-394 - ugr
-395 - ugr
-396 - ugr
-398 - ugr
-399 - ugr
+393 - kom
+394 - kom
+395 - kom
+396 - kom
+398 - kom
+399 - kom
+400 - kom
+401 - kom
+402 - kom
+404 - kom
+405 - kom
 
 
 ---------- De Jure Duchies -----------------------

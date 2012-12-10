@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_kungur = castle
 #b_suksun = city
-#b_kordon = temple
+b_kordon = temple
 
 #b_kukushtan = castle
 #b_gari = castle

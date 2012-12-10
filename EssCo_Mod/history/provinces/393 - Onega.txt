@@ -18,7 +18,7 @@ b_aunus = city		#possibly 1187
 #b_pryazha = castle
 
 # Misc
-culture = ugricbaltic
+culture = komi
 religion = finnish_pagan
 
 # History

@@ -16,7 +16,7 @@ b_yarega = city
 #b_voyvozh = castle
 
 # Misc
-culture = ugricbaltic
+culture = komi
 religion = finnish_pagan
 
 # History

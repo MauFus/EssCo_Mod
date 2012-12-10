@@ -16,7 +16,7 @@ b_pyras = city
 #b_sindor = castle
 
 # Misc
-culture = ugricbaltic
+culture = komi
 religion = finnish_pagan
 
 # History

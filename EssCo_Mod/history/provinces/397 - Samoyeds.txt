@@ -16,7 +16,7 @@ b_yazhma = temple
 #b_kiya = castle
 
 # Misc
-culture = ugricbaltic
+culture = komi
 religion = finnish_pagan
 
 # History

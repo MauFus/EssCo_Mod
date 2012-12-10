@@ -16,7 +16,7 @@ b_kantalahti = castle
 #b_pyaozero = castle
 
 # Misc
-culture = finnish
+culture = lappish
 religion = finnish_pagan
 
 # History

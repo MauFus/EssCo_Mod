@@ -16,7 +16,7 @@ b_solovetsky = temple
 #b_obozerskiy = castle
 
 # Misc
-culture = ugricbaltic
+culture = komi
 religion = finnish_pagan
 
 # History
