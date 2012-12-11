@@ -7,7 +7,7 @@ title = c_beloozero
 max_settlements = 4
 b_belozersk = castle
 #b_fedosyevo = city
-#b_kirillobelozersky = temple
+b_kirillobelozersky = temple
 
 #b_babayevo = castle
 #b_kinilov = castle

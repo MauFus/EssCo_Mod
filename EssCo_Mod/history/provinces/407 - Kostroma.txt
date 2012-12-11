@@ -6,7 +6,7 @@ title = c_kostroma
 # Settlements
 max_settlements = 3
 b_kostroma = castle
-#b_plyos = city
+b_plyos = city
 #b_sudislavl = temple
 
 #b_nerektha = castle

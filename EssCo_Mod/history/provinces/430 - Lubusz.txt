@@ -7,7 +7,7 @@ title = c_lubusz
 max_settlements = 4
 b_lubusz = castle
 b_kostrzyn = city
-b_mysliborz = temple
+#b_mysliborz = temple
 
 #b_cedynia = castle
 #b_pryzyce = castle

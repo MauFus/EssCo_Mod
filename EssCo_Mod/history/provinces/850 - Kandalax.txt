@@ -7,7 +7,7 @@ title = c_kandalax
 max_settlements = 2
 b_kantalahti = castle
 
-#b_umba = city
+b_umba = city
 #b_varzuga = temple
 #b_kolsky = city
 #b_lekastrom = castle

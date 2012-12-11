@@ -7,7 +7,7 @@ title = c_kujawy
 max_settlements = 4
 b_inowroclaw = castle
 b_radziejow = city
-b_kruszwica = temple
+#b_kruszwica = temple
 
 #b_brzesckujawskie = castle
 #b_bydgoszcz = city

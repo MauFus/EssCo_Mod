@@ -7,7 +7,7 @@ title = c_hradec
 max_settlements = 5
 b_hradeckralove = castle
 b_litomysl = temple
-b_chrudim = city
+#b_chrudim = city
 
 #b_zamberk = castle
 #b_policka = castle

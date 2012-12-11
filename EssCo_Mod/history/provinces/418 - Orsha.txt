@@ -7,7 +7,7 @@ title = c_orsha
 max_settlements = 4
 b_orsha = castle
 b_talachyn = city
-b_novolukomi = temple
+#b_novolukomi = temple
 
 #b_sianno = castle
 #b_shklou = castle 
@@ -16,7 +16,7 @@ b_novolukomi = temple
 #b_larynouka = castle
 
 # Misc
-culture = russian
+culture = lithuanian
 religion = orthodox
 
 # History

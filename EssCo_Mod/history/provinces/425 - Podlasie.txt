@@ -7,7 +7,7 @@ title = c_podlasie
 max_settlements = 4
 b_drohiczyn = castle
 b_kolno = city
-b_sejny = temple
+#b_sejny = temple
 
 #b_lomza = castle
 #b_tykocin = castle

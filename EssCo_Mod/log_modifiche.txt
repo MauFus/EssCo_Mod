@@ -9,7 +9,7 @@
 ---------- Religions -----------------------------
 * Pagans playable
 * Zoroastrians playable
-* Muslin, Pagans and Zoroastrians: added pacifist trait (is it usefull??)
+* Muslin, Pagans and Zoroastrians gain pacifist trait
 
 * Lollard heresy added in England
 * Cathar heresy added in Aquitaine
@@ -29,7 +29,9 @@
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-* Modded provinces to 405  +  826-827
+* Modded provinces to 405  +  826-827  +  850
+
+! TODO - Lappish, Finnish, Lettigallian and Bohemian
 
 088 - ger
 089 - ger
@@ -94,6 +96,38 @@
 402 - kom
 404 - kom
 405 - kom
+406 - rus
+407 - rus
+408 - rus
+409 - rus
+410 - rus
+412 - rus
+413 - let
+414 - rus
+415 - rus
+416 - let
+419 - lit
+420 - lit
+422 - pru
+424 - lit
+425 - lit
+426 - pru
+428 - pol
+429 - pol
+430 - pol
+432 - pol
+433 - pol
+435 - pol
+436 - boe
+438 - boe
+439 - boe
+440 - boe
+441 - boe
+444 - hun
+445 - hun
+446 - boe
+450 - hun
+850 - lap
 
 
 ---------- De Jure Duchies -----------------------

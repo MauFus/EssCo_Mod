@@ -7,7 +7,7 @@ title = c_pskov
 max_settlements = 5
 b_ostrov = castle
 b_pskov = city
-b_pechory = temple
+#b_pechory = temple
 
 #b_gdov = castle
 #b_porkhov = castle
@@ -16,7 +16,7 @@ b_pechory = temple
 #b_soltchi = castle
 
 # Misc
-culture = russian
+culture = lettigallish
 religion = orthodox
 
 # History

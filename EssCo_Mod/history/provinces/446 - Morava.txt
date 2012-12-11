@@ -7,7 +7,7 @@ title = c_znojmo
 max_settlements = 4
 b_znojmo = castle
 b_trebic = temple
-b_mikulov = city
+#b_mikulov = city
 
 #b_lundenburg = castle
 #b_iglau = castle

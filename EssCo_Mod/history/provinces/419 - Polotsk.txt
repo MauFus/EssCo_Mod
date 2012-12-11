@@ -6,7 +6,7 @@ title = c_polotsk
 # Settlements
 max_settlements = 6
 b_polotsk = castle
-b_lepiel = city
+#b_lepiel = city
 b_braslaw = temple
 
 #b_dzisna = castle
@@ -16,7 +16,7 @@ b_braslaw = temple
 #b_myadzel = castle
 
 # Misc
-culture = russian
+culture = lithuanian
 religion = orthodox
 
 # History

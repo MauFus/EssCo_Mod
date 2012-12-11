@@ -6,8 +6,8 @@ title = c_yatvyagi
 # Settlements
 max_settlements = 4
 b_lyck = castle
-b_johannisburg = city
-#b_eckersberg  = temple
+#b_johannisburg = city
+b_eckersberg  = temple
 
 #b_druskininkai = castle
 #b_valkininkai = castle

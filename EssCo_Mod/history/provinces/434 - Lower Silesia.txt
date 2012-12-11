@@ -7,7 +7,7 @@ title = c_lower_silesia
 max_settlements = 5
 b_glogow = castle
 b_krosno = city
-b_legnica = temple
+#b_legnica = temple
 
 #b_jawor = castle
 #b_lwowek = castle

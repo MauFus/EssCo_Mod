@@ -7,7 +7,7 @@ title = c_novgorod
 max_settlements = 6
 b_borovichi = castle
 b_novgorod = city
-b_tikhvin = temple
+#b_tikhvin = temple
 
 #b_chudovo = castle
 #b_okulovka = castle

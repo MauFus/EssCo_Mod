@@ -7,7 +7,7 @@ title = c_west_dvina
 max_settlements = 4
 b_daugavpils = castle
 b_rezekne = city
-b_balvi = temple
+#b_balvi = temple
 
 #b_kraslava = castle
 #b_vilaka = castle

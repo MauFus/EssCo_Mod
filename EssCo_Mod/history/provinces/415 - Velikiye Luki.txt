@@ -7,7 +7,7 @@ title = c_velikiye_luki
 max_settlements = 4
 b_velikiyeluki = castle
 b_nevel = city
-b_sebezh = temple
+#b_sebezh = temple
 
 #b_opochka = castle
 #b_bely = city

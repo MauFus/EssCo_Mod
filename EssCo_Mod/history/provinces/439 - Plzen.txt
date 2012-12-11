@@ -6,7 +6,7 @@ title = c_plzen
 # Settlements
 max_settlements = 4
 b_plzen = castle
-b_rokycany = temple
+#b_rokycany = temple
 b_stribo = city
 
 #b_tachov = city
