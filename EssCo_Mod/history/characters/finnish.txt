@@ -246,11 +246,11 @@
 	culture="finnish"
 	add_trait="humble"
 	add_trait="scholarly_theologian"
-	1155.1.1={
-		birth="1155.1.1"
+	1055.1.1={
+		birth="1055.1.1"
 	}
-	1250.1.1={
-		death="1250.1.1"
+	1150.1.1={
+		death="1150.1.1"
 	}
 }
 

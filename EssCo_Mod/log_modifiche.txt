@@ -31,7 +31,7 @@
 ---------- Provinces -----------------------------
 * Modded provinces to 405  +  826-827  +  850
 
-! TODO - Lappish, Finnish, Lettigallian and Bohemian
+! TODO - Lettigallian
 
 088 - ger
 089 - ger
@@ -51,7 +51,6 @@
 257 - ger
 258 - ger
 259 - ger
-278 - lap
 299 - per
 312 - ger
 313 - ger
@@ -75,16 +74,9 @@
 350 - ita
 351 - ita
 359 - ger
-362 - boe
-363 - boe
 368 - pru
 369 - pru
 372 - let
-380 - fin
-381 - fin
-385 - fin
-389 - lap
-391 - lap
 393 - kom
 394 - kom
 395 - kom
@@ -102,7 +94,6 @@
 409 - rus
 410 - rus
 412 - rus
-413 - let
 414 - rus
 415 - rus
 416 - let
@@ -118,16 +109,9 @@
 432 - pol
 433 - pol
 435 - pol
-436 - boe
-438 - boe
-439 - boe
-440 - boe
-441 - boe
 444 - hun
 445 - hun
-446 - boe
 450 - hun
-850 - lap
 
 
 ---------- De Jure Duchies -----------------------
