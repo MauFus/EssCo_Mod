@@ -7,7 +7,7 @@ title = c_suzdal
 max_settlements = 6
 b_suzdal = castle
 b_suzivanovo = city
-b_bogolyubovo = temple
+#b_bogolyubovo = temple
 
 #b_suzstarodub = castle
 #b_kovrov = castle
@@ -16,7 +16,7 @@ b_bogolyubovo = temple
 #b_lezhnevo = castle
 
 # Misc
-culture = russian
+culture = ugricbaltic
 religion = orthodox
 
 # History

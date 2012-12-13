@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_taganrog = castle
 
-#b_skorokhod = city
+b_skorokhod = city
 #b_matveevkurgan = temple
 
 #b_latonovo = castle

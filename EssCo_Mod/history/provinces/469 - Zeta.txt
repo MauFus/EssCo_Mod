@@ -7,7 +7,7 @@ title = c_zeta
 max_settlements = 4
 b_podgorica = castle
 b_kotor = city
-b_bar = temple
+#b_bar = temple
 
 #b_skadar = castle
 #b_ulcinj = castle

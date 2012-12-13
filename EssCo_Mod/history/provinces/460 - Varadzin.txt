@@ -7,7 +7,7 @@ title = c_varadzin
 max_settlements = 4
 b_varazdin = castle
 b_cakovec = city
-b_ludbreg = temple
+#b_ludbreg = temple
 
 #b_lepoglava = castle
 #b_toplice = castle

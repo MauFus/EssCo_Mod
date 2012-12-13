@@ -9,7 +9,7 @@ max_settlements = 4
 b_corinth = castle
 #b_argos = castle
 
-b_nauplion = temple
+#b_nauplion = temple
 
 #b_passava = castle
 b_vostitza = city

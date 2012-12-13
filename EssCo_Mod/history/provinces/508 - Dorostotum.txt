@@ -8,7 +8,7 @@ max_settlements = 3
 b_dorosturum = castle
 
 b_rusi = city
-b_shumen = temple
+#b_shumen = temple
 #b_borovo = castle
 #b_slivopole = castle
 #b_byaladve = castle

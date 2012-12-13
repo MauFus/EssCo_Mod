@@ -7,7 +7,7 @@ title = c_rostov
 max_settlements = 5
 b_sarskoyegorodishche = castle
 b_rostov = city
-b_spasoyakovlevsky = temple
+#b_spasoyakovlevsky = temple
 
 #b_petrovskoye = castle
 #b_gavrilovyam = castle

@@ -9,7 +9,7 @@ b_monemvasia = castle
 
 b_arkadia = city
 #b_mistra = temple
-b_nikli = temple
+#b_nikli = temple
 #b_sparta = castle
 #b_lacedaemonia = castle
 #b_gythio = castle

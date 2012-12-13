@@ -7,7 +7,7 @@ title = c_senj
 max_settlements = 4
 b_senj = castle
 b_brinje = city
-b_kaseg = temple
+#b_kaseg = temple
 #b_karlobag = castle
 
 #b_perusic = castle 

@@ -16,7 +16,7 @@ b_rostovnadonu = city
 #b_sulin = castle
 #b_ustaksayaskaya = castle
 
-culture = cuman
+culture = alan
 religion = tengri_pagan
 
 # History

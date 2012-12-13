@@ -7,7 +7,7 @@ title = c_lower_dniepr
 max_settlements = 5
 b_dnieprkherson = castle
 
-b_kyzylyar = city
+#b_kyzylyar = city
 b_kairy = temple
 
 #b_shagingirei = castle
@@ -17,7 +17,7 @@ b_kairy = temple
 #b_bilozerka = castle
 
 # Misc
-culture = cuman
+culture = pecheneg
 religion = tengri_pagan
 
 # History

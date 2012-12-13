@@ -7,7 +7,7 @@ title = c_mstislavl
 max_settlements = 4
 b_mstitslavl = castle
 b_mogilev = city
-b_krychaw = temple
+#b_krychaw = temple
 
 #b_bychaw = castle
 #b_chavusy = castle

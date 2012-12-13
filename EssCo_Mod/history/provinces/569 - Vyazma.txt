@@ -7,7 +7,7 @@ title = c_vyazma
 max_settlements = 4
 b_vyazma = castle
 b_yelnya = city
-b_dukhov = temple
+#b_dukhov = temple
 
 #b_gzhatsky = castle
 #b_dorogobuzh = castle

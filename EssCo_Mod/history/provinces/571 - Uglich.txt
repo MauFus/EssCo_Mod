@@ -7,7 +7,7 @@ title = c_uglich
 max_settlements = 4
 b_uglich = castle
 b_kashin = city
-b_pertoma = temple
+#b_pertoma = temple
 
 #b_kalyazin = castle
 #b_ustscheksna = castle

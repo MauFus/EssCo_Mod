@@ -8,7 +8,7 @@ title = c_chuvash
 max_settlements = 4
 b_vedasuvar = castle
 b_cheboksary = city
-b_makaryevo = temple
+#b_makaryevo = temple
 
 #b_alatyr = castle
 #b_kozlovka = castle
@@ -17,7 +17,7 @@ b_makaryevo = temple
 #b_yadrin = castle
 
 # Misc
-culture = komi
+culture = ugricbaltic
 religion = finnish_pagan
 
 # History

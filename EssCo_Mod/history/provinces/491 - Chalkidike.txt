@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_serres = castle
 b_philippi = city
-b_mntathos = temple
+#b_mntathos = temple
 
 #b_chrysiopolis = city
 #b_siderokastron = castle

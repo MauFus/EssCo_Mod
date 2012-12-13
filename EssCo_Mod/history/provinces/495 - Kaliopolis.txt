@@ -7,7 +7,7 @@ title = c_kaliopolis
 max_settlements = 4
 b_gallipoli = castle
 b_heraclea = temple
-b_madyta = city
+#b_madyta = city
 
 #b_rhaidestos = castle
 #b_panidos = castle

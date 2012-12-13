@@ -7,10 +7,10 @@ title = c_oleshye
 max_settlements = 6
 
 b_ochakiv = castle
-b_kocibey = castle
+#b_kocibey = castle
 
-#b_odessa = city
-b_bohopol = temple
+b_odessa = city
+#b_bohopol = temple
 
 
 #b_balta = castle

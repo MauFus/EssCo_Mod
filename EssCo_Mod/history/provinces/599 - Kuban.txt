@@ -16,7 +16,7 @@ b_kuban = city
 #b_beshtau = castle
 #b_kirpili = castle
 
-culture = cuman
+culture = alan
 religion = tengri_pagan
 
 # History

@@ -7,7 +7,7 @@ title = c_rama
 max_settlements = 3
 b_rama = castle
 b_usice = city
-b_samobor = temple
+#b_samobor = temple
 
 #b_borac = castle
 #b_srebrenica = castle

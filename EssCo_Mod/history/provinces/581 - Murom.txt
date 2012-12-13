@@ -7,7 +7,7 @@ title = c_murom
 max_settlements = 5
 b_murom = castle
 b_melenki = city
-b_moramar = temple
+#b_moramar = temple
 
 #b_vyksa = castle
 #b_kulebaki = castle

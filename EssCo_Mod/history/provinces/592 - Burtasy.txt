@@ -6,17 +6,17 @@ title = c_burtasy
 # Settlements
 max_settlements = 5
 b_saratov = castle
-b_atkarsk = castle
+#b_atkarsk = castle
 
 b_mechetnaya = city
-b_pokrovsk = temple
+#b_pokrovsk = temple
 #b_sosnovyostrov = castle
 #b_balakova = castle
 #b_golykaramysh = castle
 #b_rtishchevo = castle
 
 # Misc
-culture = komi
+culture = ugricbaltic
 religion = finnish_pagan
 
 # History

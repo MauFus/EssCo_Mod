@@ -7,7 +7,7 @@ title = c_pinsk
 max_settlements = 5
 b_pinsk = castle
 b_porkhovo = city
-b_lutsk = temple
+#b_lutsk = temple
 
 #b_biaroza = castle
 #b_stepan = castle
@@ -16,7 +16,7 @@ b_lutsk = temple
 #b_dabuchin = castle
 
 # Misc
-culture = russian
+culture = lithuanian
 religion = orthodox
 
 # History

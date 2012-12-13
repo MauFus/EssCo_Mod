@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_constantia = castle
 
-b_carachioi = city
+#b_carachioi = city
 b_adamclisi = temple
 
 #b_mesgidia = castle

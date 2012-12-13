@@ -7,7 +7,7 @@ title = c_moskva
 max_settlements = 6
 b_moskva = castle
 b_kaluga = city
-b_rogozhi = temple
+#b_rogozhi = temple
 
 #b_serpukhov = castle
 #b_belyov = castle

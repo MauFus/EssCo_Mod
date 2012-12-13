@@ -6,7 +6,7 @@ title = c_chandax
 # Settlements
 max_settlements = 4
 b_iraklio = castle
-b_lassithi = city
+#b_lassithi = city
 
 b_agiosnikolaos = temple
 #b_malia = castle

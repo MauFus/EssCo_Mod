@@ -7,7 +7,7 @@ title = c_vidin
 max_settlements = 4
 
 b_vidin = castle
-b_viseslav = temple
+#b_viseslav = temple
 b_kula = city
 
 #b_pirot = castle

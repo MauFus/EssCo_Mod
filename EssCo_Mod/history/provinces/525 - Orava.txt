@@ -7,7 +7,7 @@ title = c_orava
 max_settlements = 4
 b_arvavara = castle
 b_rozsahegy = city
-b_liptovskymikulas = temple
+#b_liptovskymikulas = temple
 
 #b_nameszto = city
 #b_zolyom = castle

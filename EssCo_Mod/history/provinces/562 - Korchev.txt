@@ -7,7 +7,7 @@ title = c_korchev
 max_settlements = 4
 
 b_bosphoros = castle
-b_panticapea = city
+#b_panticapea = city
 b_cherco = temple
 
 #b_chystopillia = castle
@@ -17,7 +17,7 @@ b_cherco = temple
 #b_zavitne = castle
 
 # Misc
-culture = russian
+culture = pecheneg
 religion = orthodox
 
 # History

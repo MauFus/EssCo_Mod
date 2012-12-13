@@ -8,8 +8,8 @@ max_settlements = 4
 
 b_auersperg = castle
 b_krainburg = city
-b_gurk = temple
-b_gorz = castle
+#b_gurk = temple
+#b_gorz = castle
 
 #b_stain = castle
 #b_guetenegg = castle
@@ -18,7 +18,7 @@ b_gorz = castle
 #b_stveit = temple
 
 # Misc
-culture = german
+culture = croatian
 religion = catholic
 
 # History

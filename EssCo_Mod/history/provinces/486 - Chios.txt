@@ -7,7 +7,7 @@ title = c_chios
 max_settlements = 3
 
 b_chios = castle
-b_tigani = city
+#b_tigani = city
 b_samos = temple
 
 #b_marathokampos = castle

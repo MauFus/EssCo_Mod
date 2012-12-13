@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_angelokastron = castle
 b_arta = city
-b_preveza = temple
+#b_preveza = temple
 
 #b_agnanta = castle
 #b_thomokastron = castle

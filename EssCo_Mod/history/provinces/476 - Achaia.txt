@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_patras = castle
 b_andravida = city
-b_pyrgos = temple
+#b_pyrgos = temple
 
 #b_kalavryta = castle
 #b_akova = castle

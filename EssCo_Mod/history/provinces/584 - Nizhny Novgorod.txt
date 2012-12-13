@@ -7,7 +7,7 @@ title = c_nizhny_novgorod
 max_settlements = 4
 b_nizhnynovgorod = castle
 b_bor = city
-b_sarov = temple
+#b_sarov = temple
 
 #b_kstovo = castle
 #b_knyaginino = castle
@@ -16,7 +16,7 @@ b_sarov = temple
 #b_bogorodsk = castle
 
 # Misc
-culture = russian
+culture = ugricbaltic
 religion = orthodox
 
 # History

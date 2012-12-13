@@ -16,7 +16,7 @@ b_lopatino = city
 #b_morki = castle
 
 # Misc
-culture = komi
+culture = ugricbaltic
 religion = finnish_pagan
 
 # History

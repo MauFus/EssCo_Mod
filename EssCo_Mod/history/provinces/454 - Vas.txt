@@ -9,7 +9,7 @@ max_settlements = 4
 b_szombathely = castle
 #b_sarvar = castle
 
-b_vasvar = city
+#b_vasvar = city
 b_szentgotthard = temple
 
 #b_celldomolk = castle

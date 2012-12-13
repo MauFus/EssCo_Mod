@@ -7,7 +7,7 @@ title = c_sarkel
 max_settlements = 4
 
 b_sarkel = castle
-b_kazarki = city
+#b_kazarki = city
 b_belayavezha = temple
 
 #b_semikarakorsk = castle

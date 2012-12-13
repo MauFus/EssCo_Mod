@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_bihar = castle
 b_debrecen = city
-b_nagyvarad = temple
+#b_nagyvarad = temple
 
 #b_biharkeresztes = castle
 #b_nagybajom = castle

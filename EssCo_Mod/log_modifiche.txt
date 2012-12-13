@@ -23,15 +23,20 @@
 * Norman enlarged in northern France
 * Basque enlarged in Castillian and Occitan territories
 * Castillian and Portoguese enlarged in Andalusia
+* Lappish expanded in North Scandinavia
+* Ugricbaltic added in Komi and Russian area
+* Lettigallian, Lithuanian and Prussian slightly enlarged
+* Croatian and Serbian have now some more counties
+* Pecheneg expanded in Taurica
 
 ---------- Characters ----------------------------
 * No initial de jure Duchies, Kingdoms or Empires
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-* Modded provinces to 405  +  826-827  +  850
+* Modded provinces to 600  +  826-827  +  850
 
-! TODO - Lettigallian
+! TODO - Lettigallian, German, Prussian, Polish, Hungarian, Bulgarian, Romanian, Pecheneg, Ugricbaltic
 
 088 - ger
 089 - ger
@@ -112,6 +117,95 @@
 444 - hun
 445 - hun
 450 - hun
+452 - hun
+457 - cro
+458 - cro
+459 - cro
+460 - cro
+461 - cro
+462 - cro
+463 - cro
+466 - cro
+467 - cro
+469 - ser
+470 - ser
+471 - ser
+474 - gre
+478 - gre
+480 - gre
+483 - gre
+485 - gre
+487 - gre
+490 - gre
+493 - gre
+494 - gre
+497 - gre
+499 - bul
+500 - bul
+502 - ser
+503 - ser
+505 - ser
+506 - bul
+510 - bul
+512 - rom
+513 - rom
+517 - hun
+520 - hun
+523 - hun
+525 - hun
+526 - pol
+528 - pol
+529 - pru
+530 - pol
+531 - pol
+532 - pol
+533 - hun
+534 - rus
+535 - rus
+536 - rus
+537 - hun
+540 - hun
+544 - rus
+545 - rom
+546 - rus
+547 - rus
+548 - lit
+549 - rus
+550 - lit
+551 - rus
+552 - rus
+553 - rus
+554 - rus
+555 - rus
+559 - pec
+561 - pec
+562 - pec
+564 - cum
+565 - cum
+566 - cum
+567 - rus
+568 - rus
+569 - rus
+570 - rus
+571 - rus
+572 - rus
+573 - rus
+574 - rus
+576 - rus
+577 - rus
+578 - rus
+580 - rus
+581 - rus
+582 - ugr
+583 - ugr
+584 - ugr
+585 - ugr
+586 - ugr
+587 - rus
+593 - cum
+595 - cum
+598 - ala
+600 - geo
 
 
 ---------- De Jure Duchies -----------------------

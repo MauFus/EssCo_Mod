@@ -7,7 +7,7 @@ title = c_epeiros
 max_settlements = 5
 
 b_butrint = castle
-b_ioannina = city
+#b_ioannina = city
 b_paramythia = temple
 
 #b_sopot = castle
@@ -17,7 +17,7 @@ b_paramythia = temple
 #b_sagiada = castle
 
 # Misc
-culture = greek
+culture = serbian
 religion = orthodox
 
 # History

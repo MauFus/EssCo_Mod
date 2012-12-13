@@ -9,7 +9,7 @@ max_settlements = 4
 b_chortitza = castle
 b_ltava = city
 
-b_baszmacka = temple
+#b_baszmacka = temple
 
 #b_lubny = city
 #b_alexandrowsk = castle
@@ -18,7 +18,7 @@ b_baszmacka = temple
 #b_khorol = castle
 
 # Misc
-culture = cuman
+culture = pecheneg
 religion = tengri_pagan
 
 # History

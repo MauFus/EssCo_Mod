@@ -6,7 +6,7 @@ title = c_split
 # Settlements
 max_settlements = 4
 b_split = castle
-b_trogir = city
+#b_trogir = city
 b_hvar = temple
 
 #b_solin = city

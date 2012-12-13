@@ -7,7 +7,7 @@ title = c_minsk
 max_settlements = 5
 b_minsk = castle
 b_borisow = city
-b_maladzyechna = temple
+#b_maladzyechna = temple
 
 #b_kletsk = castle
 #b_berezino = city
@@ -16,7 +16,7 @@ b_maladzyechna = temple
 #b_kapyl = castle
 
 # Misc
-culture = russian
+culture = lithuanian
 religion = orthodox
 
 # History

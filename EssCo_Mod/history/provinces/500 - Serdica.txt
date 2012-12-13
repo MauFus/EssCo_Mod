@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_serdica = castle
 b_velbazhd = city
-b_rila = temple
+#b_rila = temple
 
 #b_etropole = castle
 #b_pernik = castle

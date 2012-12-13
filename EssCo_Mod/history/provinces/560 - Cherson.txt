@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_kherson = castle
 b_neapol = city
-b_doros = temple
+#b_doros = temple
 
 #b_kerkinitis = castle
 #b_cembalo = castle
@@ -17,7 +17,7 @@ b_doros = temple
 #b_kalamita = castle
 
 # Misc
-culture = greek
+culture = pecheneg
 religion = orthodox
 
 # History

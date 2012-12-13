@@ -7,7 +7,7 @@ title = c_mountain_cheremisa
 max_settlements = 4
 
 b_simbirsk = castle
-b_pokrovskoye = city
+#b_pokrovskoye = city
 b_kanadey = temple
 
 #b_stanichnaya = castle
@@ -17,7 +17,7 @@ b_kanadey = temple
 #b_barysh = castle
 
 # Misc
-culture = komi
+culture = ugricbaltic
 religion = finnish_pagan
 
 # History

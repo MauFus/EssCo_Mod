@@ -9,7 +9,7 @@ max_settlements = 4
 b_khopyorsk = castle
 
 b_tambov = city 
-b_borisoglebsk = temple
+#b_borisoglebsk = temple
 
 #b_uryupin = castle
 #b_balashov = castle

@@ -7,7 +7,7 @@ title = c_galich_mersky
 max_settlements = 4
 b_galichmersky = castle
 b_gradmersky = city
-b_levkovo = temple
+#b_levkovo = temple
 
 #b_buy = castle
 #b_chistyebory = castle
@@ -16,7 +16,7 @@ b_levkovo = temple
 #b_isaevo = castle
 
 # Misc
-culture = russian
+culture = ugricbaltic
 religion = orthodox
 
 # History

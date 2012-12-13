@@ -9,7 +9,7 @@ max_settlements = 3
 b_modon = castle
 
 b_kalamata = city
-b_kiparissia = temple
+#b_kiparissia = temple
 
 #b_coron = castle
 #b_karytaina = castle

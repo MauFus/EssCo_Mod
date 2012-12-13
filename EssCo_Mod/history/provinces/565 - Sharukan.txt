@@ -6,7 +6,7 @@ title = c_sharukan
 # Settlements
 max_settlements = 5
 b_kharka = castle
-b_challykala = temple
+#b_challykala = temple
 b_sumy = city
 
 #b_khorysdan = castle

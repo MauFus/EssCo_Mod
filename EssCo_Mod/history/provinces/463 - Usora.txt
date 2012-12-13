@@ -7,7 +7,7 @@ title = c_usora
 max_settlements = 4
 b_usora = castle
 b_bihac = city
-b_banjaluka = temple
+#b_banjaluka = temple
 #b_jajce = castle
 #b_bocac = castle
 

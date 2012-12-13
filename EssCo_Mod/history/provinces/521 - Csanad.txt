@@ -9,7 +9,7 @@ max_settlements = 4
 b_csanad = castle
 
 b_mako = city
-b_szeged = temple
+#b_szeged = temple
 
 #b_battonya = castle
 #b_csongrad = castle
