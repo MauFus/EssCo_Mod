@@ -7,7 +7,7 @@ title = c_qazwin
 max_settlements =5
 b_lambsar = castle
 b_qazwin = city
-b_ahmadabad = temple
+#b_ahmadabad = temple
 
 #b_takestan = city
 #b_avaj = castle
@@ -16,7 +16,7 @@ b_ahmadabad = temple
 #b_buinzahra = castle
 
 #Misc
-culture = persian
+culture = kurdish
 religion = sunni
 
 # History

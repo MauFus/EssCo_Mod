@@ -8,7 +8,7 @@ max_settlements = 4
 b_lykandos = castle
 
 b_tzamandos = city
-b_comanagene = temple
+#b_comanagene = temple
 #b_symposion = castle
 #b_papurius = castle
 #b_cocussus = castle

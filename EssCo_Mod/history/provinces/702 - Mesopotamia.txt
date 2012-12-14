@@ -6,7 +6,7 @@ title = c_mesopotamia
 # Settlements
 max_settlements = 4
 b_tzimisca = castle
-b_mayafaraqin = city
+#b_mayafaraqin = city
 b_martyropolis = temple
 #b_jermuk = castle
 #b_arghana = castle

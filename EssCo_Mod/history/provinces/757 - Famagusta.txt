@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_famagusta = castle
 b_nikosia = city
-b_cithium = temple
+#b_cithium = temple
 
 #b_sthilarion = castle
 #b_kyrenia = castle

@@ -6,7 +6,7 @@ title = c_amisos
 # Settlements
 max_settlements = 5
 b_amisos = castle
-b_amasia = city
+#b_amasia = city
 b_thermodon = temple
 
 #b_eupatoria = caslte

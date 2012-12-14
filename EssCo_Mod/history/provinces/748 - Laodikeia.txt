@@ -8,7 +8,7 @@ max_settlements = 5
 
 b_laodikeia = castle
 b_philadelphia = city
-b_rhoas = temple
+#b_rhoas = temple
 
 #b_flaviupolis = castle
 #b_hieropolis = castle

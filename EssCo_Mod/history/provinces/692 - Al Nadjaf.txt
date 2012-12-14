@@ -7,7 +7,7 @@ title = c_al_nadjaf
 max_settlements = 4
 
 b_nadjaf = castle
-b_taqtaqanah = city
+#b_taqtaqanah = city
 b_kufah = temple
 #b_rahbah = castle
 #b_jasim = castle

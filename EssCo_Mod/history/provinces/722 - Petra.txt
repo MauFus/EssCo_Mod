@@ -6,7 +6,7 @@ title = c_petra
 # Settlements
 max_settlements = 4
 b_tophel = castle
-b_wadi_musa = city
+#b_wadi_musa = city
 b_petra = temple
 
 #b_bozrah = temple
@@ -16,7 +16,7 @@ b_petra = temple
 #b_husseiniya = castle
 
 # Misc
-culture = levantine_arabic
+culture = egyptian_arabic
 religion = sunni
 
 # History

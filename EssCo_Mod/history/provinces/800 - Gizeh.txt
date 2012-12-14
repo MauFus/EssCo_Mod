@@ -6,7 +6,7 @@ title = c_gizeh
 # Settlements
 max_settlements = 4
 b_aburowash = castle
-b_dashur = city
+#b_dashur = city
 b_gizeh = temple
 
 #b_zawyetalayran = castle

@@ -7,7 +7,7 @@ title = c_semender
 max_settlements = 4
 b_kumukh = castle
 b_semender = city
-b_khattibaku = temple
+#b_khattibaku = temple
 #b_khannalkala = castle
 #b_balanjar = castle
 #b_burgaikala = castle
@@ -15,7 +15,7 @@ b_khattibaku = temple
 #b_tarki = city
 
 # Misc
-culture = turkish
+culture = georgian
 religion = sunni
 
 # History

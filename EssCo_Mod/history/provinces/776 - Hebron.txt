@@ -6,7 +6,7 @@ title = c_hebron
 # Settlements
 max_settlements = 3
 b_hebron = castle
-b_deimachar = city
+#b_deimachar = city
 b_bethlehem = temple
 
 #b_syrbelmont = castle

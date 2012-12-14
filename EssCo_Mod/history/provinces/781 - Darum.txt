@@ -7,7 +7,7 @@ title = c_darum
 max_settlements = 3
 b_darum = castle
 b_rafah = city
-b_gaza = temple
+#b_gaza = temple
 
 #b_radwan = castle
 #b_salqah = castle

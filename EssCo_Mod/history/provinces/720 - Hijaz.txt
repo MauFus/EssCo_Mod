@@ -7,7 +7,7 @@ title = c_hijaz
 max_settlements = 4
 b_al_ola = castle
 b_leuke_kome = city
-b_tayma = temple
+#b_tayma = temple
 
 #b_higra = temple
 #b_madain_salih = castle

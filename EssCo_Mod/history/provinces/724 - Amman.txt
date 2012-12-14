@@ -7,7 +7,7 @@ title = c_amman
 max_settlements = 3
 
 b_amman = castle
-b_mahis = temple
+#b_mahis = temple
 b_salt = city
 
 #b_dhiban = city

@@ -7,7 +7,7 @@ title = c_druz
 max_settlements = 4
 b_salkhard = castle
 b_dibin = city
-b_awas = temple
+#b_awas = temple
 
 #b_shannireh = temple
 #b_ghariyah = castle

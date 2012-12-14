@@ -7,7 +7,7 @@ title = c_jaffa
 max_settlements = 5
 b_jaffa = castle
 b_arsuf = city
-b_lydda = temple
+#b_lydda = temple
 
 #b_ramleh = castle
 #b_ibelin = castle

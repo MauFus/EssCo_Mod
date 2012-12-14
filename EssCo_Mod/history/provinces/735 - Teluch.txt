@@ -6,7 +6,7 @@ title = c_teluch
 # Settlements
 max_settlements = 4
 b_teluch = castle
-b_germanias = city
+#b_germanias = city
 b_perre = temple
 #b_komanal = castle
 #b_tavplur = castle

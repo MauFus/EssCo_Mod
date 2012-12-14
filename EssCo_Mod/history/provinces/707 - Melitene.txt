@@ -6,7 +6,7 @@ title = c_melitene
 # Settlements
 max_settlements = 4
 b_melitene = castle
-b_arca = temple
+#b_arca = temple
 b_samosata = city
 #b_corduene = castle
 #b_seneqerim = castle

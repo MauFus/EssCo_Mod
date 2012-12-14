@@ -16,7 +16,7 @@ b_borujerd = temple
 #b_poledokhtar = castle
 
 #Misc
-culture = persian
+culture = kurdish
 religion = sunni
 
 # History

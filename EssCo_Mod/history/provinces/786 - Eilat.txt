@@ -6,7 +6,7 @@ title = c_eilat
 # Settlements
 max_settlements = 3
 b_eilat = castle
-#b_yahel = city
+b_yahel = city
 #b_lotan = temple
 
 #b_sapir = castle
@@ -16,7 +16,7 @@ b_eilat = castle
 #b_urim = castle
 
 # Misc
-culture = levantine_arabic
+culture = egyptian_arabic
 religion = sunni
 
 # History

@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_sinope = castle
 b_pompeiopolis = city
-b_germanicopolis = temple
+#b_germanicopolis = temple
 
 #b_aboniteichos = castle
 #b_themiscyra = castle

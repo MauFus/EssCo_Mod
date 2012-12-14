@@ -7,7 +7,7 @@ title = c_bira
 max_settlements = 4
 b_bira = castle
 b_resaina = city
-b_tella = temple
+#b_tella = temple
 
 #b_qalarebete = castle
 #b_derik = castle

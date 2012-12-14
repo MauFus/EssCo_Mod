@@ -7,7 +7,7 @@ title = c_baalbek
 max_settlements = 4
 
 b_baalbek = castle
-b_akkar = city
+#b_akkar = city
 b_halbah = temple
 
 #b_zahle = castle

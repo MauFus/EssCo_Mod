@@ -6,7 +6,7 @@ title = c_karbala
 # Settlements
 max_settlements = 4
 b_ainaltamur = castle
-b_hindiya = city
+#b_hindiya = city
 b_karbala = temple
 
 #b_ofak = castle

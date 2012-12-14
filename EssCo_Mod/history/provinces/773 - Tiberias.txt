@@ -7,7 +7,7 @@ title = c_tiberias
 max_settlements = 4
 b_tiberias = castle
 b_nazareth = city
-b_mnttabor = temple 
+#b_mnttabor = temple 
 
 #b_bethsan = castle
 #b_caymont = castle

@@ -7,7 +7,7 @@ title = c_sinjar
 max_settlements = 4
 b_sinjar = castle
 b_telassar = city
-b_hatra = temple
+#b_hatra = temple
 
 #b_nineveh = city
 #b_talkayf = castle

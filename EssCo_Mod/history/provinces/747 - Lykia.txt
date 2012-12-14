@@ -7,7 +7,7 @@ title = c_lykia
 max_settlements = 4
 
 b_halikarnassos = castle
-b_telmissos = city
+#b_telmissos = city
 b_myra = temple
 
 #b_kibyra = castle

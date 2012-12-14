@@ -6,7 +6,7 @@ title = c_amida
 # Settlements
 max_settlements = 4
 b_kiaburc = castle
-b_amida = city
+#b_amida = city
 b_ulucamii = temple
 #b_suraamede = castle
 #b_mayyafarikin = city

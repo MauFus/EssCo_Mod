@@ -6,7 +6,7 @@ title = c_tyrus
 # Settlements
 max_settlements = 5
 b_scandalon = castle
-b_sarafand = city
+#b_sarafand = city
 b_tyrus = temple
 
 #b_syrmontfort = castle

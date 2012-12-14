@@ -34,7 +34,7 @@
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-* Modded provinces to 660  +  826-827  +  850-851  +  929
+* Modded provinces to 801  +  826-827  +  850-851  +  929
 
 ! TODO - Lettigallian, German, Prussian, Polish, Hungarian, Bulgarian, 
 		 Romanian, Pecheneg, Ugricbaltic, Italian, Russian, Cuman, Alan
@@ -243,10 +243,86 @@
 654 - bed
 655 - bed
 656 - lev
-657 - per
+657 - kur
 658 - per
 659 - per
 660 - per
+663 - per
+664 - kur
+666 - kur
+667 - kur
+670 - kur
+673 - geo
+674 - geo
+676 - geo
+677 - geo
+680 - geo
+681 - arm
+684 - kur
+685 - kur
+686 - kur
+687 - kur
+689 - kur
+694 - lev
+695 - kur
+697 - kur
+669 - arm
+700 - lev
+701 - arm
+703 - arm
+704 - arm
+707 - arm
+709 - lev
+711 - lev
+719 - bed
+720 - bed
+721 - lev
+722 - egy
+724 - lev
+725 - lev
+726 - lev
+727 - lev
+728 - lev
+730 - lev
+733 - lev
+736 - arm
+738 - gre
+741 - gre
+742 - gre
+743 - gre
+744 - gre
+746 - gre
+747 - gre
+749 - gre
+751 - gre
+752 - gre
+753 - gre
+754 - gre
+756 - gre
+758 - gre
+760 - gre
+762 - arm
+763 - gre
+764 - gre
+774 - lev
+776 - lev
+777 - lev
+778 - lev
+780 - lev
+785 - egy
+787 - egy
+788 - egy
+789 - egy
+790 - egy
+791 - egy
+793 - eth
+794 - egy
+795 - egy
+797 - egy
+798 - egy
+799 - egy
+800 - egy
+801 - egy
 929 - ita
 
 

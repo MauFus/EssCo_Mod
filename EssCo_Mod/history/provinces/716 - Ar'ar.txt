@@ -7,7 +7,7 @@ title = c_ar_ar
 max_settlements = 3
 b_shaka = castle
 b_ammaryah = city
-b_dumat_al_jundal = temple
+#b_dumat_al_jundal = temple
 
 #b_umm_kunsur = castle
 #b_ruthiyah = castle

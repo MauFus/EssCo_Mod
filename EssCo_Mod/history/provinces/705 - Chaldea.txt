@@ -6,7 +6,7 @@ title = c_chaldea
 # Settlements
 max_settlements = 4
 b_kerasous = castle
-b_cotyora = city
+#b_cotyora = city
 b_camachus = temple
 #b_ibora = castle
 #b_podandos = castle

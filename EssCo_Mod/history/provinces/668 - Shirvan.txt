@@ -8,7 +8,7 @@ max_settlements = 4
 b_baku = castle
 
 b_lankaran = city
-b_absheron = temple
+#b_absheron = temple
 #b_shirvan = castle
 #b_shakhriyar = castle 
 #b_khizirzinda = temple
@@ -16,7 +16,7 @@ b_absheron = temple
 #b_altiagay = city
 
 # Misc
-culture = persian
+culture = kurdish
 religion = sunni
 
 # History

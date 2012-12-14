@@ -7,7 +7,7 @@ title = c_safed
 max_settlements = 4
 b_safed = castle
 b_chastelet = city
-b_banyas = temple
+#b_banyas = temple
 
 #b_toron = castle
 #b_subeiba = castle

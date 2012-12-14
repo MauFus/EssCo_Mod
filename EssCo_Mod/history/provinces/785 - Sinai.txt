@@ -6,7 +6,7 @@ title = c_sinai
 # Settlements
 max_settlements = 2
 b_attur = castle
-#b_sharmelsheikh = city
+b_sharmelsheikh = city
 #b_mamlah = temple
 
 #b_nuweiba = castle
@@ -16,7 +16,7 @@ b_attur = castle
 #b_nabq = castle
 
 # Misc
-culture = levantine_arabic
+culture = egyptian_arabic
 religion = shiite
 
 # History

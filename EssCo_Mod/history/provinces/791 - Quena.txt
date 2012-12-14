@@ -7,7 +7,7 @@ title = c_quena
 max_settlements = 3
 b_quena = castle
 b_kosseir = city
-b_qus = temple
+#b_qus = temple
 
 #b_troglodytica = castle
 #b_abughusun = castle

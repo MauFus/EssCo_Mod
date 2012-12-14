@@ -6,7 +6,7 @@ title = c_albania
 # Settlements
 max_settlements = 4
 b_chukhurkabala = castle
-b_ganja = city
+#b_ganja = city
 b_shaki = temple
 #b_darussoltan = castle
 #b_barda = castle
@@ -15,7 +15,7 @@ b_shaki = temple
 #b_kabala = city
 
 # Misc
-culture = persian
+culture = georgian
 religion = sunni
 
 # History

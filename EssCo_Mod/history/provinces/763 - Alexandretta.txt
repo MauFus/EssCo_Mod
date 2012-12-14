@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_alexandretta = castle
 #b_portbonnel = castle
-b_rhosus = temple
+#b_rhosus = temple
 
 #b_myriandros = castle
 b_portella = city

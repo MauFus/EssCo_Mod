@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_arak = castle
 b_palmyra = city
-b_arraml = temple
+#b_arraml = temple
 
 #b_alqasr = castle
 #b_jihar = castle

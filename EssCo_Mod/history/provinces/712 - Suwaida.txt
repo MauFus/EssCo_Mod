@@ -7,7 +7,7 @@ title = c_suwaida
 max_settlements = 4
 b_suwaida = castle
 b_raha = city
-b_qummoualad = temple
+#b_qummoualad = temple
 
 #b_taraba = castle
 #b_nimreh = castle
