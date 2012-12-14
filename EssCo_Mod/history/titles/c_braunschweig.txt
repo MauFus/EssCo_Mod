@@ -22,9 +22,9 @@
 1003.1.2={ 
 	holder = 106512 
 } 
-1038.1.24= 
+1048.1.24= 
 { 
-holder=106510 #Ekbert I von Braunschweig 
+holder=30260
 } 
 1068.1.1= 
 { 

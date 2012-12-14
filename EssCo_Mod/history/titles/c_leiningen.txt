@@ -21,7 +21,7 @@
 	holder = 1314 #Heinrich III  
 } 
 1056.5.10 = {	 
-	holder = 1316 #Heinrich IV  
+	holder = 20383
 } 
 1106.7.8 = {  
 	holder = 7901 #Heinrich V Salien 

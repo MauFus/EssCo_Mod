@@ -3,7 +3,7 @@
 } 
 1043.4.15= 
 { 
-holder=20251 #Adalbert Goseck 
+holder=30301
 } 
 1072.3.16= 
 { 

@@ -3738,11 +3738,11 @@
 	add_trait="lustful"
 	add_trait="wroth"
 	add_trait="amateurish_plotter"
-	1002.1.2 = {
-		birth="1002.1.2"
+	1012.1.2 = {
+		birth="1012.1.2"
 	}
-	1058.1.2 = {
-		death="1058.1.2"
+	1068.1.2 = {
+		death="1068.1.2"
 	}
 }
 
