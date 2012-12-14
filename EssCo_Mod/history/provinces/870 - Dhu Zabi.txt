@@ -6,7 +6,7 @@ title = c_dhu_zabi
 # Settlements
 max_settlements = 5
 b_dhuzabi = castle
-b_dibba = city
+#b_dibba = city
 b_qutuf = temple
 
 #b_sohar = castle

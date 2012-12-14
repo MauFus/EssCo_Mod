@@ -7,16 +7,16 @@ title = c_khiva
 max_settlements = 5
 b_itchankila = castle
 b_khiva = city
-b_xazorasp = temple
+#b_xazorasp = temple
 
-b_bogot = castle
+#b_bogot = castle
 #b_xonqa = castle
 #b_qorovul = city
 #b_yangiariq = castle
 #b_shovot = castle
 
 # Misc
-culture = persian
+culture = mongol
 religion = zoroastrian
 
 # History

@@ -6,7 +6,7 @@ title = c_herat
 # Settlements
 max_settlements = 3
 b_herat = castle
-b_karukh = city
+#b_karukh = city
 b_kushk = temple
 
 #b_gulran = castle
@@ -15,7 +15,7 @@ b_kushk = temple
 #b_zarghun = city
 #b_chishti = castle
 
-culture = persian
+culture = mongol
 religion = zoroastrian
 
 # History

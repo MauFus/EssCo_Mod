@@ -7,7 +7,7 @@ title = c_gurma
 max_settlements = 3
 b_gurma = castle
 #b_zorgho = city
-#b_hounde = temple
+b_hounde = temple
 
 # Misc
 culture = manden

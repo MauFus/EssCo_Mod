@@ -6,7 +6,7 @@ title = c_balkh
 # Settlements
 max_settlements = 4
 b_balkh = castle
-b_takhtisangin = castle
+#b_takhtisangin = castle
 
 b_termez = city
 #b_tiliatepe = temple
@@ -16,7 +16,7 @@ b_termez = city
 #b_surkhkotal = castle
 
 # Misc
-culture = persian
+culture = mongol
 religion = zoroastrian
 
 # History

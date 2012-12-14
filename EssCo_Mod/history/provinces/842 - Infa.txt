@@ -8,8 +8,8 @@ max_settlements = 4
 
 b_infa = castle
 b_rabat = city
-b_sale = temple
-b_tiflet = city
+#b_sale = temple
+#b_tiflet = city
 
 #b_berrechid = castle
 #b_azemmour = castle
@@ -21,14 +21,3 @@ culture = maghreb_arabic
 religion = sunni
 
 # History
-
-1066.1.1 = {
-	b_infa = ca_keep_1
-	b_infa = ca_training_grounds_1
-	b_infa = ca_keep_2
-	b_infa = ca_stable_1
-	b_infa = ca_barracks_1
-	b_infa = ca_militia_barracks_1
-	b_infa = ca_wall_1
-	b_infa = ca_wall_2
-}

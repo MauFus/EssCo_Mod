@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_ifni = castle
 b_tiznit = city
-b_ouaouteit = temple
+#b_ouaouteit = temple
 
 #b_rgab = castle
 #b_guelmim = castle

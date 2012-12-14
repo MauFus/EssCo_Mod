@@ -7,9 +7,9 @@ title = c_al_djazair
 max_settlements = 6
 
 b_algiers = castle
-b_tipasa = city
+#b_tipasa = city
 b_chiffa = temple
-b_sidiakacha = castle
+#b_sidiakacha = castle
 #b_rhedadoua = castle
 #b_elachour = castle
 #b_tirourda = castle

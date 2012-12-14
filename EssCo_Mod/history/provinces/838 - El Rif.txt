@@ -8,8 +8,8 @@ max_settlements = 4
 
 b_melilla = castle
 b_alhoceima = city
-b_midar = temple
-b_ketama = castle
+#b_midar = temple
+#b_ketama = castle
 
 #b_nador = castle
 #b_driouch = castle

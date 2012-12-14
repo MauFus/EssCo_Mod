@@ -7,7 +7,7 @@ title = c_oualata
 max_settlements = 2
 b_oualata = castle
 
-#b_tiguiguil = city
+b_tiguiguil = city
 #b_neiguiat = temple #Neïguiat
 #b_konou = castle
 #b_birnsara = castle #Bir Nsara

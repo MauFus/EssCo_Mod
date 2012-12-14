@@ -6,7 +6,7 @@ title = c_ghana
 # Settlements
 max_settlements = 4
 b_el_ghaba = castle
-b_koumbi_saleh = city
+#b_koumbi_saleh = city
 b_silla = temple
 
 #b_singhanah = castle

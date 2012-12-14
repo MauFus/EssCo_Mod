@@ -7,7 +7,7 @@ title = c_tlemcen
 max_settlements = 4
 
 b_tlemcen = castle
-b_sidibelabbes = city
+#b_sidibelabbes = city
 b_muaskar = temple
 
 #b_bedrabine = castle

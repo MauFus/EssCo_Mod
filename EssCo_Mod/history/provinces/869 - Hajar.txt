@@ -6,7 +6,7 @@ title = c_hajar
 # Settlements
 max_settlements = 4
 b_alhamra = castle
-b_nizwa = temple
+#b_nizwa = temple
 b_ibri = city
 
 #b_jabrin = castle

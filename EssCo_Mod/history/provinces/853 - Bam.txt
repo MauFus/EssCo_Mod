@@ -7,7 +7,7 @@ title = c_bam
 max_settlements = 3
 b_bampur = castle
 b_kaj = city
-b_bal_chah = temple
+#b_bal_chah = temple
 
 #b_baravat = castle
 #b_fahraj = castle

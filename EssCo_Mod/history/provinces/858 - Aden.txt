@@ -7,7 +7,7 @@ title = c_aden
 max_settlements = 6
 b_dhala = castle
 b_aden = city
-b_lahej = temple
+#b_lahej = temple
 
 #b_alawbhali = castle
 #b_jaar = castle

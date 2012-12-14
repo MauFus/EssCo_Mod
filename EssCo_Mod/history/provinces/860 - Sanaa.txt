@@ -7,12 +7,12 @@ title = c_sanaa
 max_settlements = 6
 b_marib = castle
 b_sanaa = temple
-b_dhamar = city
+#b_dhamar = city
 
 #b_qataba = city
 #b_jabalannabishuayb = temple
 #b_jabaltiyal = castle
-b_hodeida = castle
+#b_hodeida = castle
 #b_harib = city
 
 # Misc

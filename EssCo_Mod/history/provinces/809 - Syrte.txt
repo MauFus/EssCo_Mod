@@ -7,7 +7,7 @@ title = c_syrte
 max_settlements = 4
 
 b_syrte = castle
-b_abuhadi = city
+#b_abuhadi = city
 b_assultan = temple
 
 #b_assidr = castle

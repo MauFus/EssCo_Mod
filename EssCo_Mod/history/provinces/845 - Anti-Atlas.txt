@@ -7,9 +7,9 @@ title = c_anti-atlas
 max_settlements = 4
 
 b_agadir = castle
-b_tata = city
+#b_tata = city
 b_taroudaut = temple
-b_biourga = castle
+#b_biourga = castle
 #b_kasbaeljoua = castle
 #b_argana = castle
 #b_illrh = castle

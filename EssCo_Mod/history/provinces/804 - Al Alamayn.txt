@@ -7,7 +7,7 @@ title = c_al_alamayn
 max_settlements = 4
 b_elalamein = castle
 b_mersamatruh = city
-b_sidibarrani = temple
+#b_sidibarrani = temple
 
 #b_fuka = castle
 #b_katabathmos = castle

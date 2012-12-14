@@ -17,6 +17,6 @@ b_pescara = city
 
 # Misc
 culture = italian
-religion = catholic
+religion = fraticelli
 
 # History

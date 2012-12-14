@@ -14,6 +14,7 @@
 * Lollard heresy added in England
 * Cathar heresy added in Aquitaine
 * Waldesian heresy added in Burgundy
+* Fraticelli added in Italy
 
 ---------- Cultures ------------------------------
 * English culture event deleted
@@ -28,16 +29,20 @@
 * Lettigallian, Lithuanian and Prussian slightly enlarged
 * Croatian and Serbian have now some more counties
 * Pecheneg expanded in Taurica
+* Alan and Georgian enlarged
+* Added Mongols in Persian territories
+* Expanded Egyptian in Sinai
+* Enlarged Kurdish
 
 ---------- Characters ----------------------------
 * No initial de jure Duchies, Kingdoms or Empires
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-* Modded provinces to 801  +  826-827  +  850-851  +  929
-
 ! TODO - Lettigallian, German, Prussian, Polish, Hungarian, Bulgarian, 
 		 Romanian, Pecheneg, Ugricbaltic, Italian, Russian, Cuman, Alan
+		 Georgian, Armeniam, Greek, Kurdish, Levantine, Bedouin, Egytian
+		 Persian, Mongol, Ethiopian, Maghreb, Mandè, Komi, Turkish
 
 088 - ger
 089 - ger
@@ -323,6 +328,81 @@
 799 - egy
 800 - egy
 801 - egy
+802 - egy
+803 - egy
+804 - egy
+805 - egy
+806 - mag
+807 - mag
+809 - mag
+810 - mag
+815 - mag
+816 - mag
+821 - mag
+824 - mag
+825 - mag
+828 - mag
+831 - mag
+833 - mag
+834 - mag
+836 - mag
+837 - mag
+839 - mag
+842 - mag
+844 - mag
+845 - mag
+846 - mag
+848 - ger
+852 - per
+853 - per
+854 - per
+855 - bed
+856 - bed
+858 - bed
+859 - bed
+861 - bed
+866 - bed
+867 - bed
+868 - bed
+869 - bed
+870 - bed
+872 - eth
+873 - eth
+874 - eth
+876 - eth
+877 - eth
+878 - eth
+879 - eth
+881 - eth
+882 - eth
+883 - eth
+884 - eth
+885 - eth
+886 - kom
+887 - kom
+888 - kom
+889 - kom
+890 - kom
+891 - kom
+892 - kom
+893 - kom
+895 - kom
+897 - tur
+898 - tur
+899 - per
+901 - mon
+902 - mon
+903 - mon
+904 - mon
+905 - mon
+906 - per
+911 - man
+912 - man
+913 - man
+918 - mag
+919 - man
+922 - man
+926 - man
 929 - ita
 
 

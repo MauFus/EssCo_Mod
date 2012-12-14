@@ -8,7 +8,7 @@ max_settlements = 3
 b_aoudaghost = castle
 
 #b_tichitt = city
-#b_moudjeria = temple
+b_moudjeria = temple
 #b_ksarelbarka = castle #Ksar-el-Barka
 
 # Misc

@@ -7,9 +7,9 @@ title = c_bizerte
 max_settlements = 5
 
 b_bizerte = castle
-b_tunbeja = temple
+#b_tunbeja = temple
 b_jendouba = city
-b_ghezala = castle
+#b_ghezala = castle
 
 #b_almatin = castle
 #b_manziljamal = castle

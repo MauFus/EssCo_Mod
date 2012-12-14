@@ -6,7 +6,7 @@ title = c_halaban
 # Settlements
 max_settlements = 2
 b_afif = castle
-#b_badaiidyan = city
+b_badaiidyan = city
 #b_alqaiyah = temple
 
 #b_aljammaniyah = castle

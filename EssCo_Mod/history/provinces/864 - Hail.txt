@@ -7,7 +7,7 @@ title = c_hail
 max_settlements = 2
 b_hail = castle
 #b_asshinan = temple
-#b_alghazalah = city
+b_alghazalah = city
 
 #b_baqa = castle
 #b_iqdah = castle

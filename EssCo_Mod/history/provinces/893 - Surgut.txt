@@ -7,7 +7,7 @@ title = c_surgut
 max_settlements = 3
 b_surgut = castle
 b_iberbolgar = city
-b_belyyyar = temple
+#b_belyyyar = temple
 
 #b_baduk = castle
 #b_kaik = castle

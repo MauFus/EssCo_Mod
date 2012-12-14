@@ -7,7 +7,7 @@ title = c_duqm
 max_settlements = 3
 b_duqm = castle
 #b_aljazir = temple
-#b_bank = city
+b_bank = city
 
 #b_harima = castle
 #b_nimr = castle

@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_ginbo = castle
 
-b_bonga = city
+#b_bonga = city
 b_gishabay = temple
 #b_wacha = castle
 #b_chiri = castle

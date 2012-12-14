@@ -7,8 +7,8 @@ title = c_benghazi
 max_settlements = 5
 b_benghazi = castle
 b_barca = city
-b_oriana = temple
-b_tulmaytath = castle
+#b_oriana = temple
+#b_tulmaytath = castle
 
 #b_ajdabiya = castle
 #b_tansulukh = castle

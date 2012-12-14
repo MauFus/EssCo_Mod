@@ -6,7 +6,7 @@ title = c_kyzylorda
 # Settlements
 max_settlements = 4
 b_akmechet = castle
-b_kyzylorda = city
+#b_kyzylorda = city
 b_kazaly = temple
 
 #b_terenuzyak = castle

@@ -7,7 +7,7 @@ title = c_zahedan
 max_settlements = 3
 b_zahedan = castle
 b_khajeh = temple
-b_kuhtaftan = city
+#b_kuhtaftan = city
 
 #b_golchah = city
 #b_hamun = castle
