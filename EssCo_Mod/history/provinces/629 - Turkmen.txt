@@ -6,7 +6,7 @@ title = c_turkmen
 # Settlements
 max_settlements = 3
 b_farava = castle
-b_abiward = temple
+#b_abiward = temple
 
 b_nisa = city
 #b_gokdepe = castle
@@ -16,7 +16,7 @@ b_nisa = city
 #b_sarahs = castle
 
 # Misc
-culture = persian
+culture = mongol
 religion = zoroastrian
 
 # History

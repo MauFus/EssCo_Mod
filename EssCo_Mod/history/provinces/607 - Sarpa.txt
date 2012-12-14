@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_elst = castle
 b_bachanta = city
-b_ikburul = temple
+#b_ikburul = temple
 
 #b_karatchaplak = castle
 #b_ketchenery = castle
@@ -16,7 +16,7 @@ b_ikburul = temple
 #b_yashalta = city
 #b_ysaganaman = temple
 
-culture = cuman
+culture = alan
 religion = tengri_pagan
 
 # History

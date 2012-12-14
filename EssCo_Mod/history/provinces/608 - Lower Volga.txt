@@ -9,7 +9,7 @@ max_settlements = 3
 b_sarysu = castle
 
 b_tsaritsyn = city
-b_kamyshin = temple
+#b_kamyshin = temple
 
 #b_petrovval = city
 #b_serebrjakovo = castle

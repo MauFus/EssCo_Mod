@@ -8,7 +8,7 @@ title = c_aral
 max_settlements = 4
 b_akdzulpas = castle
 b_aralsk = city
-b_sapak = temple
+#b_sapak = temple
 
 #b_aralkum = castle
 #b_kosskul = castle

@@ -9,10 +9,10 @@ b_itil = castle
 b_xacitarxan = city 
 
 #b_khaganbaligh = city
-b_saqsin = temple
+#b_saqsin = temple
 #b_kharabali = castle
 #b_kamyzyak = castle
-b_tumak = castle
+#b_tumak = castle
 #b_alga = castle
 
 # Misc

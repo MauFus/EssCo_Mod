@@ -7,7 +7,7 @@ title = c_dihistan
 max_settlements = 3
 b_akhur = castle
 b_bayatkhadzi = city
-b_gasankuli = temple
+#b_gasankuli = temple
 
 #b_kumdag = castle
 #b_torskhali = castle
@@ -16,7 +16,7 @@ b_gasankuli = temple
 #b_kemir = castle
 
 # Misc
-culture = persian
+culture = mongol
 religion = zoroastrian
 
 # History

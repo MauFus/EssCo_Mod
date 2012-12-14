@@ -6,7 +6,7 @@ title = c_gurgan
 # Settlements
 max_settlements = 3
 b_gurgan = castle
-b_gonbadeqabus = city
+#b_gonbadeqabus = city
 b_komishdepa = temple
 
 #b_ramian = city

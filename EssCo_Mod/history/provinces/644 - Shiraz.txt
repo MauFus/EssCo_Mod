@@ -7,7 +7,7 @@ title = c_shiraz
 max_settlements =4
 b_shiraz = castle
 b_bishapur = city
-b_estakhr = temple
+#b_estakhr = temple
 
 #b_persepolis = castle
 #b_azargarta = castle

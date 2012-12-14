@@ -7,7 +7,7 @@ title = c_maverannahr
 max_settlements = 5
 b_darvaza = castle
 b_beruni = city
-b_kuskupir = temple
+#b_kuskupir = temple
 
 #b_tahta = castle
 #b_kizketken = castle
@@ -16,7 +16,7 @@ b_kuskupir = temple
 #b_nukus = city
 
 # Misc
-culture = persian
+culture = mongol
 religion = zoroastrian
 
 # History

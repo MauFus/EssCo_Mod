@@ -6,8 +6,8 @@ title = c_ladistan
 # Settlements
 max_settlements = 5
 b_lad = castle
-b_bandarkhamir = castle
-b_khonj = city
+#b_bandarkhamir = castle
+#b_khonj = city
 
 b_evaz = temple
 #b_morbagh = castle

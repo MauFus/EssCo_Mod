@@ -7,7 +7,7 @@ title = c_bahrein
 max_settlements = 4
 b_umm_al_nasan = castle
 b_manama = city
-b_muharraq = temple
+#b_muharraq = temple
 
 #b_sitra = castle
 #b_jidda = castle

@@ -7,8 +7,8 @@ title = c_avhaz
 max_settlements = 5
 b_shushtar = castle
 b_dezful = city
-b_helen = temple
-b_idhaj = castle
+#b_helen = temple
+#b_idhaj = castle
 
 #b_masjedsoleyman = castle
 #b_shahrekord = castle

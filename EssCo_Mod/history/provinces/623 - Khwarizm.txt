@@ -7,8 +7,8 @@ title = c_khwarizm
 max_settlements = 6
 b_kassarma = castle
 b_kuljandi = city
-b_kaszkarata = castle
-b_dawletgirei = temple
+#b_kaszkarata = castle
+#b_dawletgirei = temple
 
 #b_aszczeatrik = city
 #b_kosbulak = castle
@@ -16,7 +16,7 @@ b_dawletgirei = temple
 #b_karakul = castle
 
 # Misc
-culture = persian
+culture = mongol
 religion = zoroastrian
 
 # History

@@ -6,10 +6,10 @@ title = c_saray
 # Settlements
 max_settlements = 6
 b_akhtuba = castle
-b_chernyyar = castle
+#b_chernyyar = castle
 
 b_saray = city
-b_tsaganaman = temple
+#b_tsaganaman = temple
 #b_pokrovka = castle
 #b_bataevka = castle
 #b_uspenka = castle

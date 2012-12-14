@@ -6,17 +6,17 @@ title = c_merv
 # Settlements
 max_settlements = 5
 b_merv = castle
-b_yoloten = castle
+#b_yoloten = castle
 
 b_bayramaly = city
-b_tagtabazar = temple
+#b_tagtabazar = temple
 #b_gulanly = castle
 #b_sakarcage = city
 #b_wekilbazar = castle
 #b_kushka = castle
 
 # Misc
-culture = persian
+culture = mongol
 religion = zoroastrian
 
 # History

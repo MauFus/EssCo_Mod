@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_orenburg = castle
 b_kargala = city
-b_saraktash = temple
+#b_saraktash = temple
 
 #b_sakmara = castle
 #b_khutorka = castle

@@ -34,9 +34,10 @@
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-* Modded provinces to 600  +  826-827  +  850
+* Modded provinces to 660  +  826-827  +  850-851  +  929
 
-! TODO - Lettigallian, German, Prussian, Polish, Hungarian, Bulgarian, Romanian, Pecheneg, Ugricbaltic
+! TODO - Lettigallian, German, Prussian, Polish, Hungarian, Bulgarian, 
+		 Romanian, Pecheneg, Ugricbaltic, Italian, Russian, Cuman, Alan
 
 088 - ger
 089 - ger
@@ -206,6 +207,47 @@
 595 - cum
 598 - ala
 600 - geo
+605 - ala
+607 - ala
+608 - cum
+610 - cum
+611 - cum
+612 - kom
+613 - cum
+614 - cum
+618 - tur
+619 - tur
+621 - tur
+622 - tur
+625 - mon
+626 - mon
+629 - mon
+630 - mon
+631 - mon
+632 - per
+633 - per
+634 - per
+635 - per
+636 - per
+638 - per
+639 - per
+640 - per
+641 - per
+642 - per
+643 - per
+644 - per
+648 - per
+649 - bed
+651 - bed
+652 - bed
+654 - bed
+655 - bed
+656 - lev
+657 - per
+658 - per
+659 - per
+660 - per
+929 - ita
 
 
 ---------- De Jure Duchies -----------------------

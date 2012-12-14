@@ -7,7 +7,7 @@ title = c_zermanya
 max_settlements = 4
 b_sirjan = castle
 b_faragheh = city
-b_borougheeyeh = temple
+#b_borougheeyeh = temple
 
 #b_shahrbabak = castle
 #b_abarkuh = castle

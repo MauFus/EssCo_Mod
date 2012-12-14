@@ -7,7 +7,7 @@ title = c_qohistan
 max_settlements = 4
 b_torshiz = castle
 b_beyhaq = city
-b_gonabad = temple
+#b_gonabad = temple
 
 #b_torbatjam = temple
 #b_kalat = castle

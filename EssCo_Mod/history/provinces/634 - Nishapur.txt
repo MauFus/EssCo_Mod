@@ -8,7 +8,7 @@ max_settlements = 4
 b_nishapur = castle
 b_tus = city
 
-b_jajarm = temple
+#b_jajarm = temple
 #b_daregaz = city
 #b_akhlamad = castle
 #b_quchan = castle
