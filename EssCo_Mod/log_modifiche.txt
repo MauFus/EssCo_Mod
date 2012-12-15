@@ -40,34 +40,14 @@
 
 ---------- Provinces -----------------------------
 ! TODO - Lettigallian, Prussian, Polish, Hungarian, Bulgarian, 
-		 Romanian, Pecheneg, Ugricbaltic, Italian, Russian, Cuman, Alan
-		 Georgian, Armeniam, Greek, Kurdish, Levantine, Bedouin, Egytian
+		 Romanian, Pecheneg, Ugricbaltic, Russian, Cuman, Alan
+		 Georgian, Greek, Kurdish, Levantine, Bedouin, Egytian
 		 Persian, Mongol, Ethiopian, Maghreb, Mandè, Komi, Turkish
 
-231 - ita
-234 - ita
-235 - ita
-236 - ita
 299 - per
-318 - ita
-319 - ita
-322 - ita
-324 - ita
-328 - ita
-329 - ita
-330 - ita
-331 - ita
-332 - ita
-335 - ita
 338 - gre
 339 - gre
 343 - mag
-344 - ita
-347 - ita
-348 - ita
-349 - ita
-350 - ita
-351 - ita
 368 - pru
 369 - pru
 372 - let
@@ -245,7 +225,6 @@
 676 - geo
 677 - geo
 680 - geo
-681 - arm
 684 - kur
 685 - kur
 686 - kur
@@ -254,12 +233,7 @@
 694 - lev
 695 - kur
 697 - kur
-669 - arm
 700 - lev
-701 - arm
-703 - arm
-704 - arm
-707 - arm
 709 - lev
 711 - lev
 719 - bed
@@ -273,7 +247,6 @@
 728 - lev
 730 - lev
 733 - lev
-736 - arm
 738 - gre
 741 - gre
 742 - gre
@@ -289,7 +262,6 @@
 756 - gre
 758 - gre
 760 - gre
-762 - arm
 763 - gre
 764 - gre
 774 - lev
@@ -385,7 +357,6 @@
 919 - man
 922 - man
 926 - man
-929 - ita
 
 
 ---------- De Jure Duchies -----------------------

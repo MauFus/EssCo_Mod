@@ -8,7 +8,7 @@
 	holder = 1126 #Humphrey I de Hauteville 
 } 
 1057.1.1={ 
-	holder=1128 #Robert I de Hauteville 
+	holder=73343
 } 
 1085.7.17={ 
 	holder = 1142 #Roger I de Hauteville 
