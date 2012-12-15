@@ -232,11 +232,11 @@
 	culture="alan"
 	add_trait="ill"
 	add_trait="flamboyant_schemer"
-	1150.1.1={
-		birth="1150.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1200.1.1={
-		death="1200.1.1"
+	1100.1.1={
+		death="1100.1.1"
 	}
 }
 
@@ -252,11 +252,11 @@
 	culture="alan"
 	add_trait="just"
 	add_trait="martial_cleric"
-	1150.1.1={
-		birth="1150.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1200.1.1={
-		death="1200.1.1"
+	1100.1.1={
+		death="1100.1.1"
 	}
 }
 

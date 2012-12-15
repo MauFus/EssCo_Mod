@@ -40,8 +40,8 @@
 
 ---------- Provinces -----------------------------
 ! TODO - Lettigallian, Prussian, Polish, Hungarian, Bulgarian, 
-		 Romanian, Pecheneg, Ugricbaltic, Russian, Cuman, Alan
-		 Georgian, Greek, Kurdish, Levantine, Bedouin, Egytian
+		 Romanian, Pecheneg, Ugricbaltic, Russian, Cuman,
+		 Greek, Kurdish, Levantine, Bedouin, Egytian
 		 Persian, Mongol, Ethiopian, Maghreb, Mandè, Komi, Turkish
 
 299 - per
@@ -173,10 +173,6 @@
 587 - rus
 593 - cum
 595 - cum
-598 - ala
-600 - geo
-605 - ala
-607 - ala
 608 - cum
 610 - cum
 611 - cum
@@ -220,11 +216,6 @@
 666 - kur
 667 - kur
 670 - kur
-673 - geo
-674 - geo
-676 - geo
-677 - geo
-680 - geo
 684 - kur
 685 - kur
 686 - kur

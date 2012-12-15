@@ -158,13 +158,11 @@
 	religion="orthodox"
 	culture="georgian"
 	add_trait="amateurish_plotter"
-	father=232753
-	mother=232750
-	1121.1.1={
-		birth="1121.1.1"
+	1021.1.1={
+		birth="1021.1.1"
 	}
-	1180.1.1={
-		death="1180.1.1"
+	1080.1.1={
+		death="1080.1.1"
 	}
 }
 
@@ -263,11 +261,11 @@
 	add_trait="humble"
 	add_trait="zealous"
 	add_trait="scholarly_theologian"
-	1165.1.2={
-		birth="1165.1.2"
+	1065.1.2={
+		birth="1065.1.2"
 	}
-	1215.1.2={
-		death="1215.1.2"
+	1115.1.2={
+		death="1115.1.2"
 	}
 }
 
