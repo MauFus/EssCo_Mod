@@ -45,8 +45,6 @@
 		 Persian, Mongol, Ethiopian, Maghreb, Mandè, Komi, Turkish
 
 299 - per
-338 - gre
-339 - gre
 343 - mag
 368 - pru
 369 - pru
@@ -99,16 +97,6 @@
 469 - ser
 470 - ser
 471 - ser
-474 - gre
-478 - gre
-480 - gre
-483 - gre
-485 - gre
-487 - gre
-490 - gre
-493 - gre
-494 - gre
-497 - gre
 499 - bul
 500 - bul
 502 - ser
@@ -238,23 +226,6 @@
 728 - lev
 730 - lev
 733 - lev
-738 - gre
-741 - gre
-742 - gre
-743 - gre
-744 - gre
-746 - gre
-747 - gre
-749 - gre
-751 - gre
-752 - gre
-753 - gre
-754 - gre
-756 - gre
-758 - gre
-760 - gre
-763 - gre
-764 - gre
 774 - lev
 776 - lev
 777 - lev

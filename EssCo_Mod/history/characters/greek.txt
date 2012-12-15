@@ -282,13 +282,11 @@
 	dynasty=101107
 	religion="orthodox"
 	culture="greek"
-	father=215670
-	mother=215671
-	1172.1.2={
-		birth="1172.1.2"
+	1062.1.2={
+		birth="1062.1.2"
 	}
-	1205.3.20={
-		death="1205.3.20"
+	1095.3.20={
+		death="1095.3.20"
 	}
 }
 
@@ -328,15 +326,14 @@
 	dynasty=101274
 	religion="orthodox"
 	culture="greek"
-	father=215034
-	1185.1.1={
-		birth="1185.1.1"
+	1065.1.1={
+		birth="1065.1.1"
 	}
 	1216.1.1={
 		add_spouse=125718
 	}
-	1235.1.1={
-		death="1235.1.1"
+	1115.1.1={
+		death="1115.1.1"
 	}
 }
 
@@ -3199,12 +3196,11 @@
 	add_trait="temperate"
 	add_trait="patient"
 	add_trait="grey_eminence"
-	father=232501
-	1155.1.1={
-		birth="1155.1.1"
+	1055.1.1={
+		birth="1055.1.1"
 	}
-	1216.1.1={
-		death="1216.1.1"
+	1116.1.1={
+		death="1116.1.1"
 	}
 }
 
@@ -3241,11 +3237,11 @@
 	add_trait="arbitrary"
 	add_trait="zealous"
 	add_trait="scholarly_theologian"
-	1137.1.1={
-		birth="1137.1.1"
+	1037.1.1={
+		birth="1037.1.1"
 	}
-	1187.1.1={
-		death="1187.1.1"
+	1087.1.1={
+		death="1087.1.1"
 	}
 }
 
@@ -3261,11 +3257,11 @@
 	add_trait="proud"
 	add_trait="wroth"
 	add_trait="scholarly_theologian"
-	1150.1.1={
-		birth="1150.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1200.1.1={
-		death="1200.1.1"
+	1100.1.1={
+		death="1100.1.1"
 	}
 }
 
@@ -3327,11 +3323,11 @@
 	add_trait="arbitrary"
 	add_trait="lisp"
 	add_trait="amateurish_plotter"
-	1149.1.1={
-		birth="1149.1.1"
+	1049.1.1={
+		birth="1049.1.1"
 	}
-	1204.8.1={
-		death="1204.8.1"
+	1104.8.1={
+		death="1104.8.1"
 	}
 }
 
@@ -3347,11 +3343,11 @@
 	add_trait="cynical"
 	add_trait="proud"
 	add_trait="martial_cleric"
-	1159.1.1={
-		birth="1159.1.1"
+	1059.1.1={
+		birth="1059.1.1"
 	}
-	1198.1.1={
-		death="1198.1.1"
+	1098.1.1={
+		death="1098.1.1"
 	}
 }
 
@@ -11954,6 +11950,7 @@
 
 96102 = {
 	name="Mauros"
+	dynasty=101144
 	religion="catholic"
 	culture="greek"
 	1056.1.1={
