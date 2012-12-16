@@ -39,16 +39,13 @@
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-! TODO - Lettigallian, Prussian, Polish, Hungarian, Bulgarian, 
+! TODO - Polish, Hungarian, Bulgarian, 
 		 Romanian, Pecheneg, Russian, Cuman,
 		 Greek, Kurdish, Levantine, Bedouin, Egytian
 		 Persian, Mongol, Ethiopian, Maghreb, Mandè, Turkish
 
 299 - per
 343 - mag
-368 - pru
-369 - pru
-372 - let
 406 - rus
 407 - rus
 408 - rus
@@ -57,13 +54,6 @@
 412 - rus
 414 - rus
 415 - rus
-416 - let
-419 - lit
-420 - lit
-422 - pru
-424 - lit
-425 - lit
-426 - pru
 428 - pol
 429 - pol
 430 - pol
@@ -101,7 +91,6 @@
 525 - hun
 526 - pol
 528 - pol
-529 - pru
 530 - pol
 531 - pol
 532 - pol
@@ -115,9 +104,7 @@
 545 - rom
 546 - rus
 547 - rus
-548 - lit
 549 - rus
-550 - lit
 551 - rus
 552 - rus
 553 - rus
