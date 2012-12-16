@@ -19856,3 +19856,33 @@
 	name="Melik-Avanyan"
 	culture = armenian
 }
+
+# New Dynasties
+2109001={
+	name="of Surgut"
+	culture = komi
+}
+2109002={
+	name="of Oral"
+	culture = komi
+}
+2109003={
+	name="Valkoinen"
+	culture = komi
+}
+2109004={
+	name="kotha Gorodez"
+	culture = ugricbaltic
+}
+2109005={
+	name="kotha Bor"
+	culture = ugricbaltic
+}
+2109006={
+	name="kotha Suzdal"
+	culture = ugricbaltic
+}
+2109007={
+	name="kotha Vladimir"
+	culture = ugricbaltic
+}

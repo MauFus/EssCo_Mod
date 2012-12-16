@@ -16,7 +16,7 @@ b_yuryevpolsky = temple
 #b_kosterevo = castle
 
 # Misc
-culture = russian
+culture = ugricbaltic
 religion = orthodox
 
 # History

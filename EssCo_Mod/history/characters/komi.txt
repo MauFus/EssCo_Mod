@@ -1,0 +1,261 @@
+161720 = {
+	name="Pyera"
+	dynasty=151
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+161721 = {
+	name="Azeg"
+	dynasty=200001
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161722 = {
+	name="Arti"
+	dynasty=200002
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161723 = {
+	name="Zarny"
+	dynasty=200003
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161724 = {
+	name="Parush"
+	dynasty=200004
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161725 = {
+	name="Varaka"
+	dynasty=200005
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161726 = {
+	name="Chuga"
+	dynasty=200006
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161727 = {
+	name="Tugan"
+	dynasty=200007
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161728 = {
+	name="Nylog"
+	dynasty=200008
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161729 = {
+	name="Sarin"
+	dynasty=200009
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161730 = {
+	name="Aro"
+	dynasty=2000010
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+161731 = {
+	name="Hannu"
+	dynasty=200011
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161732 = {
+	name="Jencin"
+	dynasty=200012
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161733 = {
+	name="Kai"
+	dynasty=2109003
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161734 = {
+	name="Mika"
+	dynasty=200014
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161735 = {
+	name="Nikolaus"
+	dynasty=200015
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161736 = {
+	name="Paavo"
+	dynasty=200016
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161737 = {
+	name="Teuvo"
+	dynasty=200017
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161738 = {
+	name="Vihtori"
+	dynasty=2109001
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161739 = {
+	name="Riko"
+	dynasty=2109002
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}

@@ -40,26 +40,15 @@
 
 ---------- Provinces -----------------------------
 ! TODO - Lettigallian, Prussian, Polish, Hungarian, Bulgarian, 
-		 Romanian, Pecheneg, Ugricbaltic, Russian, Cuman,
+		 Romanian, Pecheneg, Russian, Cuman,
 		 Greek, Kurdish, Levantine, Bedouin, Egytian
-		 Persian, Mongol, Ethiopian, Maghreb, Mandè, Komi, Turkish
+		 Persian, Mongol, Ethiopian, Maghreb, Mandè, Turkish
 
 299 - per
 343 - mag
 368 - pru
 369 - pru
 372 - let
-393 - kom
-394 - kom
-395 - kom
-396 - kom
-398 - kom
-399 - kom
-400 - kom
-401 - kom
-402 - kom
-404 - kom
-405 - kom
 406 - rus
 407 - rus
 408 - rus
@@ -153,18 +142,12 @@
 578 - rus
 580 - rus
 581 - rus
-582 - ugr
-583 - ugr
-584 - ugr
-585 - ugr
-586 - ugr
 587 - rus
 593 - cum
 595 - cum
 608 - cum
 610 - cum
 611 - cum
-612 - kom
 613 - cum
 614 - cum
 618 - tur
@@ -294,15 +277,6 @@
 883 - eth
 884 - eth
 885 - eth
-886 - kom
-887 - kom
-888 - kom
-889 - kom
-890 - kom
-891 - kom
-892 - kom
-893 - kom
-895 - kom
 897 - tur
 898 - tur
 899 - per
