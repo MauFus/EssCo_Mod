@@ -6230,11 +6230,11 @@ b_vetlanda;Vetlanda;Vetlanda;Vetlanda;;Vetlanda;;;;;;;;;x
 e_rebels;Rebels;Rebelles;Rebellen;;Rebeldes;;;;;;;;;x
 e_rebels_adj;Rebel;Rebelle;Rebellen;;Rebelde;;;;;;;;;x
 e_pirates;Pirates;Pirates;Piraten;;Piratas;;;;;;;;;x
-e_hre;Holy Roman Empire;Saint-Empire Romain;Heiliges Römisches Reich;;Sacro Imperio;;;;;;;;;x
+e_hre;Sacro Romano Impero;Saint-Empire Romain;Heiliges Römisches Reich;;Sacro Imperio;;;;;;;;;x
 e_hre_adj;Holy Roman;Impériale;Heilig Römischer;;Germánica;;;;;;;;;x
-e_byzantium;Byzantine Empire;Empire Byzantin;Byzantinisches Kaiserreich;;Imperio Bizantino;;;;;;;;;x
+e_byzantium;Impero Bizantino;Empire Byzantin;Byzantinisches Kaiserreich;;Imperio Bizantino;;;;;;;;;x
 e_byzantium_adj;Byzantine;Byzantine;Byzantinischer;;Bizantina;;;;;;;;;x
-e_latin_empire;Latin Empire;Empire Latin;Lateinisches Kaiserreich;;Imperio Latino;;;;;;;;;x
+e_latin_empire;Impero Romano;Empire Latin;Lateinisches Kaiserreich;;Imperio Latino;;;;;;;;;x
 e_latin_empire_adj;Latin;Latine;Lateinischer;;Latina;;;;;;;;;x
 d_charsianon;Charsianon;Charsianon;Charsianon;;Charsianon;;;;;;;;;x
 d_charsianon_adj;Charsianine;Charsianine;Charsianiner;;Charsianonesa;;;;;;;;;x
