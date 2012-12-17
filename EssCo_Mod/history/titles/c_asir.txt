@@ -1,5 +1,5 @@
 1061.1.1={ 
-	holder=34046 # Hussayn - not actually the Emir of Mecca (it was Abul-Hashim ibn Muhammed ) 
+	holder=20888
 } 
 1094.1.1={ 
 	holder=34047 # Issa - not actually the Emir of Mecca (it was Ibn Abul-Hashim Al-Thalab ) 

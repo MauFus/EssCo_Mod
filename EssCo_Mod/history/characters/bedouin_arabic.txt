@@ -531,6 +531,7 @@
 
 20882 = {
 	name="Jawhar"
+	dynasty=7506
 	martial=6
 	diplomacy=5
 	intrigue=6
@@ -972,8 +973,8 @@
 	1025.1.2={
 		birth="1025.1.2"
 	}
-	1066.1.31={
-		death="1066.1.31"
+	1068.1.31={
+		death="1068.1.31"
 	}
 }
 
@@ -1556,11 +1557,11 @@
 	stewardship=4
 	religion="shiite"
 	culture="bedouin_arabic"
-	1070.1.1={
-		birth="1070.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1109.1.1={
-		death="1109.1.1"
+	1089.1.1={
+		death="1089.1.1"
 	}
 }
 
@@ -6761,30 +6762,28 @@
 
 163044 = {
 	name="Abdullah" # Fathite Imam
-	dynasty=589
+	dynasty=20128
 	religion="shiite"
 	culture="bedouin_arabic"
-	father=33915
 	add_trait="sayyid"
-	720.1.1={
-		birth="720.1.1"
+	1030.1.1={
+		birth="1030.1.1"
 	}
-	766.1.1={
-		death="766.1.1"
+	1076.1.1={
+		death="1076.1.1"
 	}
 }
 
 163045 = {
 	name="Muhammad" #Muhammadite Imam
-	dynasty=589
+	dynasty=100649
 	religion="shiite"
 	culture="bedouin_arabic"
-	father=163025
 	add_trait="sayyid"
-	848.1.1={
-		birth="848.1.1"
+	1058.1.1={
+		birth="1058.1.1"
 	}
-	861.1.1={
-		death="861.1.1"
+	1071.1.1={
+		death="1071.1.1"
 	}
 }

@@ -39,9 +39,8 @@
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-! TODO - Polish, Hungarian, Bulgarian, 
-		 Romanian, Russian,
-		 Kurdish, Levantine, Bedouin, Egytian
+! TODO - Polish, Hungarian, Bulgarian, Romanian, Russian,
+		 Kurdish, Levantine, Egytian,
 		 Persian, Ethiopian, Maghreb, Mandè
 
 299 - per
@@ -137,11 +136,6 @@
 643 - per
 644 - per
 648 - per
-649 - bed
-651 - bed
-652 - bed
-654 - bed
-655 - bed
 656 - lev
 657 - kur
 658 - per
@@ -163,8 +157,6 @@
 700 - lev
 709 - lev
 711 - lev
-719 - bed
-720 - bed
 721 - lev
 722 - egy
 724 - lev
@@ -220,16 +212,6 @@
 852 - per
 853 - per
 854 - per
-855 - bed
-856 - bed
-858 - bed
-859 - bed
-861 - bed
-866 - bed
-867 - bed
-868 - bed
-869 - bed
-870 - bed
 872 - eth
 873 - eth
 874 - eth
