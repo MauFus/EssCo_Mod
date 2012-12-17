@@ -13055,7 +13055,10 @@ e_france = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -13068,7 +13071,10 @@ e_france = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -13081,7 +13087,10 @@ e_france = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -13094,7 +13103,10 @@ e_france = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -13107,7 +13119,10 @@ e_france = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -13120,7 +13135,10 @@ e_france = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -13133,7 +13151,10 @@ e_france = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -13146,7 +13167,10 @@ e_france = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -13159,7 +13183,10 @@ e_france = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -14674,7 +14701,10 @@ e_spain = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -14688,7 +14718,10 @@ e_spain = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -14701,7 +14734,10 @@ e_spain = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -14715,7 +14751,10 @@ e_spain = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -14729,7 +14768,10 @@ e_spain = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -14743,7 +14785,10 @@ e_spain = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}	
 		}
@@ -14757,7 +14802,10 @@ e_spain = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -18733,7 +18781,10 @@ e_britannia = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -18746,7 +18797,10 @@ e_britannia = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -18759,7 +18813,10 @@ e_britannia = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -18772,7 +18829,10 @@ e_britannia = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -18785,7 +18845,10 @@ e_britannia = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -18798,7 +18861,10 @@ e_britannia = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -18811,7 +18877,10 @@ e_britannia = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -18824,7 +18893,10 @@ e_britannia = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -18837,7 +18909,10 @@ e_britannia = {
 		allow = {
 			NOT = {
 				any_demesne_title = {
-					tier = king
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -24835,7 +24910,10 @@ k_holland = {
 	allow = {
 		NOT = {
 			any_demesne_title = {
-				tier = king
+				OR = {
+						tier = king
+						tier = emperor
+					}
 			}
 		}
 	}
@@ -24848,7 +24926,10 @@ k_belgium = {
 	allow = {
 		NOT = {
 			any_demesne_title = {
-				tier = king
+				OR = {
+						tier = king
+						tier = emperor
+					}
 			}
 		}
 	}
