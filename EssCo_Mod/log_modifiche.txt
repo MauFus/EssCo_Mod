@@ -40,9 +40,9 @@
 
 ---------- Provinces -----------------------------
 ! TODO - Polish, Hungarian, Bulgarian, 
-		 Romanian, Pecheneg, Russian, Cuman,
-		 Greek, Kurdish, Levantine, Bedouin, Egytian
-		 Persian, Mongol, Ethiopian, Maghreb, Mandè, Turkish
+		 Romanian, Russian,
+		 Kurdish, Levantine, Bedouin, Egytian
+		 Persian, Ethiopian, Maghreb, Mandè
 
 299 - per
 343 - mag
@@ -110,12 +110,6 @@
 553 - rus
 554 - rus
 555 - rus
-559 - pec
-561 - pec
-562 - pec
-564 - cum
-565 - cum
-566 - cum
 567 - rus
 568 - rus
 569 - rus
@@ -130,22 +124,6 @@
 580 - rus
 581 - rus
 587 - rus
-593 - cum
-595 - cum
-608 - cum
-610 - cum
-611 - cum
-613 - cum
-614 - cum
-618 - tur
-619 - tur
-621 - tur
-622 - tur
-625 - mon
-626 - mon
-629 - mon
-630 - mon
-631 - mon
 632 - per
 633 - per
 634 - per
@@ -264,14 +242,7 @@
 883 - eth
 884 - eth
 885 - eth
-897 - tur
-898 - tur
 899 - per
-901 - mon
-902 - mon
-903 - mon
-904 - mon
-905 - mon
 906 - per
 911 - man
 912 - man
@@ -303,6 +274,8 @@
 
 ---------- De Jure Empires -----------------------
 * New titular kingdoms added in correct de jure empire
+* Create Italica, Altaica, Africa and Centre-Europe
+* Some kingdom drifts between empires
 
 ---------- Titular Kingdoms ----------------------
 * Added Ulster and Leinster in Ireland

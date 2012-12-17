@@ -200,40 +200,40 @@
 
 34802 = {
 	name="Bula"
-	#placeholder
+	dynasty=7323
 	religion="tengri_pagan"
 	culture="pecheneg"
-	1070.1.1={
-		birth="1070.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1120.1.1={
-		death="1120.1.1"
+	1100.1.1={
+		death="1100.1.1"
 	}
 }
 
 34803 = {
 	name="Yeke"
-	#placeholder
+	dynasty=7324
 	religion="tengri_pagan"
 	culture="pecheneg"
-	1100.1.1={
-		birth="1100.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1150.1.1={
-		death="1150.1.1"
+	1100.1.1={
+		death="1100.1.1"
 	}
 }
 
 34804 = {
 	name="Ildey"
-	#placeholder
+	dynasty=8635
 	religion="tengri_pagan"
 	culture="pecheneg"
-	1130.1.1={
-		birth="1130.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1171.1.1={
-		death="1171.1.1"
+	1100.1.1={
+		death="1100.1.1"
 	}
 }
 
