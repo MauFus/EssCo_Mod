@@ -40,11 +40,9 @@
 
 ---------- Provinces -----------------------------
 ! TODO - Polish, Hungarian, Bulgarian, Romanian, Russian,
-		 Kurdish, Levantine, Egytian,
-		 Persian, Ethiopian, Maghreb, Mandè
+		 Kurdish, Persian, Ethiopian, Mandè
 
 299 - per
-343 - mag
 406 - rus
 407 - rus
 408 - rus
@@ -136,7 +134,6 @@
 643 - per
 644 - per
 648 - per
-656 - lev
 657 - kur
 658 - per
 659 - per
@@ -151,64 +148,9 @@
 686 - kur
 687 - kur
 689 - kur
-694 - lev
 695 - kur
 697 - kur
-700 - lev
-709 - lev
-711 - lev
-721 - lev
-722 - egy
-724 - lev
-725 - lev
-726 - lev
-727 - lev
-728 - lev
-730 - lev
-733 - lev
-774 - lev
-776 - lev
-777 - lev
-778 - lev
-780 - lev
-785 - egy
-787 - egy
-788 - egy
-789 - egy
-790 - egy
-791 - egy
 793 - eth
-794 - egy
-795 - egy
-797 - egy
-798 - egy
-799 - egy
-800 - egy
-801 - egy
-802 - egy
-803 - egy
-804 - egy
-805 - egy
-806 - mag
-807 - mag
-809 - mag
-810 - mag
-815 - mag
-816 - mag
-821 - mag
-824 - mag
-825 - mag
-828 - mag
-831 - mag
-833 - mag
-834 - mag
-836 - mag
-837 - mag
-839 - mag
-842 - mag
-844 - mag
-845 - mag
-846 - mag
 852 - per
 853 - per
 854 - per
@@ -229,7 +171,6 @@
 911 - man
 912 - man
 913 - man
-918 - mag
 919 - man
 922 - man
 926 - man

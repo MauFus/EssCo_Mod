@@ -348,7 +348,7 @@
 
 20730 = {
 	name="Adnan"
-	#placeholder
+	dynasty=577
 	martial=5
 	diplomacy=5
 	intrigue=7
@@ -369,7 +369,7 @@
 20741 = {
 	name="Abdul-Fattah"
 	# AKA: Abdul
-	#placeholder
+	dynasty=579
 	martial=4
 	diplomacy=6
 	intrigue=6
@@ -407,7 +407,7 @@
 20745 = {
 	name="Abdul-Haq"
 	# AKA: Abdul
-	#placeholder
+	dynasty=580
 	martial=4
 	diplomacy=7
 	intrigue=6
@@ -447,7 +447,7 @@
 
 20747 = {
 	name="Murtaza"
-	#placeholder
+	dynasty=583
 	martial=7
 	diplomacy=7
 	intrigue=5
@@ -5484,52 +5484,53 @@
 
 93495 = {
 	name="Murad"
-	#placeholder
+	dynasty=584
 	religion="sunni"
 	culture="levantine_arabic"
-	1070.1.1={
-		birth="1070.1.1"
+	1020.1.1={
+		birth="1020.1.1"
 	}
-	1124.7.7={
-		death="1124.7.7"
+	1074.7.7={
+		death="1074.7.7"
 	}
 }
 
 93496 = {
 	name="Musa"
-	#placeholder
+	dynasty=587
 	religion="sunni"
 	culture="levantine_arabic"
-	1070.1.1={
-		birth="1070.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1110.1.7={
-		death="1110.1.7"
+	1090.1.7={
+		death="1090.1.7"
 	}
 }
 
 93520 = {
 	name="Tawfiq"
-	#placeholder
+	dynasty=588
 	religion="druze"
 	culture="levantine_arabic"
-	1090.1.1={
-		birth="1090.1.1"
+	1040.1.1={
+		birth="1040.1.1"
 	}
-	1142.1.1={
-		death="1142.1.1"
+	1092.1.1={
+		death="1092.1.1"
 	}
 }
 
 155113 = {
 	name="Karakush"
 	#AKA Sharaf al-Din Qaraqush
+	dynasty=592
 	religion="sunni"
 	culture="levantine_arabic"
-	1150.1.1={
-		birth="1150.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1212.1.1={
-		death="1212.1.1"
+	1112.1.1={
+		death="1112.1.1"
 	}
 }

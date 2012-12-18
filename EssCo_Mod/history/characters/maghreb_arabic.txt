@@ -80,7 +80,7 @@
 
 20801 = {
 	name="Sha'ban"
-	#placeholder
+	dynasty=596
 	martial=8
 	diplomacy=4
 	intrigue=8
@@ -180,7 +180,7 @@
 
 20808 = {
 	name="Shamsaddin"
-	#placeholder
+	dynasty=765
 	martial=8
 	diplomacy=5
 	intrigue=5
@@ -3304,11 +3304,11 @@
 	dynasty=7276
 	religion="sunni"
 	culture="maghreb_arabic"
-	1105.1.1={
-		birth="1105.1.1"
+	1005.1.1={
+		birth="1005.1.1"
 	}
-	1176.1.1={
-		death="1176.1.1"
+	1076.1.1={
+		death="1076.1.1"
 	}
 }
 
@@ -3764,11 +3764,11 @@
 	dynasty=7277
 	religion="sunni"
 	culture="maghreb_arabic"
-	1180.1.1 = {
-		birth="1180.1.1"
+	1030.1.1 = {
+		birth="1030.1.1"
 	}
-	1230.1.1 = {
-		death="1230.1.1"
+	1080.1.1 = {
+		death="1080.1.1"
 	}
 }
 
@@ -3942,9 +3942,8 @@
 }
 
 3856 = {
-	name="Zainab"
+	name="Zafir"
 	dynasty=7275
-	female = yes
 	martial=5
 	diplomacy=6
 	intrigue=5
@@ -4060,8 +4059,8 @@
 	dynasty = 12203
 	religion="sunni"
 	culture="maghreb_arabic"
-	1072.1.1 = {
-		birth="1072.1.1"
+	1052.1.1 = {
+		birth="1052.1.1"
 	}
 	1126.1.1 = {
 		death="1126.1.1"
@@ -4229,11 +4228,11 @@
 	religion="shiite"
 	culture="maghreb_arabic"
 	add_trait="amateurish_plotter"
-	1126.1.1 = {
-		birth="1126.1.1"
+	1026.1.1 = {
+		birth="1026.1.1"
 	}
-	1189.1.1 = {
-		death="1189.1.1"
+	1089.1.1 = {
+		death="1089.1.1"
 	}
 }
 
@@ -4247,11 +4246,11 @@
 	religion="shiite"
 	culture="maghreb_arabic"
 	add_trait="arbitrary"
-	1133.1.1 = {
-		birth="1133.1.1"
+	1033.1.1 = {
+		birth="1033.1.1"
 	}
-	1188.1.1 = {
-		death="1188.1.1"
+	1088.1.1 = {
+		death="1088.1.1"
 	}
 }
 
@@ -4282,11 +4281,11 @@
 	culture="maghreb_arabic"
 	add_trait="patient"
 	add_trait="tough_soldier"
-	1121.1.1 = {
-		birth="1121.1.1"
+	1021.1.1 = {
+		birth="1021.1.1"
 	}
-	1178.1.1 = {
-		death="1178.1.1"
+	1078.1.1 = {
+		death="1078.1.1"
 	}
 }
 
@@ -4321,11 +4320,11 @@
 	religion="shiite"
 	culture="maghreb_arabic"
 	add_trait="skilled_tactician"
-	1112.1.1 = {
-		birth="1112.1.1"
+	1012.1.1 = {
+		birth="1012.1.1"
 	}
-	1169.1.1 = {
-		death="1169.1.1"
+	1069.1.1 = {
+		death="1069.1.1"
 	}
 }
 
@@ -4342,11 +4341,11 @@
 	add_trait="slothful"
 	add_trait="brave"
 	add_trait="tough_soldier"
-	1119.1.1 = {
-		birth="1119.1.1"
+	1019.1.1 = {
+		birth="1019.1.1"
 	}
-	1172.1.1 = {
-		death="1172.1.1"
+	1072.1.1 = {
+		death="1072.1.1"
 	}
 }
 
@@ -4360,11 +4359,11 @@
 	religion="shiite"
 	culture="maghreb_arabic"
 	add_trait="tough_soldier"
-	1127.1.1 = {
-		birth="1127.1.1"
+	1027.1.1 = {
+		birth="1027.1.1"
 	}
-	1188.1.1 = {
-		death="1188.1.1"
+	1088.1.1 = {
+		death="1088.1.1"
 	}
 }
 
@@ -4379,11 +4378,11 @@
 	culture="maghreb_arabic"
 	add_trait="envious"
 	add_trait="flamboyant_schemer"
-	1146.1.1 = {
-		birth="1146.1.1"
+	1046.1.1 = {
+		birth="1046.1.1"
 	}
-	1199.1.1 = {
-		death="1199.1.1"
+	1099.1.1 = {
+		death="1099.1.1"
 	}
 }
 
@@ -4398,11 +4397,11 @@
 	culture="maghreb_arabic"
 	add_trait="patient"
 	add_trait="temperate"
-	1179.1.1 = {
-		birth="1179.1.1"
+	1029.1.1 = {
+		birth="1029.1.1"
 	}
-	1230.1.1 = {
-		death="1230.1.1"
+	1080.1.1 = {
+		death="1080.1.1"
 	}
 }
 
