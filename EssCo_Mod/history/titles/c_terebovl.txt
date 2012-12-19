@@ -4,7 +4,7 @@
 	holder=670 
 } 
 1057.1.2={ 
-	holder=626 
+	holder=20420
 } 
 1073.1.2={ 
 	holder=660 

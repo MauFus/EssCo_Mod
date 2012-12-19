@@ -39,24 +39,10 @@
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-! TODO - Polish, Hungarian, Bulgarian, Romanian, Russian,
+! TODO - Hungarian, Bulgarian, Romanian,
 		 Kurdish, Persian, Ethiopian, Mandè
 
 299 - per
-406 - rus
-407 - rus
-408 - rus
-409 - rus
-410 - rus
-412 - rus
-414 - rus
-415 - rus
-428 - pol
-429 - pol
-430 - pol
-432 - pol
-433 - pol
-435 - pol
 444 - hun
 445 - hun
 450 - hun
@@ -86,41 +72,10 @@
 520 - hun
 523 - hun
 525 - hun
-526 - pol
-528 - pol
-530 - pol
-531 - pol
-532 - pol
 533 - hun
-534 - rus
-535 - rus
-536 - rus
 537 - hun
 540 - hun
-544 - rus
 545 - rom
-546 - rus
-547 - rus
-549 - rus
-551 - rus
-552 - rus
-553 - rus
-554 - rus
-555 - rus
-567 - rus
-568 - rus
-569 - rus
-570 - rus
-571 - rus
-572 - rus
-573 - rus
-574 - rus
-576 - rus
-577 - rus
-578 - rus
-580 - rus
-581 - rus
-587 - rus
 632 - per
 633 - per
 634 - per

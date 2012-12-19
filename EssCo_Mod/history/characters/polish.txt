@@ -1,5 +1,6 @@
 20388 = {
 	name="Stanislaw"
+	dynasty=16
 	martial=6
 	diplomacy=7
 	intrigue=8
@@ -42,6 +43,7 @@
 
 20393 = {
 	name="Bogumil"
+	dynasty=17
 	martial=4
 	diplomacy=7
 	intrigue=8
@@ -4237,6 +4239,7 @@
 
 96075 = {
 	name="Marcin"
+	dynasty=18
 	religion="catholic"
 	culture="polish"
 	1043.1.1={
@@ -4264,11 +4267,11 @@
 	dynasty=21012
 	religion="catholic"
 	culture="polish"
-	1099.1.1={
-		birth="1099.1.1"
+	1049.1.1={
+		birth="1049.1.1"
 	}
-	1168.3.11={
-		death="1168.3.11"
+	1118.3.11={
+		death="1118.3.11"
 	}
 }
 
