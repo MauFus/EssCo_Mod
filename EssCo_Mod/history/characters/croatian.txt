@@ -50,11 +50,11 @@
 	culture="croatian"
 	add_trait="zealous"
 	add_trait="flamboyant_schemer"
-	1150.1.1={
-		birth="1150.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1200.1.1={
-		death="1200.1.1"
+	1100.1.1={
+		death="1100.1.1"
 	}
 }
 
@@ -1177,12 +1177,11 @@
 	dynasty=19024
 	religion="catholic"
 	culture="croatian"
-	father=219991
-	1172.1.1={
-		birth="1172.1.1"
+	1022.1.1={
+		birth="1022.1.1"
 	}
-	1232.1.1={
-		death="1232.1.1"
+	1082.1.1={
+		death="1082.1.1"
 	}
 }
 
@@ -1401,14 +1400,11 @@
 	culture="croatian"
 	add_trait="brave"
 	add_trait="tough_soldier"
-	1289.1.1={
-		birth="1289.1.1"
+	1039.1.1={
+		birth="1039.1.1"
 	}
-	1335.1.1={
-		add_spouse=470006
-	}
-	1339.1.1={
-		death="1339.1.1"
+	1089.1.1={
+		death="1089.1.1"
 	}
 }
 
@@ -1714,14 +1710,11 @@
 	religion="catholic"
 	culture="croatian"
 	father=218801
-	1205.1.1={
-		birth="1205.1.1"
+	1055.1.1={
+		birth="1055.1.1"
 	}
-	1232.1.1={
-		religion="bogomilist"
-	} 
-	1249.3.1={
-		death="1249.3.1"
+	1099.3.1={
+		death="1099.3.1"
 	}
 }
 
@@ -1758,14 +1751,11 @@
 	dynasty=34
 	religion="catholic"
 	culture="croatian"
-	1211.1.1={
-		birth="1211.1.1"
+	1011.1.1={
+		birth="1011.1.1"
 	}
-	1250.1.1={
-		religion="bogomilist"
-	} 
-	1287.1.1={
-		death="1287.1.1"
+	1087.1.1={
+		death="1087.1.1"
 	}
 }
 
@@ -2226,11 +2216,11 @@
 	dynasty=7376
 	religion="catholic"
 	culture="croatian"
-	1080.1.1={
-		birth="1080.1.1"
+	1030.1.1={
+		birth="1030.1.1"
 	}
-	1130.1.1={
-		death="1130.1.1"
+	1080.1.1={
+		death="1080.1.1"
 	}
 }
 
@@ -2268,21 +2258,20 @@
 93559 = {
 	name="Petar"
 	#placeholder
-	dynasty=7376
+	dynasty=18008
 	religion="catholic"
 	culture="croatian"
-	father=93558
-	1140.1.1={
-		birth="1140.1.1"
+	1060.1.1={
+		birth="1060.1.1"
 	}
-	1165.1.1={
-		death="1165.1.1"
+	1085.1.1={
+		death="1085.1.1"
 	}
 }
 
 470000 = {
 	name="Mladen"
-	dynasty=18005
+	dynasty=18009
 	martial=6
 	diplomacy=8
 	intrigue=4
@@ -2292,14 +2281,10 @@
 	add_trait="chaste"
 	add_trait="craven"
 	add_trait="skilled_tactician"
-	father=32610
-	1250.1.1={
-		birth="1250.1.1"
-	}
-	1299.1.1={
-		add_claim = d_bosnia
+	1050.1.1={
+		birth="1050.1.1"
 	}	
-	1304.1.1={
-		death="1304.1.1"
+	1104.1.1={
+		death="1104.1.1"
 	}
 }
