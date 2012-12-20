@@ -39,38 +39,9 @@
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-! TODO - Hungarian, Kurdish, Persian, Ethiopian, Mandè
+! TODO - Kurdish, Ethiopian, Mandè
 
-299 - per
-444 - hun
-445 - hun
-450 - hun
-452 - hun
-517 - hun
-520 - hun
-523 - hun
-525 - hun
-533 - hun
-537 - hun
-540 - hun
-632 - per
-633 - per
-634 - per
-635 - per
-636 - per
-638 - per
-639 - per
-640 - per
-641 - per
-642 - per
-643 - per
-644 - per
-648 - per
 657 - kur
-658 - per
-659 - per
-660 - per
-663 - per
 664 - kur
 666 - kur
 667 - kur
@@ -83,9 +54,6 @@
 695 - kur
 697 - kur
 793 - eth
-852 - per
-853 - per
-854 - per
 872 - eth
 873 - eth
 874 - eth
@@ -98,8 +66,6 @@
 883 - eth
 884 - eth
 885 - eth
-899 - per
-906 - per
 911 - man
 912 - man
 913 - man

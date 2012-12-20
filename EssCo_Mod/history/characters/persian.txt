@@ -413,11 +413,11 @@
 	add_trait="diligent"
 	add_trait="zealous"
 	add_trait="skilled_tactician"
-	1129.1.1={
-		birth="1129.1.1"
+	1029.1.1={
+		birth="1029.1.1"
 	}
-	1192.1.1={
-		death="1192.1.1"
+	1092.1.1={
+		death="1092.1.1"
 	}
 }
 
@@ -547,11 +547,11 @@
 	add_trait="ambitious"
 	add_trait="charismatic_negotiator"
 	add_trait="charitable"
-	1315.1.1={
-		birth="1315.1.1"
+	1035.1.1={
+		birth="1035.1.1"
 	}
-	1365.1.1={
-		death="1365.1.1"
+	1085.1.1={
+		death="1085.1.1"
 	}
 }
 
@@ -568,11 +568,11 @@
 	add_trait="tough_soldier"
 	add_trait="kind"
 	add_trait="just"
-	1296.1.1={
-		birth="1296.1.1"
+	1046.1.1={
+		birth="1046.1.1"
 	}
-	1346.1.1={
-		death="1346.1.1"
+	1096.1.1={
+		death="1096.1.1"
 	}
 }
 
@@ -589,11 +589,11 @@
 	add_trait="skilled_tactician"
 	add_trait="envious"
 	father=93268
-	1295.1.1={
-		birth="1295.1.1"
+	1045.1.1={
+		birth="1045.1.1"
 	}
-	1358.1.1={
-		death="1358.1.1"
+	1108.1.1={
+		death="1108.1.1"
 	}
 }
 
@@ -649,11 +649,11 @@
 	culture="persian"
 	add_trait="thrifty_clerk"
 	add_trait="greedy"
-	1300.1.1={
-		birth="1300.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1350.1.1={
-		death="1350.1.1"
+	1100.1.1={
+		death="1100.1.1"
 	}
 }
 
@@ -668,11 +668,11 @@
 	culture="persian"
 	add_trait="misguided_warrior"
 	add_trait="wroth"
-	1305.1.1={
-		birth="1305.1.1"
+	1055.1.1={
+		birth="1055.1.1"
 	}
-	1355.1.1={
-		death="1355.1.1"
+	1105.1.1={
+		death="1105.1.1"
 	}
 }
 
@@ -691,11 +691,11 @@
 	add_trait="stressed"
 	add_trait="skilled_tactician"
 	father=45102
-	1300.1.1={
-		birth="1300.1.1"
+	1050.1.1={
+		birth="1050.1.1"
 	}
-	1338.1.1={
-		death="1338.1.1"
+	1088.1.1={
+		death="1088.1.1"
 	}
 }
 
@@ -1295,11 +1295,11 @@
 	dynasty=7330
 	religion="sunni"
 	culture="persian"
-	1130.1.1={
-		birth="1130.1.1"
+	1030.1.1={
+		birth="1030.1.1"
 	}
-	1180.1.1={
-		death="1180.1.1"
+	1080.1.1={
+		death="1080.1.1"
 	}
 }
 
@@ -1945,11 +1945,11 @@
 	dynasty=7337
 	religion="sunni"
 	culture="persian"
-	1180.1.1={
-		birth="1180.1.1"
+	1030.1.1={
+		birth="1030.1.1"
 	}
-	1235.1.1={
-		death="1235.1.1"
+	1085.1.1={
+		death="1085.1.1"
 	}
 }
 
@@ -2319,11 +2319,11 @@
 	dynasty=7339
 	religion="sunni"
 	culture="persian"
-	1170.1.1={
-		birth="1170.1.1"
+	1020.1.1={
+		birth="1020.1.1"
 	}
-	1225.1.1={
-		death="1225.1.1"
+	1075.1.1={
+		death="1075.1.1"
 	}
 }
 
@@ -2473,11 +2473,11 @@
 	religion="sunni"
 	culture="persian"
 	father=144052
-	1158.1.1={
-		birth="1158.1.1"
+	1058.1.1={
+		birth="1058.1.1"
 	}
-	1195.1.1={
-		death="1195.1.1"
+	1095.1.1={
+		death="1095.1.1"
 	}
 }
 
@@ -2542,14 +2542,11 @@
 	dynasty=7340
 	religion="shiite"
 	culture="persian"
-	1252.1.1={
-		birth="1252.1.1"
+	1052.1.1={
+		birth="1052.1.1"
 	}
-	1304.1.1={
-		add_spouse=93302
-	} 
-	1334.1.1={
-		death="1334.1.1"
+	1134.1.1={
+		death="1134.1.1"
 	}
 }
 
@@ -2559,11 +2556,11 @@
 	dynasty=7341
 	religion="shiite"
 	culture="persian"
-	1216.1.1={
-		birth="1216.1.1"
+	1016.1.1={
+		birth="1016.1.1"
 	}
-	1301.1.1={
-		death="1301.1.1"
+	1101.1.1={
+		death="1101.1.1"
 	}
 }
 
@@ -2594,5 +2591,57 @@
 	}
 	1391.1.1={
 		death="1391.1.1"
+	}
+}
+
+933031 = {
+	name="Sadr al-Din Musa"
+	dynasty=5
+	religion="zikri"
+	culture="persian"
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+933032 = {
+	name="Sadr al-Din Musa"
+	dynasty=6
+	religion="zikri"
+	culture="persian"
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+933033 = {
+	name="Sadr al-Din Musa"
+	dynasty=1031100
+	religion="zikri"
+	culture="persian"
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+933034 = {
+	name="Sadr al-Din Musa"
+	dynasty=100633
+	religion="zikri"
+	culture="persian"
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
 	}
 }
