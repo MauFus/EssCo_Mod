@@ -2011,3 +2011,76 @@
 		death="1256.1.1"
 	}
 }
+
+161191  = {
+	name="Yempabu"
+	dynasty=1030008
+	religion="pagan"
+	culture="manden"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+161192  = {
+	name="Yempabu"
+	dynasty=1030015
+	religion="pagan"
+	culture="manden"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+161193  = {
+	name="Yempabu"
+	dynasty=1030016
+	religion="pagan"
+	culture="manden"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+161194  = {
+	name="Yempabu"
+	dynasty=1030001
+	religion="pagan"
+	culture="manden"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+161195  = {
+	name="Yempabu"
+	dynasty=1030003
+	religion="pagan"
+	culture="manden"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+161196  = {
+	name="Yempabu"
+	dynasty=1030005
+	religion="pagan"
+	culture="manden"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}

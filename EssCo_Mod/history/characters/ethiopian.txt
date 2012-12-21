@@ -886,16 +886,15 @@
 }
 
 32256 = {
-	name="Jan Mangesha"
-	female=yes
+	name="Dahnay"
 	dynasty=101789
 	religion="miaphysite"
 	culture="ethiopian"
-	1294.1.1={
-		birth="1294.1.1"
+	1044.1.1={
+		birth="1044.1.1"
 	}
-	1318.1.1={
-		death="1318.1.1"
+	1068.1.1={
+		death="1068.1.1"
 	}
 }
 
@@ -991,11 +990,11 @@
 	dynasty=7373
 	religion="sunni"
 	culture="ethiopian"
-	1255.1.1={
-		birth="1255.1.1"
+	1055.1.1={
+		birth="1055.1.1"
 	}
-	1311.1.1={
-		death="1311.1.1"
+	1111.1.1={
+		death="1111.1.1"
 	}
 }
 
@@ -1038,5 +1037,138 @@
 	}
 	1355.1.1={
 		death="1355.1.1"
+	}
+}
+
+9350101= {
+	name="Girma" 
+	dynasty=101796
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+9350102= {
+	name="Iskinder" 
+	dynasty=101778
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+9350103= {
+	name="Abai" 
+	dynasty=101779
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+9350104= {
+	name="Assefa" 
+	dynasty=101780
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+9350105= {
+	name="Bekele" 
+	dynasty=101782
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+9350106= {
+	name="Dawit" 
+	dynasty=101783
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+9350107= {
+	name="Ezana" 
+	dynasty=101784
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+9350108= {
+	name="Gabra" 
+	dynasty=101785
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+9350109= {
+	name="Hakim" 
+	dynasty=101786
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+9350110= {
+	name="Kafa" 
+	dynasty=101787
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+9350111= {
+	name="Kaleb" 
+	dynasty=101788
+	religion="miaphysite"
+	culture="ethiopian"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
 	}
 }

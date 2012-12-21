@@ -39,28 +39,7 @@
 * Liege bug fixed
 
 ---------- Provinces -----------------------------
-! TODO - Kurdish, Ethiopian, Mandè
-
-793 - eth
-872 - eth
-873 - eth
-874 - eth
-876 - eth
-877 - eth
-878 - eth
-879 - eth
-881 - eth
-882 - eth
-883 - eth
-884 - eth
-885 - eth
-911 - man
-912 - man
-913 - man
-919 - man
-922 - man
-926 - man
-
+* Every county assigned to a different dynasty
 
 ---------- De Jure Duchies -----------------------
 * Redifined Connaught, Meath, Leinster (Ireland)
