@@ -17,6 +17,6 @@ b_qamishhlo = city
 
 #Misc
 culture = levantine_arabic
-religion = sunni
+religion = yazidi
 
 # History

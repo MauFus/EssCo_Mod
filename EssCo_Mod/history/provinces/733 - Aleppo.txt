@@ -17,7 +17,7 @@ b_azaz = city
 
 # Misc
 culture = levantine_arabic
-religion = nestorian
+religion = monothelite
 
 # History
 

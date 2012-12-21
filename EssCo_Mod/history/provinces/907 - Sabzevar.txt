@@ -17,6 +17,6 @@ b_adraskan = city
 
 # Misc
 culture = persian
-religion = sunni
+religion = zikri
 
 # History

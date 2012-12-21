@@ -16,7 +16,7 @@ b_lampron = castle
 
 # Misc
 culture = armenian
-religion = miaphysite
+religion = monothelite
 
 # History
 

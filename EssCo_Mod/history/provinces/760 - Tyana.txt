@@ -18,7 +18,7 @@ b_anatoliaheraklea = city
 
 # Misc
 culture = greek
-religion = orthodox
+religion = bektashi
 
 # History
 

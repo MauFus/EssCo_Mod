@@ -17,6 +17,6 @@ b_resaina = city
 
 #Misc
 culture = levantine_arabic
-religion = nestorian
+religion = yazidi
 
 # History

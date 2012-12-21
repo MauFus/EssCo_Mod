@@ -17,7 +17,7 @@ b_kotor = city
 
 # Misc
 culture = serbian
-religion = orthodox
+religion = bogomilist
 
 # History
 

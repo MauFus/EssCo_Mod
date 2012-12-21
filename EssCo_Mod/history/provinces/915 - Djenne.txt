@@ -17,6 +17,6 @@ b_djenne = city
 
 # Misc
 culture = manden
-religion = sunni
+religion = pagan
 
 # History

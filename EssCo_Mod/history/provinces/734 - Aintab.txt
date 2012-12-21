@@ -16,7 +16,7 @@ b_marash = city
 
 # Misc
 culture = armenian
-religion = miaphysite
+religion = monothelite
 
 # History
 1177.1.1 = { 

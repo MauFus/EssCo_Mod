@@ -17,6 +17,6 @@ b_khajeh = temple
 
 # Misc
 culture = persian
-religion = sunni
+religion = zikri
 
 # History

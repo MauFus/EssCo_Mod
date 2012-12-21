@@ -16,7 +16,7 @@ b_anatolnikopolis = city
 
 # Misc
 culture = greek
-religion = miaphysite
+religion = bektashi
 
 # History
 1091.8.26 = { 

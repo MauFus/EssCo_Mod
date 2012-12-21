@@ -17,7 +17,7 @@ b_soltaniyeh = city
 
 #Misc
 culture = kurdish
-religion = shiite
+religion = hurufi
 
 # History
 # Hashshashin seize Alamut

@@ -16,7 +16,7 @@ b_shaki = temple
 
 # Misc
 culture = georgian
-religion = sunni
+religion = monophysite
 
 # History
 1187.1.1 = { b_barda = castle }

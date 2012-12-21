@@ -17,7 +17,7 @@ b_talysh = temple
 
 #Misc
 culture = kurdish
-religion = shiite
+religion = hurufi
 
 # History
 1187.1.1 = { b_rudkhan = castle }

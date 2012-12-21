@@ -17,7 +17,7 @@ b_tzamandos = city
 
 # Misc
 culture = armenian
-religion = miaphysite
+religion = bektashi
 
 # History
 

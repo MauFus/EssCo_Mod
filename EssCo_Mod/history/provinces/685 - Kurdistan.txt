@@ -17,6 +17,6 @@ b_araden = city
 
 #Misc
 culture = kurdish
-religion = sunni
+religion = yazidi
 
 # History

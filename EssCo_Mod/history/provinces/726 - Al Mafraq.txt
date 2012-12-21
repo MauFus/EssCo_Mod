@@ -17,7 +17,7 @@ b_thughra = city
 
 # Misc
 culture = levantine_arabic
-religion = sunni
+religion = druze
 
 # History
 

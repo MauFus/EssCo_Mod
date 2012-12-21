@@ -17,6 +17,6 @@ b_kaj = city
 
 # Misc
 culture = persian
-religion = sunni
+religion = zikri
 
 # History

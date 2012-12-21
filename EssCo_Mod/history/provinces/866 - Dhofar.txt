@@ -17,7 +17,7 @@ b_thamarit = city
 
 # Misc
 culture = bedouin_arabic
-religion = sunni
+religion = ibadi
 
 # History
 

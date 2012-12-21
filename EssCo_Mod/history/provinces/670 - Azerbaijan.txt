@@ -16,7 +16,7 @@ b_kapalak = city
 
 # Misc
 culture = kurdish
-religion = sunni
+religion = hurufi
 
 # History
 

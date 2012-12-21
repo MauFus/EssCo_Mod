@@ -18,7 +18,7 @@ b_ohrid = temple
 
 # Misc
 culture = serbian
-religion = orthodox
+religion = bogomilist
 
 # History
 

@@ -17,6 +17,6 @@ b_pahrah = city
 
 # Misc
 culture = persian
-religion = sunni
+religion = zikri
 
 # History

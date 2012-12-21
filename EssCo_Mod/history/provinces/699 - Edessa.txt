@@ -16,7 +16,7 @@ b_sruk = city
 
 # Misc
 culture = armenian
-religion = miaphysite
+religion = monothelite
 
 # History
 1164.1.1 = { 

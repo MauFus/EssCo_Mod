@@ -17,6 +17,6 @@ b_khoy = city
 
 #Misc
 culture = kurdish
-religion = sunni
+religion = hurufi
 
 # History

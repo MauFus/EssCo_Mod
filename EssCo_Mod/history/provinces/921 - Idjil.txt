@@ -14,6 +14,6 @@ b_tazadit = temple
 
 # Misc
 culture = manden
-religion = sunni
+religion = pagan
 
 # History

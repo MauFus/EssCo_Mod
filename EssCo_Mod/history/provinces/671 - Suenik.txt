@@ -16,7 +16,7 @@ b_areni = city
 
 # Misc
 culture = armenian
-religion = miaphysite
+religion = monophysite
 
 # History
 

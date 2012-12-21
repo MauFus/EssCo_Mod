@@ -18,7 +18,7 @@ b_irbid = city
 
 # Misc
 culture = levantine_arabic
-religion = sunni
+religion = druze
 
 # History
 

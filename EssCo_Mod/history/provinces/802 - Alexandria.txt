@@ -17,6 +17,6 @@ b_alexandria = temple
 
 # Misc
 culture = egyptian_arabic
-religion = miaphysite
+religion = monophysite
 
 # History

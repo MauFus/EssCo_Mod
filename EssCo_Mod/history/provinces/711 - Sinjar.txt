@@ -17,6 +17,6 @@ b_telassar = city
 
 #Misc
 culture = levantine_arabic
-religion = sunni
+religion = yazidi
 
 # History

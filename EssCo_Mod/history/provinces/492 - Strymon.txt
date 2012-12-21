@@ -18,7 +18,7 @@ b_veles = city
 
 # Misc
 culture = bulgarian
-religion = orthodox
+religion = bogomilist
 
 # History
 

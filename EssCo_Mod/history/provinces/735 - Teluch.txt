@@ -16,7 +16,7 @@ b_perre = temple
 
 # Misc
 culture = armenian
-religion = orthodox
+religion = monothelite
 terrain = mountain
 
 # History

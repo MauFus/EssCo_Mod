@@ -19,7 +19,7 @@ b_asponia = city
 
 # Misc
 culture = greek
-religion = orthodox
+religion = bektashi
 
 # History
 

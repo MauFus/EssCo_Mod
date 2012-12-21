@@ -15,6 +15,6 @@ b_kankossa = temple
 
 # Misc
 culture = manden
-religion = sunni
+religion = pagan
 
 # History

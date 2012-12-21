@@ -16,7 +16,7 @@ b_argyropolis = city
 
 # Misc
 culture = armenian
-religion = miaphysite
+religion = monophysite
 
 # History
 1097.8.26 = { 

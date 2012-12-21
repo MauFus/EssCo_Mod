@@ -16,7 +16,7 @@ b_midjnaberd = city
 
 # Misc
 culture = armenian
-religion = miaphysite
+religion = monophysite
 
 # History
 1084.1.1 = { culture = kurdish }

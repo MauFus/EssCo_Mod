@@ -16,7 +16,7 @@ b_narinkala = city
 
 # Misc
 culture = georgian
-religion = miaphysite
+religion = monophysite
 
 # History
 

@@ -17,6 +17,6 @@ b_tis = city
 
 # Misc
 culture = persian
-religion = zoroastrian
+religion = zikri
 
 # History

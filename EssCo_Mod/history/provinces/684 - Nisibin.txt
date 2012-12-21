@@ -16,7 +16,7 @@ b_savur = city
 
 # Misc
 culture = kurdish
-religion = sunni
+religion = yazidi
 
 # History
 

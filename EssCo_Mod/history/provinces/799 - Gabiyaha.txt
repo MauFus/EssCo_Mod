@@ -17,7 +17,7 @@ b_sais = city
 
 # Misc
 culture = egyptian_arabic
-religion = miaphysite
+religion = monophysite
 
 # History
 # 1171.1.1 = { religion = sunni }

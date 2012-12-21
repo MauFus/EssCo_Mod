@@ -16,7 +16,7 @@ b_anazarba = temple
 
 # Misc
 culture = armenian
-religion = miaphysite
+religion = monothelite
 
 # History
 1117.1.1 = { b_sis = castle }

@@ -18,7 +18,7 @@ b_pergamon = city
 
 # Misc
 culture = greek
-religion = orthodox
+religion = iconoclast
 terrain = hills
 
 # History

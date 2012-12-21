@@ -19,7 +19,7 @@ b_djelfa = city
 
 # Misc
 culture = maghreb_arabic
-religion = sunni
+religion = ibadi
 
 # History
 

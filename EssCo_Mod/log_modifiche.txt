@@ -14,7 +14,18 @@
 * Lollard heresy added in England
 * Cathar heresy added in Aquitaine
 * Waldesian heresy added in Burgundy
-* Fraticelli added in Italy
+* Fraticelli heresy added in Italy
+* Some Miaphysite counties converted to Monophysite
+* Bogolomist added in Macedonia
+* Iconoclast added n Anatolia
+* Monothelite added in Armenia Minor
+* Ibadi expanded in Algeria
+* Yazidi added in Kurdistan
+* Zikri added in East Persia
+* Bektashi added in Anatolia
+* Druzi expanded in Syria
+* Hurufi added in Azerbaijan
+* Pagan enlarged in Mali
 
 ---------- Cultures ------------------------------
 * English culture event deleted

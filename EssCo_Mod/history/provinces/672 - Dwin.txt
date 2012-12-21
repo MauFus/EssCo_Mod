@@ -16,7 +16,7 @@ b_etchmiadzin = temple
 
 # Misc
 culture = armenian
-religion = miaphysite
+religion = monophysite
 
 # History
 1084.1.1 = { 

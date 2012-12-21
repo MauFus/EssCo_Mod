@@ -13,6 +13,6 @@ b_wadan = city
 
 # Misc
 culture = manden
-religion = sunni
+religion = pagan
 
 # History

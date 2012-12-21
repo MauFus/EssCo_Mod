@@ -17,7 +17,7 @@ b_lankaran = city
 
 # Misc
 culture = kurdish
-religion = sunni
+religion = hurufi
 
 # History
 1187.1.1 = { b_shakhriyar = castle }

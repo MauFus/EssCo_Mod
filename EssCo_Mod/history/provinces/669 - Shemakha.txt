@@ -16,7 +16,7 @@ b_shikhlar = temple
 
 # Misc
 culture = georgian
-religion = sunni
+religion = hurufi
 
 # History
 1320.1.1 = { religion = shiite }

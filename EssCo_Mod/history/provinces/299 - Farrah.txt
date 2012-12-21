@@ -16,6 +16,6 @@ b_bakwa = city
 #b_juwayn = castle
 
 culture = persian
-religion = sunni
+religion = zikri
 
 # History

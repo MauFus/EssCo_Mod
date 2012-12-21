@@ -17,6 +17,6 @@ b_shabib = temple
 
 # Misc
 culture = levantine_arabic
-religion = sunni
+religion = druze
 
 # History

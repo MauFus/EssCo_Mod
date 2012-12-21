@@ -16,6 +16,6 @@ b_semender = city
 
 # Misc
 culture = georgian
-religion = sunni
+religion = hurufi
 
 # History
