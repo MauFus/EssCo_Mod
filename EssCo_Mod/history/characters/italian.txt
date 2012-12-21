@@ -1009,7 +1009,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="catholic"
+	religion="fraticelli"
 	culture="italian"
 	add_trait="honest"
 	add_trait="misguided_warrior"
@@ -1105,7 +1105,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="catholic"
+	religion="fraticelli"
 	culture="italian"
 	add_trait="kind"
 	add_trait="humble"
@@ -1205,7 +1205,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="catholic"
+	religion="fraticelli"
 	culture="italian"
 	add_trait="scholarly_theologian"
 	1015.1.1 = {
@@ -1374,7 +1374,7 @@
 20335 = {
 	name="Matteo"
 	dynasty=100352
-	religion="catholic"
+	religion="fraticelli"
 	culture="italian"
 	add_trait="scholarly_theologian"
 	1029.1.1 = {
@@ -6315,7 +6315,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="catholic"
+	religion="fraticelli"
 	culture="italian"
 	add_trait="diligent"
 	add_trait="duelist"
@@ -11873,7 +11873,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="catholic"
+	religion="fraticelli"
 	culture="italian"
 	add_trait="tough_soldier"
 	add_trait="charitable"
@@ -21153,7 +21153,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="catholic"
+	religion="fraticelli"
 	culture="italian"
 	add_trait="humble"
 	add_trait="tough_soldier"
@@ -25639,7 +25639,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=8
-	religion="catholic"
+	religion="fraticelli"
 	culture="italian"
 	add_trait="diligent"
 	add_trait="patient"
@@ -26490,7 +26490,7 @@
 73347 = {
 	name="Atenolf"
 	dynasty=12243
-	religion="catholic"
+	religion="fraticelli"
 	culture="italian"
 	father=73346
 	mother=73345

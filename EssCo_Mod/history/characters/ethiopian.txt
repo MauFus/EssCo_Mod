@@ -988,7 +988,7 @@
 93498 = {
 	name="Dhidhin" 
 	dynasty=7373
-	religion="sunni"
+	religion="miaphysite"
 	culture="ethiopian"
 	1055.1.1={
 		birth="1055.1.1"

@@ -6275,7 +6275,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="catholic"
+	religion="waldensian"
 	culture="german"
 	add_trait="tough_soldier"
 	father=11006
@@ -6298,7 +6298,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=7
-	religion="catholic"
+	religion="fraticelli"
 	culture="german"
 	add_trait="deceitful"
 	add_trait="cynical"
@@ -7818,7 +7818,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="catholic"
+	religion="waldensian"
 	culture="german"
 	add_trait="tough_soldier"
 	father=40550
@@ -18475,7 +18475,7 @@
 	diplomacy=6
 	intrigue=9
 	stewardship=8
-	religion="catholic"
+	religion="waldensian"
 	culture="german"
 	add_trait="tough_soldier"
 	father=32761

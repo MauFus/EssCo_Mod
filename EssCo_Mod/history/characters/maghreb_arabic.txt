@@ -47,7 +47,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=8
-	religion="sunni"
+	religion="nestorian"
 	culture="maghreb_arabic"
 	add_trait="cynical"
 	add_trait="martial_cleric"

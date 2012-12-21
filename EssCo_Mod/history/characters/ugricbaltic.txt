@@ -115,7 +115,7 @@
 1431461 = {
 	name="Dergun"
 	dynasty=789
-	religion="baltic_pagan"
+	religion="orthodox"
 	culture="ugricbaltic"
 	1039.1.1={
 	birth="1039.1.1"
@@ -128,7 +128,7 @@
 1431462 = {
 	name="Ovtay"
 	dynasty=2109004
-	religion="baltic_pagan"
+	religion="orthodox"
 	culture="ugricbaltic"
 	1039.1.1={
 	birth="1039.1.1"
@@ -141,7 +141,7 @@
 1431463 = {
 	name="Kezhevat"
 	dynasty=2109005
-	religion="baltic_pagan"
+	religion="orthodox"
 	culture="ugricbaltic"
 	father = 20628
 	1039.1.1={
@@ -155,7 +155,7 @@
 1431464 = {
 	name="Mordvinko"
 	dynasty=2109006
-	religion="baltic_pagan"
+	religion="orthodox"
 	culture="ugricbaltic"
 	father = 20628
 	1039.1.1={
@@ -169,7 +169,7 @@
 1431465 = {
 	name="Viryas"
 	dynasty=2109007
-	religion="baltic_pagan"
+	religion="orthodox"
 	culture="ugricbaltic"
 	1039.1.1={
 	birth="1039.1.1"

@@ -1,7 +1,7 @@
 125300 = {
 	name="Rimgaudas"
 	dynasty=11
-	religion="baltic_pagan"
+	religion="orthodox"
 	culture="lithuanian"
 	1055.1.1={
 		birth="1055.1.1"
@@ -344,7 +344,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=7
-	religion="baltic_pagan"
+	religion="orthodox"
 	culture="lithuanian"
 	add_trait="skilled_tactician"
 	1039.1.1={
@@ -857,7 +857,7 @@
 143134 = {
 	name="Antanas"
 	dynasty=27
-	religion="baltic_pagan"
+	religion="orthodox"
 	culture="lithuanian"
 	1019.1.1={
 		birth="1019.1.1"
@@ -870,7 +870,7 @@
 143135 = {
 	name="Antanas"
 	dynasty=31
-	religion="baltic_pagan"
+	religion="orthodox"
 	culture="lithuanian"
 	1019.1.1={
 		birth="1019.1.1"

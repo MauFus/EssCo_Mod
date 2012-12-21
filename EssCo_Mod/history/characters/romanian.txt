@@ -23,7 +23,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="catholic"
+	religion="orthodox"
 	culture="romanian"
 	add_trait="flamboyant_schemer"
 	1050.1.1={
@@ -41,7 +41,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="catholic"
+	religion="orthodox"
 	culture="romanian"
 	add_trait="tough_soldier"
 	1050.1.1={

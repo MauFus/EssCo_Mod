@@ -6,7 +6,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="sunni"
+	religion="monophysite"
 	culture="kurdish"
 	add_trait="intricate_webweaver"
 	father=159163

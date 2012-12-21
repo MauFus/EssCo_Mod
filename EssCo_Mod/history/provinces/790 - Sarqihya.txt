@@ -17,7 +17,7 @@ b_atfih = temple
 
 # Misc
 culture = egyptian_arabic
-religion = monophysite
+religion = miaphysite
 
 # History
 

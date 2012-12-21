@@ -125,7 +125,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="baltic_pagan"
+	religion="orthodox"
 	culture="lettigallish"
 	add_trait="skilled_tactician"
 	1050.1.1={

@@ -503,7 +503,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="monophysite"
 	culture="armenian"
 	add_trait="honest"
 	add_trait="tough_soldier"
@@ -1089,7 +1089,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="monophysite"
 	culture="armenian"
 	1064.1.1={
 		birth="1064.1.1"
@@ -1153,7 +1153,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="monophysite"
 	culture="armenian"
 	add_trait="deceitful"
 	add_trait="underhanded_rogue"
@@ -1259,7 +1259,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="monophysite"
 	culture="armenian"
 	add_trait="content"
 	add_trait="diligent"
@@ -2207,7 +2207,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="miaphysite"
+	religion="monophysite"
 	culture="armenian"
 	add_trait="incapable"
 	add_trait="tough_soldier"
@@ -2442,7 +2442,7 @@
 	diplomacy=8
 	intrigue=9
 	stewardship=2
-	religion="miaphysite"
+	religion="monothelite"
 	culture="armenian"
 	add_trait="ill"
 	add_trait="flamboyant_schemer"
@@ -2737,7 +2737,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="miaphysite"
+	religion="monophysite"
 	culture="armenian"
 	add_trait="zealous"
 	add_trait="patient"
@@ -2866,7 +2866,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="monothelite"
 	culture="armenian"
 	add_trait="slothful"
 	add_trait="gluttonous"
@@ -2927,7 +2927,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="monothelite"
 	culture="armenian"
 	add_trait="inbred"
 	add_trait="thrifty_clerk"
@@ -3349,7 +3349,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="miaphysite"
+	religion="monophysite"
 	culture="armenian"
 	add_trait="envious"
 	add_trait="gregarious"

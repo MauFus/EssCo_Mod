@@ -4292,7 +4292,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="catholic"
+	religion="orthodox"
 	culture="russian"
 	add_trait="wroth"
 	add_trait="greedy"

@@ -228,7 +228,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="tengri_pagan"
+	religion="orthodox"
 	culture="alan"
 	add_trait="ill"
 	add_trait="flamboyant_schemer"

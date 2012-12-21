@@ -187,7 +187,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="catholic"
+	religion="bogomilist"
 	culture="serbian"
 	add_trait="wroth"
 	add_trait="humble"
@@ -338,7 +338,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="bogomilist"
 	culture="serbian"
 	add_trait="cynical"
 	add_trait="tough_soldier"
@@ -1720,7 +1720,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="bogomilist"
 	culture="serbian"
 	add_trait="just"
 	add_trait="kind"
