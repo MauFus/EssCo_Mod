@@ -2595,7 +2595,7 @@
 }
 
 933031 = {
-	name="Sadr al-Din Musa"
+	name="Hassan"
 	dynasty=5
 	religion="zikri"
 	culture="persian"
@@ -2608,7 +2608,7 @@
 }
 
 933032 = {
-	name="Sadr al-Din Musa"
+	name="Zakaria"
 	dynasty=6
 	religion="zikri"
 	culture="persian"
@@ -2621,7 +2621,7 @@
 }
 
 933033 = {
-	name="Sadr al-Din Musa"
+	name="Yuluq Shah"
 	dynasty=1031100
 	religion="zikri"
 	culture="persian"
@@ -2634,9 +2634,22 @@
 }
 
 933034 = {
-	name="Sadr al-Din Musa"
+	name="Turkan"
 	dynasty=100633
 	religion="zikri"
+	culture="persian"
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+933035 = {
+	name="Hatun"
+	dynasty=1031105
+	religion="sunni"
 	culture="persian"
 	1005.1.1={
 		birth="1005.1.1"

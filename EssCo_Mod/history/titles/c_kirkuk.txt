@@ -1,6 +1,6 @@
 1066.1.1= 
 { 
-	holder=3040 # Alp Arslan 
+	holder=1592025
 } 
 1072.11.1={ 
 	holder=3822 

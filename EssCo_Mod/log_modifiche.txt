@@ -41,18 +41,6 @@
 ---------- Provinces -----------------------------
 ! TODO - Kurdish, Ethiopian, Mandè
 
-657 - kur
-664 - kur
-666 - kur
-667 - kur
-670 - kur
-684 - kur
-685 - kur
-686 - kur
-687 - kur
-689 - kur
-695 - kur
-697 - kur
 793 - eth
 872 - eth
 873 - eth

@@ -396,11 +396,11 @@
 	dynasty=7333
 	religion="sunni"
 	culture="kurdish"
-	1080.1.1={
-		birth="1080.1.1"
+	1040.1.1={
+		birth="1040.1.1"
 	}
-	1140.1.1={
-		death="1140.1.1"
+	1100.1.1={
+		death="1100.1.1"
 	}
 }
 
@@ -542,11 +542,11 @@
 	culture="kurdish"
 	add_trait="tough_soldier"
 	father=32911
-	1110.1.1={
-		birth="1110.1.1"
+	1060.1.1={
+		birth="1060.1.1"
 	}
-	1173.8.9={
-		death="1173.8.9"
+	1123.8.9={
+		death="1123.8.9"
 	}
 }
 
@@ -670,8 +670,21 @@
 	938.1.1={
 		birth="938.1.1"
 	}
-	990.1.1={
-		death="990.1.1"
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+1591431 = { 
+	name="Baz"
+	dynasty=1029006
+	religion="shiite"
+	culture="kurdish"
+	father=159143
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
 	}
 }
 159144 = { 
@@ -1275,6 +1288,114 @@
 	religion="sunni"
 	culture="kurdish"
 	father=159201
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+1592021 = { 
+	name="Abbas"
+	dynasty=1029008
+	religion="sunni"
+	culture="kurdish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+1592022 = { 
+	name="Hormoz"
+	dynasty=1029009
+	religion="sunni"
+	culture="kurdish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+1592023 = { 
+	name="Nard"
+	dynasty=1029010
+	religion="sunni"
+	culture="kurdish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+1592024 = { 
+	name="Naveed"
+	dynasty=1029011
+	religion="sunni"
+	culture="kurdish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+1592025 = { 
+	name="Parviz"
+	dynasty=1029012
+	religion="sunni"
+	culture="kurdish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+1592026 = { 
+	name="Vali"
+	dynasty=1029013
+	religion="sunni"
+	culture="kurdish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+1592027 = { 
+	name="Hafez"
+	dynasty=1029014
+	religion="sunni"
+	culture="kurdish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+1592028 = { 
+	name="Fath"
+	dynasty=1029015
+	religion="sunni"
+	culture="kurdish"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+1592029 = { 
+	name="Yousef"
+	dynasty=1029016
+	religion="sunni"
+	culture="kurdish"
 	1040.1.1={
 		birth="1040.1.1"
 	}
