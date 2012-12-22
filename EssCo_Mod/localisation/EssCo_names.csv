@@ -1,4 +1,3 @@
-k_;;;;;;;;;;;;;;x
 k_ulster;Ulster;Ulster;Ulster;;Ulster;;;;;;;;;x
 k_leinster;Leinster;Leinster;Leinster;;Leinster;;;;;;;;;x
 k_cornwall;Cornovaglia;Cornovaglia;Cornovaglia;;Cornovaglia;;;;;;;;;x
@@ -8,9 +7,7 @@ k_northumbria;Northumbria;Northumbria;Northumbria;;Northumbria;;;;;;;;;x
 k_mercia;Mercia;Mercia;Mercia;;Mercia;;;;;;;;;x
 k_anglia;Anglia;Anglia;Anglia;;Anglia;;;;;;;;;x
 k_wessex;Wessex;Wessex;Wessex;;Wessex;;;;;;;;;x
-k_holland;Olanda;Olanda;Olanda;;Olanda;;;;;;;;;x
-k_belgium;Belgio;Belgio;Belgio;;Belgio;;;;;;;;;x
-d_calais;Calais;Calais;Calais;;Calais;;;;;;;;;x
+;;;;;;;;;;;;;;
 k_catalonia;Catalonia;Catalonia;Catalonia;;Catalonia;;;;;;;;;x
 k_asturias;Asturie;Asturie;Asturie;;Asturie;;;;;;;;;x
 k_lusitania;Lusitania;Lusitania;Lusitania;;Lusitania;;;;;;;;;x
@@ -19,6 +16,7 @@ k_spain;Spagna;Spagna;Spagna;;Spagna;;;;;;;;;x
 k_granada;Granada;Granada;Granada;;Granada;;;;;;;;;x
 k_betica;Betica;Betica;Betica;;Betica;;;;;;;;;x
 d_girona;Girona;Girona;Girona;;Girona;;;;;;;;;x
+;;;;;;;;;;;;;;
 k_normandy;Normandia;Normandia;Normandia;;Normandia;;;;;;;;;x
 k_neustria;Neustria;Neustria;Neustria;;Neustria;;;;;;;;;x
 k_loira;Loira;Loira;Loira;;Loira;;;;;;;;;x
@@ -32,6 +30,22 @@ d_languedoc;Linguadoca;Linguadoca;Linguadoca;;Linguadoca;;;;;;;;;x
 d_helvetia;Helvetia;Helvetia;Helvetia;;Helvetia;;;;;;;;;x
 d_saona;Saona;Saona;Saona;;Saona;;;;;;;;;x
 d_rennes;Rennes;Rennes;Rennes;;Rennes;;;;;;;;;x
+;;;;;;;;;;;;;;
+k_holland;Olanda;Olanda;Olanda;;Olanda;;;;;;;;;x
+k_belgium;Belgio;Belgio;Belgio;;Belgio;;;;;;;;;x
+k_reinland;Renania;Renania;Renania;;Renania;;;;;;;;;x
+k_hannover;Hannover;Hannover;Hannover;;Hannover;;;;;;;;;x
+k_alemannia;Alemannia;Alemannia;Alemannia;;Alemannia;;;;;;;;;x
+k_lorraine;Lorena;Lorena;Lorena;;Lorena;;;;;;;;;x
+k_luxembourg;Lussemburgo;Lussemburgo;Lussemburgo;;Lussemburgo;;;;;;;;;x
+k_baviera;Baviera;Baviera;Baviera;;Baviera;;;;;;;;;x
+k_austria;Austria;Austria;Austria;;Austria;;;;;;;;;x
+k_brandenburg;Brandeburgo;Brandeburgo;Brandeburgo;;Brandeburgo;;;;;;;;;x
+k_mecklemburg;Meclemburgo;Meclemburgo;Meclemburgo;;Meclemburgo;;;;;;;;;x
+d_calais;Calais;Calais;Calais;;Calais;;;;;;;;;x
+d_oldenburg;Oldenburg;Oldenburg;Oldenburg;;Oldenburg;;;;;;;;;x
+d_styria;Stiria;Stiria;Stiria;;Stiria;;;;;;;;;x
+;;;;;;;;;;;;;;
 e_italica;Italica;Italica;Italica;;Italica;;;;;;;;;x
 e_centre;Impero Centrale;Impero Centrale;Impero Centrale;;Impero Centrale;;;;;;;;;x
 e_altaica;Altaica;Altaica;Altaica;;Altaica;;;;;;;;;x

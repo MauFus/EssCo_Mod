@@ -6985,7 +6985,7 @@ b_randers;Randers;Randers;Randers;;Randers;;;;;;;;;x
 b_horsens;Horsens;Horsens;Horsens;;Horsens;;;;;;;;;x
 b_skive;Skive;Skive;Skive;;Skive;;;;;;;;;x
 b_skagen;Skagen;Skagen;Skagen;;Skagen;;;;;;;;;x
-k_germany;Germany;Germanie;Deutschland;;Alemania;;;;;;;;;x
+k_germany;Germania;Germanie;Deutschland;;Alemania;;;;;;;;;x
 k_germany_adj;German;Allemande;Deutscher;;Alemana;;;;;;;;;x
 d_holstein;Holstein;Holstein;Holstein;;Holstein;;;;;;;;;x
 d_holstein_adj;Holsteiner;Holsteinaise;Holsteinischer;;Holsteinesa;;;;;;;;;x
@@ -7016,7 +7016,7 @@ b_elmshorn;Elmshorn;Elmshorn;Elmshorn;;Elmshorn;;;;;;;;;x
 b_gluckstadt;Glückstadt;Glückstadt;Glückstadt;;Glückstadt;;;;;;;;;x
 b_lauenburg;Lauenburg;Lauenbourg;Lauenburg;;Lauemburgo;;;;;;;;;x
 b_segeberg;Segeberg;Segeberg;Segeberg;;Segeberg;;;;;;;;;x
-d_saxony;Saxony;Saxe;Sachsen;;Sajonia;;;;;;;;;x
+d_saxony;Sassonia;Saxe;Sachsen;;Sajonia;;;;;;;;;x
 d_saxony_adj;Saxon;Saxonne;Sächsischer;;Sajona;;;;;;;;;x
 c_bremen_adj;Bremenian;Brêmoise;Bremischer;;Bremense;;;;;;;;;x
 b_bremen;Bremen;Brême;Bremen;;Bremen;;;;;;;;;x
@@ -7055,7 +7055,7 @@ b_goslar;Goslar;Goslar;Goslar;;Goslar;;;;;;;;;x
 b_northeim;Northeim;Northeim;Northeim;;Northeim;;;;;;;;;x
 b_eisenach;Eisenach;Eisenach;Eisenach;;Eisenach;;;;;;;;;x
 b_detmold;Detmold;Detmold;Detmold;;Detmold;;;;;;;;;x
-#d_mecklemburg;Mecklemburg;Mecklembourg;Mecklenburg;;Mecklemburgo;;;;;;;;;x
+#d_mecklemburg;Meclemburgo;Mecklembourg;Mecklenburg;;Mecklemburgo;;;;;;;;;x
 #d_mecklemburg_adj;Mecklemburgian;Mecklembourgeoise;Mecklenburgischer;;Mecklemburgués;;;;;;;;;x
 #c_mecklemburg_adj;Mecklemburgian;Mecklembourgeoise;Mecklenburgischer;;Mecklemburgués;;;;;;;;;x
 #b_mecklemburg;Mecklemburg;Mecklembourg;Mecklenburg;;Mecklemburgo;;;;;;;;;x
@@ -7121,7 +7121,7 @@ b_waldeck;Waldeck;Waldeck;Waldeck;;Waldeck;;;;;;;;;x
 b_wolfenbuttel;Wolfenbüttel;Wolfenbüttel;Wolfenbüttel;;Wolfenbüttel;;;;;;;;;x
 b_helmstedt;Helmstedt;Helmstedt;Helmstedt;;Helmstedt;;;;;;;;;x
 b_gandersheim;Gandersheim;Gandersheim;Gandersheim;;Gandersheim;;;;;;;;;x
-d_brandenburg;Brandenburg;Brandebourg;Brandenburg;;Brandeburgo;;;;;;;;;x
+d_brandenburg;Brandeburgo;Brandebourg;Brandenburg;;Brandeburgo;;;;;;;;;x
 d_brandenburg_adj;Brandenburger;Brandebourgeoise;Brandenburgischer;;Brandeburguesa;;;;;;;;;x
 c_altmark_adj;Altmarkian;Altmarkienne;Altmärkischer;;Altmarkianés;;;;;;;;;x
 b_werben;Weben;Weben;Weben;;Weben;;;;;;;;;x
@@ -7188,7 +7188,7 @@ b_rothenburg;Rothenburg;Rothenburg;Rothenburg;;Rotemburgo;;;;;;;;;x
 b_forst;Forst;Forst;Forst;;Forst;;;;;;;;;x
 b_zittau;Zittau;Zittau;Zittau;;Zittau;;;;;;;;;x
 b_luckau;Lukau;Lukau;Lukau;;Lukau;;;;;;;;;x
-d_thuringia;Thüringia;Thuringe;Thüringen;;Turingia;;;;;;;;;x
+d_thuringia;Turingia;Thuringe;Thüringen;;Turingia;;;;;;;;;x
 d_thuringia_adj;Thüringian;Thuringienne;Thüringer;;Turingia;;;;;;;;;x
 c_thuringen_adj;Thüringian;Thuringienne;Thüringer;;Turingio;;;;;;;;;x
 b_erfurt;Erfurt;Erfurt;Erfurt;;Érfurt;;;;;;;;;x
@@ -7303,7 +7303,7 @@ b_bergenopzoom;Bergenopzoom;Bergen Op Zoom;Bergenopzoom;;Bergenopzoom;;;;;;;;;x
 b_cuijck;Cuijck;Cuijck;Cuijck;;Cuijck;;;;;;;;;x
 b_ravenstein;Ravenstein;Ravenstein;Ravenstein;;Ravenstein;;;;;;;;;x
 b_horn;Horn;Horn;Horn;;Horn;;;;;;;;;x
-d_luxembourg;Luxembourg;Luxembourg;Luxemburg;;Luxemburgo;;;;;;;;;x
+d_luxembourg;Lussemburgo;Luxembourg;Luxemburg;;Luxemburgo;;;;;;;;;x
 d_luxembourg_adj;Luxembourgian;Luxembourgeoise;Luxemburgischer;;Luxemburguesa;;;;;;;;;x
 c_luxembourg_adj;Luxembourgian;Luxembourgeoise;Luxemburgischer;;Luxemburgués;;;;;;;;;x
 b_luxembourg;Luxembourg;Luxembourg;Luxemburg;;Luxemburgo;;;;;;;;;x
@@ -7332,7 +7332,7 @@ b_laroche;Laroche;Laroche;Laroche;;Laroche;;;;;;;;;x
 b_cine;Cînè;Cînè;Cînè;;Cînè;;;;;;;;;x
 b_salm;Salm;Salm;Salm;;Salm;;;;;;;;;x
 b_stavelot;Stavelot;Stavelot;Stavelot;;Stavelot;;;;;;;;;x
-d_lower_lorraine;Lower Lorraine;Lotharingie;Niederlothringen;;Baja Lorena;;;;;;;;;x
+d_lower_lorraine;Lorena;Lotharingie;Niederlothringen;;Baja Lorena;;;;;;;;;x
 d_lower_lorraine_adj;Lower Lorrainian;Lotharingienne;Oberlothringischer;;Bajolorenesa;;;;;;;;;x
 c_koln_adj;Kölnian;Colonaise;Kölner;;Coloniense;;;;;;;;;x
 b_koln;Köln;Cologne;Köln;;Colonia;;;;;;;;;x
@@ -7475,7 +7475,7 @@ b_lahr;Lahr;Lahr;Lahr;;Lahr;;;;;;;;;x
 b_lohrrach;Löhrrach;Löhrrach;Löhrrach;;Löhrrach;;;;;;;;;x
 b_breisach;Breisach;Breisach;Breisach;;Breisach;;;;;;;;;x
 b_rottweil;Rottweil;Rottweil;Rottweil;;Rottweil;;;;;;;;;x
-d_alsace;Alsace;Alsace;Elsass;;Alsacia;;;;;;;;;x
+d_alsace;Alsazia;Alsace;Elsass;;Alsacia;;;;;;;;;x
 d_alsace_adj;Alsatian;Alsacienne;Elsässischer;;Alsaciana;;;;;;;;;x
 c_nordgau_adj;Nordgauer;Nordgauvienne;Nordgauer;;Nordgauerense;;;;;;;;;x
 b_egisheim;Egisheim;Eguisheim;Egisheim;;Egisheim;;;;;;;;;x
@@ -7495,7 +7495,7 @@ b_landser;Landser;Landser;Landser;;Landser;;;;;;;;;x
 b_thann;Thann;Thann;Thann;;Thann;;;;;;;;;x
 b_altkirch;Altkirch;Altkirch;Altkirch;;Altkirch;;;;;;;;;x
 b_ferette;Ferette;Ferrette;Ferette;;Ferette;;;;;;;;;x
-d_tyrol;Tyrol;Tyrol;Tirol;;Tirol;;;;;;;;;x
+d_tyrol;Tirolo;Tyrol;Tirol;;Tirol;;;;;;;;;x
 d_tirol_adj;Tyrolian;Tyrolienne;Tiroler;;Tirolesa;;;;;;;;;x
 c_tirol_adj;Tyrolian;Tyrolienne;Tiroler;;Tirolés;;;;;;;;;x
 b_bregenz;Bregenz;Bregenz;Bregenz;;Bregenz;;;;;;;;;x
@@ -7533,7 +7533,7 @@ b_schwaz;Schwaz;Schwaz;Schwaz;;Schwaz;;;;;;;;;x
 b_kitzbuhel;Kitzbühel;Kitzbühel;Kitzbühel;;Kitzbühel;;;;;;;;;x
 b_jenbach;Jenbach;Jenbach;Jenbach;;Jenbach;;;;;;;;;x
 b_fugen;Fügen;Fügen;Fügen;;Fügen;;;;;;;;;x
-d_swabia;Swabia;Souabe;Schwaben;;Suabia;;;;;;;;;x
+d_swabia;Svevia;Souabe;Schwaben;;Suabia;;;;;;;;;x
 d_swabia_adj;Swabian;Souabienne;Schwäbischer;;Suaba;;;;;;;;;x
 c_schwaben_adj;Swabian;Souabienne;Schwäbischer;;Schwabianés;;;;;;;;;x
 b_tubingen;Tübingen;Tübingen;Tübingen;;Tübingen;;;;;;;;;x
@@ -10895,7 +10895,7 @@ b_vizakna;Vizakna;Vizakna;Vizakna;;Vizakna;;;;;;;;;x
 b_tovis;Tövis;Tövis;Tövis;;Tövis;;;;;;;;;x
 k_italy;Italy;Italie;Italien;;Italia;;;;;;;;;x
 k_italy_adj;Italian;Italienne;Italienischer;;Italiana;;;;;;;;;x
-d_carinthia;Carinthia;Carinthie;Kärnten;;Carintia;;;;;;;;;x
+d_carinthia;Carinzia;Carinthie;Kärnten;;Carintia;;;;;;;;;x
 d_carinthia_adj;Carinthian;Carinthienne;Kärntner;;Carintia;;;;;;;;;x
 c_istria_adj;Istrian;Istrienne;Istrischer;;Istriano;;;;;;;;;x
 b_mitterburg;Mitterburg;Mitterburg;Mitterburg;;Mitterburgo;;;;;;;;;x
@@ -15184,7 +15184,7 @@ d_white_company_adj;Mercenary;Mercenaire;Söldner;;Mercenaria;;;;;;;;;x
 d_victual_brothers;Victual Brothers;Frères Vitaliens;Vitalienbrüder;;Hermandad Vitaliana;;;;;;;;;x
 d_victual_brothers_adj;Victual;Vitalienne;Vitalien;;Mercenaria;;;;;;;;;x
 b_kalmar;Kalmar;Kalmar;Kalmar;;Kalmar;;;;;;;;;x
-d_koln;Köln;Cologne;Köln;;Colonia;;;;;;;;;x
+d_koln;Colonia;Cologne;Köln;;Colonia;;;;;;;;;x
 d_koln_adj;Colognian;Colognaise;Kölner;;Coloniense;;;;;;;;;x
 d_lombard_band;Lombard Band;Bande Lombarde;Lombardei-Trupp;;Banda Lombarda;;;;;;;;;x
 d_lombard_band_adj;Lombard;Lombarde;Lombardisch;;Mercenaria;;;;;;;;;x

@@ -2208,12 +2208,6 @@ e_hre = {
 				b_stavelot = {
 				}
 			}
-		}
-		d_upper_lorraine = {
-			color={ 190 187 187 }
-			color2={ 255 255 255 }
-			
-			capital = 127 #Lorraine		
 			c_verdun = {
 				color={ 111 111 111 }
 				color2={ 255 255 255 }
@@ -2235,47 +2229,15 @@ e_hre = {
 				b_doaumont = {
 				}
 			}
-			c_lorraine = {
-				color={ 108 108 108 }
-				color2={ 255 255 255 }
+		}
+		d_upper_lorraine = {
+			color={ 190 187 187 }
+			color2={ 255 255 255 }
 			
-				b_nancy = {
-				}
-				b_toul = {
-				}
-				b_sarrebourg = {
-				}
-				b_epinal = {
-				}
-				b_luneville = {
-				}
-				b_charpeigne = {
-				}
-				b_mortagnedevosges = {
-				}
-				b_saintavoid = {
-				}
-			}
-			c_saintois = {
-				color={ 105 105 105 }
-				color2={ 255 255 255 }
-		
-				b_saintois = {
-				}
-				b_vaudemont = {
-				}
-				b_brixey = {
-				}
-				b_sorcystmartin = {
-				}
-				b_ivios = {
-				}
-				b_ornois = {
-				}
-				b_saulnois = {
-				}
-				b_dompaire = {
-				}
+			capital = 127 #Lorraine	
+
+			allow = {
+				always = no
 			}
 		}
 		d_lower_lorraine = {
@@ -2395,6 +2357,48 @@ e_hre = {
 				b_ferette = {
 				}
 			}
+			c_lorraine = {
+				color={ 108 108 108 }
+				color2={ 255 255 255 }
+			
+				b_nancy = {
+				}
+				b_toul = {
+				}
+				b_sarrebourg = {
+				}
+				b_epinal = {
+				}
+				b_luneville = {
+				}
+				b_charpeigne = {
+				}
+				b_mortagnedevosges = {
+				}
+				b_saintavoid = {
+				}
+			}
+			c_saintois = {
+				color={ 105 105 105 }
+				color2={ 255 255 255 }
+		
+				b_saintois = {
+				}
+				b_vaudemont = {
+				}
+				b_brixey = {
+				}
+				b_sorcystmartin = {
+				}
+				b_ivios = {
+				}
+				b_ornois = {
+				}
+				b_saulnois = {
+				}
+				b_dompaire = {
+				}
+			}
 		}
 	}
 	
@@ -2477,27 +2481,6 @@ e_hre = {
 				b_templin = {
 				}
 			}
-			c_rugen = {
-				color={ 201 201 201 }
-				color2={ 255 255 255 }
-				
-				b_charenza = {
-				}
-				b_arkona = {
-				}
-				b_rugard = {
-				}
-				b_putbus = {
-				}
-				b_barth = {
-				}
-				b_ralswiek = {
-				}
-				b_hiddensee = {
-				}
-				b_tribuzin = {
-				}
-			}
 		}
 		
 		d_pommerania = {
@@ -2546,6 +2529,27 @@ e_hre = {
 				b_cedene = {
 				}
 				b_pyritz = {
+				}
+			}
+			c_rugen = {
+				color={ 201 201 201 }
+				color2={ 255 255 255 }
+				
+				b_charenza = {
+				}
+				b_arkona = {
+				}
+				b_rugard = {
+				}
+				b_putbus = {
+				}
+				b_barth = {
+				}
+				b_ralswiek = {
+				}
+				b_hiddensee = {
+				}
+				b_tribuzin = {
 				}
 			}
 		}
@@ -2688,6 +2692,27 @@ e_hre = {
 				b_gera = {
 				}
 			}
+			c_meissen = {
+				color={ 177 177 177 }
+				color2={ 255 255 255 }
+				
+				b_dresden = {
+				}
+				b_meissen = {
+				}
+				b_dohna = {
+				}
+				b_belgern = {
+				}
+				b_strehla = {
+				}
+				b_rabenau = {
+				}
+				b_wettin = {
+				}
+				b_radeburg = {
+				}
+			}
 		}
 		
 		d_brandenburg = {
@@ -2739,34 +2764,6 @@ e_hre = {
 				b_muncheberg = {
 				}
 			}
-		}
-		d_meissen = {
-			color={ 182 188 181 }
-			color2={ 255 255 255 }
-			
-			capital = 312 #Meissen
-		
-			c_meissen = {
-				color={ 177 177 177 }
-				color2={ 255 255 255 }
-				
-				b_dresden = {
-				}
-				b_meissen = {
-				}
-				b_dohna = {
-				}
-				b_belgern = {
-				}
-				b_strehla = {
-				}
-				b_rabenau = {
-				}
-				b_wettin = {
-				}
-				b_radeburg = {
-				}
-			}
 			c_lausitz = {
 				color={ 174 174 174 }
 				color2={ 255 255 255 }
@@ -2787,6 +2784,16 @@ e_hre = {
 				}
 				b_luckau = {
 				}
+			}
+		}
+		d_meissen = {
+			color={ 182 188 181 }
+			color2={ 255 255 255 }
+			
+			capital = 312 #Meissen
+			
+			allow = {
+				always = no
 			}
 		}
 	}
@@ -2849,27 +2856,6 @@ e_hre = {
 				b_ebersberg = {
 				}
 			}
-			c_salzburg = {
-				color={ 63 63 63 }
-				color2={ 255 255 255 }
-			
-				b_salzburg = {
-				}
-				b_durmberg = {
-				}
-				b_waging = {
-				}
-				b_berchtesgaden = {
-				}
-				b_tittmoning = {
-				}
-				b_laufen = {
-				}
-				b_muhldorf = {
-				}
-				b_gastein = {
-				}
-			}
 			c_niederbayern = {
 				color={ 60 60 60 }
 				color2={ 255 255 255 }
@@ -2913,7 +2899,77 @@ e_hre = {
 				}
 			}
 		}
-		d_osterreich = { 
+		d_styria = {
+			color={ 141 172 172 }
+			color2={ 255 255 255 }
+			
+			capital = 455 #Steiermark
+			
+			c_steiermark = {
+				color={ 45 45 45 }
+				color2={ 255 255 255 }
+				
+				b_eppenstein = {
+				}
+				b_graz = {
+				}
+				b_lavant = {
+				}
+				b_cilli = {
+				}
+				b_seckau = {
+				}
+				b_leibnitz = {
+				}
+				b_radkersburg = {
+				}
+				b_stubing = {
+				}
+			}
+			c_salzburg = {
+				color={ 63 63 63 }
+				color2={ 255 255 255 }
+			
+				b_salzburg = {
+				}
+				b_durmberg = {
+				}
+				b_waging = {
+				}
+				b_berchtesgaden = {
+				}
+				b_tittmoning = {
+				}
+				b_laufen = {
+				}
+				b_muhldorf = {
+				}
+				b_gastein = {
+				}
+			}
+			c_innsbruck = {
+				color={ 84 84 84 }
+				color2={ 255 255 255 }
+			
+				b_innsbruck = {
+				}
+				b_kufstein = {
+				}
+				b_stams = {
+				}
+				b_lienz = {
+				}
+				b_schwaz = {
+				}
+				b_kitzbuhel = {
+				}
+				b_jenbach = {
+				}
+				b_fugen = {
+				}
+			}
+		}
+		d_osterreich = {
 			color={ 191 182 182 }
 			color2={ 255 255 255 }
 			
@@ -2982,27 +3038,6 @@ e_hre = {
 				b_steyr = {
 				}
 			}
-			c_steiermark = {
-				color={ 45 45 45 }
-				color2={ 255 255 255 }
-				
-				b_eppenstein = {
-				}
-				b_graz = {
-				}
-				b_lavant = {
-				}
-				b_cilli = {
-				}
-				b_seckau = {
-				}
-				b_leibnitz = {
-				}
-				b_radkersburg = {
-				}
-				b_stubing = {
-				}
-			}
 		}
 		
 		d_tyrol = {  
@@ -3052,27 +3087,6 @@ e_hre = {
 				b_vaduz = {
 				}
 				b_herisau = {
-				}
-			}
-			c_innsbruck = {
-				color={ 84 84 84 }
-				color2={ 255 255 255 }
-			
-				b_innsbruck = {
-				}
-				b_kufstein = {
-				}
-				b_stams = {
-				}
-				b_lienz = {
-				}
-				b_schwaz = {
-				}
-				b_kitzbuhel = {
-				}
-				b_jenbach = {
-				}
-				b_fugen = {
 				}
 			}
 			c_chur = {
@@ -3204,75 +3218,12 @@ e_hre = {
 		
 		catholic = 700 # Crusade target weight
 		
-		d_brunswick = {
-			color={ 183 172 172 }
+		d_oldenburg = {
+			color={ 153 122 122 }
 			color2={ 255 255 255 }
 		
-			capital = 258 #Lüneburg
-		
-			c_celle = {
-				color={ 198 198 198 }
-				color2={ 255 255 255 }
-				
-				b_celle = {
-				}
-				b_hannover = {
-				}
-				b_herford = {
-				}
-				b_hermannsburg = {
-				}
-				b_ravensberg = {
-				}
-				b_nienburg = {
-				}
-				b_wedemark = {
-				}
-				b_wittingen = {
-				}
-			}
-			c_luneburg = {
-				color={ 195 195 195 }
-				color2={ 255 255 255 }
-				
-				b_luneburg = {
-				}
-				b_bardowick = {
-				}
-				b_gifhorn = {
-				}
-				b_evern = {
-				}
-				b_reppenstedt = {
-				}
-				b_ludersburg = {
-				}
-				b_thomasburg = {
-				}
-				b_uelzen = {
-				}
-			}
-			c_braunschweig = {
-				color={ 192 192 192 }
-				color2={ 255 255 255 }
-				
-				b_braunschweig = {
-				}
-				b_bielefeld = {
-				}
-				b_paderborn = {
-				}
-				b_hildesheim = {
-				}
-				b_waldeck = {
-				}
-				b_wolfenbuttel = {
-				}
-				b_helmstedt = {
-				}
-				b_gandersheim = {
-				}
-			}
+			capital = 86 #Oldenburg
+			
 			c_oldenburg = {
 				color={ 214 214 214 }
 				color2={ 255 255 255 }
@@ -3313,6 +3264,98 @@ e_hre = {
 				b_quackenbruck = {
 				}
 				b_meppen = {
+				}
+			}
+			c_celle = {
+				color={ 198 198 198 }
+				color2={ 255 255 255 }
+				
+				b_celle = {
+				}
+				b_hannover = {
+				}
+				b_herford = {
+				}
+				b_hermannsburg = {
+				}
+				b_ravensberg = {
+				}
+				b_nienburg = {
+				}
+				b_wedemark = {
+				}
+				b_wittingen = {
+				}
+			}
+			c_munster = {
+				color={ 212 212 212 }
+				color2={ 255 255 255 }
+				
+				b_munster = {
+				}
+				b_dortmund = {
+				}
+				b_essen = {
+				}
+				b_greven = {
+				}
+				b_gutersloh = {
+				}
+				b_steinfurt = {
+				}
+				b_gronau = {
+				}
+				b_ahlen = {
+				}
+			}
+		}
+		
+		d_brunswick = {
+			color={ 183 172 172 }
+			color2={ 255 255 255 }
+		
+			capital = 258 #Lüneburg
+		
+			c_luneburg = {
+				color={ 195 195 195 }
+				color2={ 255 255 255 }
+				
+				b_luneburg = {
+				}
+				b_bardowick = {
+				}
+				b_gifhorn = {
+				}
+				b_evern = {
+				}
+				b_reppenstedt = {
+				}
+				b_ludersburg = {
+				}
+				b_thomasburg = {
+				}
+				b_uelzen = {
+				}
+			}
+			c_braunschweig = {
+				color={ 192 192 192 }
+				color2={ 255 255 255 }
+				
+				b_braunschweig = {
+				}
+				b_bielefeld = {
+				}
+				b_paderborn = {
+				}
+				b_hildesheim = {
+				}
+				b_waldeck = {
+				}
+				b_wolfenbuttel = {
+				}
+				b_helmstedt = {
+				}
+				b_gandersheim = {
 				}
 			}
 			c_gottingen = {
@@ -3385,6 +3428,27 @@ e_hre = {
 				b_isenburg = {
 				}
 			}
+			c_mainz = {
+				color={ 129 129 129 }
+				color2={ 255 255 255 }
+			
+				b_mainz = {
+				}
+				b_frankfurt = {
+				}
+				b_eppstein = {
+				}
+				b_ingelheim = {
+				}
+				b_mannheim = {
+				}
+				b_weilburg = {
+				}
+				b_dornburg = {
+				}
+				b_hanau = {
+				}
+			}
 		}
 		d_koln = {
 			color={ 213 216 212 }
@@ -3432,27 +3496,6 @@ e_hre = {
 				b_wassenberg = {
 				}
 				b_tongeren = {
-				}
-			}
-			c_munster = {
-				color={ 212 212 212 }
-				color2={ 255 255 255 }
-				
-				b_munster = {
-				}
-				b_dortmund = {
-				}
-				b_essen = {
-				}
-				b_greven = {
-				}
-				b_gutersloh = {
-				}
-				b_steinfurt = {
-				}
-				b_gronau = {
-				}
-				b_ahlen = {
 				}
 			}
 			c_julich = {
@@ -3503,29 +3546,8 @@ e_hre = {
 			color={ 100 99 100 }
 			color2={ 255 255 255 }
 			
-			capital = 123 #Mainz
+			capital = 122 #Leiningen
 		
-			c_mainz = {
-				color={ 129 129 129 }
-				color2={ 255 255 255 }
-			
-				b_mainz = {
-				}
-				b_frankfurt = {
-				}
-				b_eppstein = {
-				}
-				b_ingelheim = {
-				}
-				b_mannheim = {
-				}
-				b_weilburg = {
-				}
-				b_dornburg = {
-				}
-				b_hanau = {
-				}
-			}
 			c_leiningen = {
 				color={ 126 126 126 }
 				color2={ 255 255 255 }
@@ -3638,6 +3660,27 @@ e_hre = {
 				b_rottweil = {
 				}
 			}
+			c_furstenberg = {
+				color={ 75 75 75 }
+				color2={ 255 255 255 }
+			
+				b_furstenberg = {
+				}
+				b_villingen = {
+				}
+				b_hirsau = {
+				}
+				b_baar = {
+				}
+				b_haslach = {
+				}
+				b_zollern = {
+				}
+				b_wolfach = {
+				}
+				b_donaueschingen = {
+				}
+			}
 		}
 		
 		d_swabia = {
@@ -3688,27 +3731,6 @@ e_hre = {
 				b_erbach = {
 				}
 			}
-			c_furstenberg = {
-				color={ 75 75 75 }
-				color2={ 255 255 255 }
-			
-				b_furstenberg = {
-				}
-				b_villingen = {
-				}
-				b_hirsau = {
-				}
-				b_baar = {
-				}
-				b_haslach = {
-				}
-				b_zollern = {
-				}
-				b_wolfach = {
-				}
-				b_donaueschingen = {
-				}
-			}
 			c_wurttemberg = {
 				color={ 72 72 72 }
 				color2={ 255 255 255 }
@@ -3728,6 +3750,184 @@ e_hre = {
 				b_staufen = {
 				}
 				b_asperg = {
+				}
+			}
+		}
+	}
+	
+	# Titular
+
+	k_holland = {
+		color = { 235 100 20 }
+		capital = 80 # Holland
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
+				}
+			}
+		}
+	}
+
+	k_belgium = {
+		color = { 200 120 60 }
+		capital = 117 # Brabant
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
+				}
+			}
+		}
+	}
+
+	k_lorraine = {
+		color = { 190 187 187 }
+		capital = 127 #Lorraine
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
+				}
+			}
+		}
+	}
+
+	k_luxembourg = {
+		color = { 147 147 147 }
+		capital = 115 #Luxembourg
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
+				}
+			}
+		}
+	}
+
+	k_reinland = {
+		color = { 164 80 160 }
+		capital = 119 #Köln
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
+				}
+			}
+		}
+	}
+
+	k_hannover = {
+		color = { 244 80 60 }
+		capital = 259 # Celle
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
+				}
+			}
+		}
+	}
+
+	k_alemannia = {
+		color = { 204 140 60 }
+		capital = 253 # Wurttemberg
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
+				}
+			}
+		}
+	}
+
+	k_baviera = {
+		color = { 11 191 238 }
+		capital = 360 #Oberbayern
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
+				}
+			}
+		}
+	}
+
+	k_austria = {
+		color = { 200 238 238 }
+		capital = 449 #Österreich
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
+				}
+			}
+		}
+	}
+
+	k_brandenburg = {
+		color = { 11 91 238 }
+		capital = 365 #Brandenburg
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
+				}
+			}
+		}
+	}
+
+	k_mecklenburg = {
+		color = { 51 213 51 }
+		capital = 260 #mecklemburg
+		
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+							tier = king
+							tier = emperor
+						}
 				}
 			}
 		}
@@ -24899,40 +25099,6 @@ k_zirid = {
 }
 k_ziyanids = {
 	color = { 5 76 194 }
-}
-
-# MY TITULAR KINGDOMS
-
-k_holland = {
-	color = { 235 100 20 }
-	capital = 80 # Holland
-	
-	allow = {
-		NOT = {
-			any_demesne_title = {
-				OR = {
-						tier = king
-						tier = emperor
-					}
-			}
-		}
-	}
-}
-
-k_belgium = {
-	color = { 200 120 60 }
-	capital = 117 # Brabant
-	
-	allow = {
-		NOT = {
-			any_demesne_title = {
-				OR = {
-						tier = king
-						tier = emperor
-					}
-			}
-		}
-	}
 }
 
 # TITULAR EMPIRES
