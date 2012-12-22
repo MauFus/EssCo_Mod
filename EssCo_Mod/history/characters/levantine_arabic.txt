@@ -472,7 +472,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="sunni"
+	religion="druze"
 	culture="levantine_arabic"
 	add_trait="ill"
 	add_trait="flamboyant_schemer"
@@ -570,7 +570,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="sunni"
+	religion="yazidi"
 	culture="levantine_arabic"
 	add_trait="humble"
 	add_trait="flamboyant_schemer"
@@ -610,7 +610,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="shiite"
+	religion="sunni"
 	culture="levantine_arabic"
 	add_trait="diligent"
 	add_trait="flamboyant_schemer"
@@ -648,7 +648,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="sunni"
+	religion="druze"
 	culture="levantine_arabic"
 	add_trait="temperate"
 	add_trait="amateurish_plotter"
@@ -744,7 +744,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="sunni"
+	religion="yazidi"
 	culture="levantine_arabic"
 	add_trait="scholarly_theologian"
 	1039.1.1={
@@ -821,7 +821,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=5
-	religion="sunni"
+	religion="druze"
 	culture="levantine_arabic"
 	add_trait="scholarly_theologian"
 	1039.1.1={
@@ -1842,7 +1842,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=7
-	religion="sunni"
+	religion="yazidi"
 	culture="levantine_arabic"
 	add_trait="charitable"
 	add_trait="skilled_tactician"
@@ -3407,7 +3407,7 @@
 34700 = {
 	name="Iftikhar"
 	dynasty=7312
-	religion="shiite"
+	religion="druze"
 	culture="egyptian_arabic"
 	1061.1.1={
 		birth="1061.1.1"
@@ -3588,7 +3588,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="shiite"
+	religion="sunni"
 	culture="levantine_arabic"
 	add_trait="skilled_tactician"
 	add_trait="clubfooted"
@@ -3607,7 +3607,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="sunni"
+	religion="druze"
 	culture="levantine_arabic"
 	add_trait="charismatic_negotiator"
 	father=20796
@@ -3677,7 +3677,7 @@
 93320 = {
 	name="Saad ad-Duwla"
 	dynasty=7345
-	religion="sunni"
+	religion="druze"
 	culture="levantine_arabic"
 	1025.1.1={
 		birth="1025.1.1"
@@ -3704,7 +3704,7 @@
 93322 = {
 	name="Yusuf"
 	dynasty=7346
-	religion="sunni"
+	religion="druze"
 	culture="levantine_arabic"
 	1060.1.1={
 		birth="1060.1.1"
@@ -4842,7 +4842,7 @@
 93432 = {
 	name="Zain ad-Dawlah Intisar"
 	dynasty=7367
-	religion="shiite"
+	religion="sunni"
 	culture="levantine_arabic"
 	1030.1.1={
 		birth="1030.1.1"
@@ -5145,7 +5145,7 @@
 93469 = {
 	name="Mas'ud"
 	#placeholder
-	religion="sunni"
+	religion="yazidi"
 	culture="levantine_arabic"
 	1040.1.1={
 		birth="1040.1.1"
@@ -5249,7 +5249,7 @@
 93477 = {
 	name="Ali"
 	#placeholder
-	religion="sunni"
+	religion="yazidi"
 	culture="levantine_arabic"
 	1040.1.1={
 		birth="1040.1.1"

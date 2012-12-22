@@ -185,7 +185,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="sunni"
+	religion="ibadi"
 	culture="maghreb_arabic"
 	add_trait="skilled_tactician"
 	1039.1.1 = {
@@ -240,7 +240,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="sunni"
+	religion="shiite"
 	culture="maghreb_arabic"
 	add_trait="honest"
 	add_trait="arbitrary"
@@ -261,7 +261,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=8
-	religion="sunni"
+	religion="shiite"
 	culture="maghreb_arabic"
 	add_trait="scholarly_theologian"
 	add_trait="cynical"
@@ -359,7 +359,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="sunni"
+	religion="shiite"
 	culture="maghreb_arabic"
 	add_trait="fortune_builder"
 	1039.1.1 = {
@@ -2516,7 +2516,6 @@
 		add_claim = d_tlemcen
 	}
 	1071.1.1 = {
-		add_spouse=3856
 		add_claim = d_sevilla
 		add_claim = d_granada
 		add_claim = d_murcia
@@ -2544,7 +2543,6 @@
 	religion="sunni"
 	culture="maghreb_arabic"
 	father=32965
-	mother=3856
 	1072.1.1 = {
 		birth="1072.1.1"
 	}
@@ -2560,7 +2558,6 @@
 	religion="sunni"
 	culture="maghreb_arabic"
 	father=32965
-	mother=3856
 	1075.1.1 = {
 		birth="1075.1.1"
 	}
@@ -3911,12 +3908,6 @@
 		add_claim = d_granada
 		add_claim = d_murcia
 	}
-	1068.1.1={
-		add_spouse=3856
-	}
-	1071.1.1={
-		remove_spouse=3856
-	}
 	1087.1.1={
 		death="1087.1.1"
 	}
@@ -3948,7 +3939,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="sunni"
+	religion="ibadi"
 	culture="maghreb_arabic"
 	add_trait="amateurish_plotter"
 	1040.1.2 = {
@@ -4044,7 +4035,7 @@
 73222 = {
 	name="Sïr"
 	dynasty = 12200
-	religion="sunni"
+	religion="shiite"
 	culture="maghreb_arabic"
 	1048.1.1 = {
 		birth="1048.1.1"
@@ -4225,7 +4216,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="shiite"
+	religion="sunni"
 	culture="maghreb_arabic"
 	add_trait="amateurish_plotter"
 	1026.1.1 = {
@@ -4243,7 +4234,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="shiite"
+	religion="sunni"
 	culture="maghreb_arabic"
 	add_trait="arbitrary"
 	1033.1.1 = {
@@ -4277,7 +4268,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="shiite"
+	religion="ibadi"
 	culture="maghreb_arabic"
 	add_trait="patient"
 	add_trait="tough_soldier"
@@ -4317,7 +4308,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="shiite"
+	religion="sunni"
 	culture="maghreb_arabic"
 	add_trait="skilled_tactician"
 	1012.1.1 = {
@@ -4335,7 +4326,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="shiite"
+	religion="sunni"
 	culture="maghreb_arabic"
 	add_trait="chaste"
 	add_trait="slothful"
@@ -4356,7 +4347,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=8
-	religion="shiite"
+	religion="sunni"
 	culture="maghreb_arabic"
 	add_trait="tough_soldier"
 	1027.1.1 = {
@@ -4374,7 +4365,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=6
-	religion="shiite"
+	religion="sunni"
 	culture="maghreb_arabic"
 	add_trait="envious"
 	add_trait="flamboyant_schemer"
@@ -4393,7 +4384,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="shiite"
+	religion="sunni"
 	culture="maghreb_arabic"
 	add_trait="patient"
 	add_trait="temperate"
@@ -4408,7 +4399,7 @@
 73309 = {
 	name="Muhammad"
 	dynasty = 12240
-	religion="shiite"
+	religion="sunni"
 	culture="maghreb_arabic"
 	father=159194
 	1030.1.1 = {
@@ -4840,7 +4831,7 @@
 	name="Abu-'Amr"
 	#placeholder
 	dynasty=1027000
-	religion="sunni"
+	religion="ibadi"
 	culture="maghreb_arabic"
 	1045.1.1 = {
 		birth="1045.1.1"
@@ -4868,7 +4859,7 @@
 	name="Abdul-Razzaq"
 	#placeholder
 	dynasty=1027009
-	religion="sunni"
+	religion="ibadi"
 	culture="maghreb_arabic"
 	1030.1.1 = {
 		birth="1030.1.1"
@@ -6465,7 +6456,7 @@
 155130 = {
 	name="al-Muntasir" #ibn Khazrun
 	dynasty=1027001
-	religion="sunni"
+	religion="shiite"
 	culture="maghreb_arabic"
 	father=155128
 	1020.1.1 = {

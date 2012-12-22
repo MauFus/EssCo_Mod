@@ -280,7 +280,7 @@
 125716 = {
 	name="Konstantinos"
 	dynasty=101107
-	religion="orthodox"
+	religion="bektashi"
 	culture="greek"
 	1062.1.2={
 		birth="1062.1.2"
@@ -2787,7 +2787,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="bektashi"
 	culture="greek"
 	add_trait="patient"
 	add_trait="ill"
@@ -3252,7 +3252,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="bektashi"
 	culture="greek"
 	add_trait="proud"
 	add_trait="wroth"
@@ -6399,7 +6399,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="bektashi"
 	culture="greek"
 	add_trait="thrifty_clerk"
 	father=41536
@@ -11951,7 +11951,7 @@
 96102 = {
 	name="Mauros"
 	dynasty=101144
-	religion="catholic"
+	religion="bektashi"
 	culture="greek"
 	1056.1.1={
 		birth="1056.1.1"
@@ -15005,7 +15005,7 @@
 34586 = {
 	name="Eustathios" 
 	dynasty=101551
-	religion="orthodox"
+	religion="bektashi"
 	culture="greek"
 	1060.1.1={
 		birth="1060.1.1"

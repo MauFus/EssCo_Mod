@@ -120,7 +120,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="sunni"
+	religion="hurufi"
 	culture="kurdish"
 	add_trait="brave"
 	add_trait="martial_cleric"
@@ -557,7 +557,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=6
-	religion="shiite"
+	religion="yazidi"
 	culture="kurdish"
 	father=159147
 	add_trait="just"
@@ -677,7 +677,7 @@
 1591431 = { 
 	name="Baz"
 	dynasty=1029006
-	religion="shiite"
+	religion="hurufi"
 	culture="kurdish"
 	father=159143
 	1018.1.1={
@@ -1192,7 +1192,7 @@
 159182 = { 
 	name="Ebû-Hija"
 	dynasty=1029007
-	religion="sunni"
+	religion="hurufi"
 	culture="kurdish"
 	father=159171
 	1050.1.1={
@@ -1298,7 +1298,7 @@
 1592021 = { 
 	name="Abbas"
 	dynasty=1029008
-	religion="sunni"
+	religion="hurufi"
 	culture="kurdish"
 	1040.1.1={
 		birth="1040.1.1"
@@ -1310,7 +1310,7 @@
 1592022 = { 
 	name="Hormoz"
 	dynasty=1029009
-	religion="sunni"
+	religion="yazidi"
 	culture="kurdish"
 	1040.1.1={
 		birth="1040.1.1"
@@ -1322,7 +1322,7 @@
 1592023 = { 
 	name="Nard"
 	dynasty=1029010
-	religion="sunni"
+	religion="yazidi"
 	culture="kurdish"
 	1040.1.1={
 		birth="1040.1.1"
@@ -1334,7 +1334,7 @@
 1592024 = { 
 	name="Naveed"
 	dynasty=1029011
-	religion="sunni"
+	religion="hurufi"
 	culture="kurdish"
 	1040.1.1={
 		birth="1040.1.1"
@@ -1382,7 +1382,7 @@
 1592028 = { 
 	name="Fath"
 	dynasty=1029015
-	religion="sunni"
+	religion="yazidi"
 	culture="kurdish"
 	1040.1.1={
 		birth="1040.1.1"

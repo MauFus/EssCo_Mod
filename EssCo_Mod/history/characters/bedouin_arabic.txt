@@ -378,7 +378,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=8
-	religion="sunni"
+	religion="shiite"
 	culture="bedouin_arabic"
 	add_trait="tough_soldier"
 	1039.1.1={
@@ -435,7 +435,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="sunni"
+	religion="shiite"
 	culture="bedouin_arabic"
 	add_trait="wroth"
 	add_trait="just"
@@ -536,7 +536,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="sunni"
+	religion="ibadi"
 	culture="bedouin_arabic"
 	add_trait="amateurish_plotter"
 	1039.1.1={
@@ -554,7 +554,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=4
-	religion="shiite"
+	religion="sunni"
 	culture="bedouin_arabic"
 	add_trait="lustful"
 	add_trait="flamboyant_schemer"
@@ -962,7 +962,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="shiite"
 	culture="bedouin_arabic"
 	add_trait="proud"
 	add_trait="kind"
@@ -1262,7 +1262,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="shiite"
+	religion="sunni"
 	culture="bedouin_arabic"
 	1000.1.1={
 		birth="1000.1.1"
@@ -1297,7 +1297,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="shiite"
+	religion="sunni"
 	culture="bedouin_arabic"
 	father=45040
 	1020.1.1={
@@ -1519,7 +1519,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="shiite"
+	religion="sunni"
 	culture="bedouin_arabic"
 	father=45048
 	1040.1.1={
@@ -1555,7 +1555,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="shiite"
+	religion="ibadi"
 	culture="bedouin_arabic"
 	1050.1.1={
 		birth="1050.1.1"
@@ -1737,7 +1737,7 @@
 	diplomacy=3
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="sunni"
 	culture="bedouin_arabic"
 	add_trait="tough_soldier"
 	add_trait="craven"
@@ -1757,7 +1757,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="sunni"
 	culture="bedouin_arabic"
 	add_trait="cynical"
 	add_trait="grey_eminence"
@@ -1776,7 +1776,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="sunni"
 	culture="bedouin_arabic"
 	add_trait="underhanded_rogue"
 	1040.1.2={
@@ -1794,7 +1794,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="sunni"
 	culture="bedouin_arabic"
 	add_trait="flamboyant_schemer"
 	1040.1.2={
@@ -2926,7 +2926,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=6
-	religion="sunni"
+	religion="ibadi"
 	culture="bedouin_arabic"
 	add_trait="amateurish_plotter"
 	father=34040
@@ -5354,7 +5354,7 @@
 155199 = {
 	name="Djafer" #ibn Kilab
 	dynasty=101671
-	religion="sunni"
+	religion="shiite"
 	culture="bedouin_arabic"
 	father=155198
 	1017.1.1={
@@ -6777,7 +6777,7 @@
 163045 = {
 	name="Muhammad" #Muhammadite Imam
 	dynasty=100649
-	religion="shiite"
+	religion="ibadi"
 	culture="bedouin_arabic"
 	add_trait="sayyid"
 	1058.1.1={

@@ -1251,7 +1251,7 @@
 35001 = {
 	name="Christodolos"
 	dynasty=601
-	religion="miaphysite"
+	religion="shiite"
 	culture="egyptian_arabic"
 	1012.1.1={
 		birth="1012.1.1"
@@ -1264,7 +1264,7 @@
 161491 = {
 	name="Kyril" #II
 	dynasty=611
-	religion="miaphysite"
+	religion="shiite"
 	culture="egyptian_arabic"
 	1032.1.1={
 		birth="1032.1.1"
@@ -1277,7 +1277,7 @@
 161492 = {
 	name="Khail" #IV
 	dynasty=614
-	religion="miaphysite"
+	religion="shiite"
 	culture="egyptian_arabic"
 	1042.1.1={
 		birth="1042.1.1"
@@ -1290,7 +1290,7 @@
 161493 = {
 	name="Makarios" #II
 	dynasty=615
-	religion="miaphysite"
+	religion="shiite"
 	culture="egyptian_arabic"
 	1020.1.1={
 		birth="1000.1.1"
@@ -1686,7 +1686,7 @@
 1440932 = {
 	name="Dawlat"
 	dynasty=100792
-	religion="sunni"
+	religion="shiite"
 	culture="egyptian_arabic"
 	1049.1.1={
 		birth="1049.1.1"
@@ -1712,7 +1712,7 @@
 1440934 = {
 	name="Nuraddin"
 	dynasty=100794
-	religion="sunni"
+	religion="shiite"
 	culture="egyptian_arabic"
 	1049.1.1={
 		birth="1049.1.1"
@@ -1725,7 +1725,7 @@
 1440935 = {
 	name="Qadir"
 	dynasty=100795
-	religion="sunni"
+	religion="shiite"
 	culture="egyptian_arabic"
 	1049.1.1={
 		birth="1049.1.1"
@@ -1751,7 +1751,7 @@
 1440937 = {
 	name="Farhan"
 	dynasty=100797
-	religion="sunni"
+	religion="shiite"
 	culture="egyptian_arabic"
 	1049.1.1={
 		birth="1049.1.1"
@@ -1764,7 +1764,7 @@
 1440938 = {
 	name="Hakam"
 	dynasty=100798
-	religion="sunni"
+	religion="shiite"
 	culture="egyptian_arabic"
 	1049.1.1={
 		birth="1049.1.1"
@@ -1777,7 +1777,7 @@
 1440939 = {
 	name="Malik"
 	dynasty=100799
-	religion="sunni"
+	religion="shiite"
 	culture="egyptian_arabic"
 	1049.1.1={
 		birth="1049.1.1"

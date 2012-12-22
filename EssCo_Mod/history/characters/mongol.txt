@@ -584,7 +584,7 @@
 	diplomacy=3
 	intrigue=6
 	stewardship=6
-	religion="shiite"
+	religion="zoroastrian"
 	culture="mongol"
 	add_trait="amateurish_plotter"
 	add_trait="deceitful"
@@ -790,7 +790,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=9
-	religion="shiite"
+	religion="zoroastrian"
 	culture="mongol"
 	add_trait="thrifty_clerk"
 	add_trait="proud"
@@ -1104,7 +1104,7 @@
 	diplomacy=9
 	intrigue=9
 	stewardship=6
-	religion="shiite"
+	religion="zoroastrian"
 	culture="mongol"
 	add_trait="patient"
 	add_trait="humble"
@@ -3039,7 +3039,7 @@
 93307 = {
 	name="Husein Gurkan"
 	dynasty=7316
-	religion="shiite"
+	religion="zoroastrian"
 	culture="mongol"
 	1030.1.1={
 		birth="1030.1.1"
@@ -3085,7 +3085,7 @@
 93310 = {
 	name="Jahan Temur"
 	dynasty=15
-	religion="shiite"
+	religion="zoroastrian"
 	culture="mongol"
 	1060.1.1={
 		birth="1060.1.1"
@@ -3111,7 +3111,7 @@
 93462 = {
 	name="Kitbuqa"
 	dynasty=7371
-	religion="nestorian"
+	religion="zoroastrian"
 	culture="mongol"
 	add_trait="skilled_tactician"
 	add_trait="brave"

@@ -2,7 +2,7 @@
 	name="Orddot"
 	# AKA: Baeivi
 	dynasty=134
-	religion="finnish_pagan"
+	religion="norse_pagan"
 	culture="lappish"
 	1050.1.1={
 		birth="1050.1.1"
@@ -15,7 +15,7 @@
 144644 = {
 	name="Njuolla"
 	dynasty=1202
-	religion="finnish_pagan"
+	religion="norse_pagan"
 	culture="lappish"
 	1050.1.1={
 		birth="1050.1.1"
@@ -28,7 +28,7 @@
 144645 = {
 	name="Njuolla"
 	dynasty=1200
-	religion="finnish_pagan"
+	religion="norse_pagan"
 	culture="lappish"
 	1050.1.1={
 		birth="1050.1.1"
@@ -58,7 +58,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=8
-	religion="finnish_pagan"
+	religion="norse_pagan"
 	culture="lappish"
 	add_trait="skilled_tactician"
 	1050.1.1={

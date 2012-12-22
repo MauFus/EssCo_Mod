@@ -277,7 +277,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="sunni"
+	religion="zikri"
 	culture="persian"
 	add_trait="charitable"
 	add_trait="kind"
@@ -298,7 +298,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="shiite"
+	religion="hurufi"
 	culture="persian"
 	add_trait="thrifty_clerk"
 	add_trait="scholar"
@@ -317,7 +317,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="shiite"
+	religion="zoroastrian"
 	culture="persian"
 	add_trait="tough_soldier"
 	1031.1.1={
@@ -335,7 +335,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="sunni"
+	religion="zoroastrian"
 	culture="persian"
 	add_trait="martial_cleric"
 	1039.1.1={
@@ -353,7 +353,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="sunni"
+	religion="zoroastrian"
 	culture="persian"
 	add_trait="deceitful"
 	add_trait="amateurish_plotter"
@@ -372,7 +372,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=6
-	religion="sunni"
+	religion="zoroastrian"
 	culture="persian"
 	add_trait="patient"
 	add_trait="skilled_tactician"
@@ -391,7 +391,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="sunni"
+	religion="hurufi"
 	culture="persian"
 	add_trait="underhanded_rogue"
 	1050.1.1={
@@ -408,7 +408,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="shiite"
+	religion="zoroastrian"
 	culture="persian"
 	add_trait="diligent"
 	add_trait="zealous"
@@ -523,7 +523,7 @@
 	diplomacy=10
 	intrigue=6
 	stewardship=5
-	religion="sunni"
+	religion="zoroastrian"
 	culture="persian"
 	add_trait="lustful"
 	add_trait="charismatic_negotiator"
@@ -664,7 +664,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="sunni"
+	religion="zoroastrian"
 	culture="persian"
 	add_trait="misguided_warrior"
 	add_trait="wroth"
@@ -922,7 +922,7 @@
 93022= {
 	name="Abdul Malik" 
 	dynasty=7326
-	religion="sunni"
+	religion="hurufi"
 	culture="persian"
 	father=93020
 	1030.1.1={
@@ -1125,7 +1125,7 @@
 93137 = {
 	name="Muhammad"
 	dynasty=791
-	religion="sunni"
+	religion="zikri"
 	culture="persian"
 	father=93136
 	1030.1.1={
@@ -1693,7 +1693,7 @@
 93178 = {
 	name="Namwar"
 	dynasty=7332
-	religion="shiite"
+	religion="zoroastrian"
 	culture="persian"
 	father=93177
 	1020.1.1={
@@ -2470,7 +2470,7 @@
 93295 = {
 	name="Qutlugh Inanj"
 	dynasty=101876
-	religion="sunni"
+	religion="shiite"
 	culture="persian"
 	father=144052
 	1058.1.1={
@@ -2554,7 +2554,7 @@
 	name="Taj al-Din Ebrahim"
 	#AKA Zahed Gilani
 	dynasty=7341
-	religion="shiite"
+	religion="zikri"
 	culture="persian"
 	1016.1.1={
 		birth="1016.1.1"

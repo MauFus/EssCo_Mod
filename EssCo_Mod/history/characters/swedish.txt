@@ -5346,7 +5346,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="catholic"
+	religion="norse_pagan"
 	culture="swedish"
 	add_trait="tough_soldier"
 	1020.1.1={

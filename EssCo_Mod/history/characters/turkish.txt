@@ -1218,7 +1218,7 @@
 144133 = {
 	name="Ibrahim"
 	dynasty=790
-	religion="sunni"
+	religion="zikri"
 	culture="turkish"
 	father = 144127
 	1022.1.1={
@@ -1587,7 +1587,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=8
-	religion="sunni"
+	religion="zoroastrian"
 	culture="turkish"
 	add_trait="flamboyant_schemer"
 	1041.1.1={
@@ -6218,7 +6218,7 @@
 93087 = {
 	name="Qochar" 
 	dynasty=7328
-	religion="sunni"
+	religion="zoroastrian"
 	culture="turkish"
 	1035.1.1={
 		birth="1035.1.1"
@@ -6245,7 +6245,7 @@
 93089 = {
 	name="Abu'l-Fawaris"
 	dynasty=7327
-	religion="sunni"
+	religion="zoroastrian"
 	culture="turkish"
 	1020.1.1={
 		birth="1020.1.1"
@@ -6334,7 +6334,7 @@
 93107 = {
 	name="Abd-al-Aziz Burkhan"
 	dynasty=7329
-	religion="sunni"
+	religion="zoroastrian"
 	culture="turkish"
 	father=93106
 	1040.1.1={

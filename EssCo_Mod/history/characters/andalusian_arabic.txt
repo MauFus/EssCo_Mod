@@ -423,7 +423,7 @@
 	diplomacy=7
 	intrigue=2
 	stewardship=5
-	religion="orthodox"
+	religion="sunni"
 	culture="andalusian_arabic"
 	add_trait="wroth"
 	add_trait="honest"
@@ -443,7 +443,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="sunni"
 	culture="andalusian_arabic"
 	add_trait="thrifty_clerk"
 	1050.1.1={

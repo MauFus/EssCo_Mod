@@ -1807,7 +1807,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="norse"
+	religion="norse_pagan"
 	culture="norwegian"
 	add_trait="patient"
 	add_trait="flamboyant_schemer"
@@ -2184,7 +2184,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="norse"
+	religion="norse_pagan"
 	culture="norwegian"
 	add_trait="zealous"
 	add_trait="martial_cleric"
