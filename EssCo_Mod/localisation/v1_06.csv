@@ -83,7 +83,7 @@ e_spain;Hispania;Hispanie;Hispanien;;Hispania;;;;;;;;;x;
 e_spain_adj;Hispanian;hispagnol(e);Hispanisch;;Hispañol;;;;;;;;;x;
 west_african;West African;ouest africain;Westafrikanisch;;Africano occidental;;;;;;;;;x;
 manden;Mandé;Mandé;Mandé;;Mandé;;;;;;;;;x;
-k_byzantium;Greece;Grèce;Griechenland;;Grecia;;;;;;;;;x;
+k_byzantium;Grecia;Grèce;Griechenland;;Grecia;;;;;;;;;x;
 k_byzantium_adj;Greek;grec(que);Griechisch;;Griego;;;;;;;;;x;
 k_anatolia;Anatolia;Anatolie;Anatolien;;Anatolia;;;;;;;;;x;
 k_anatolia_adj;Anatolian;anatolien(ne);Anatolisch;;Anatolio;;;;;;;;;x;
@@ -327,7 +327,7 @@ d_sunni;The Sunni Caliphate;Le Califat sunnite;Das Sonnige Kalifat;;El Califato 
 d_sunni_adj;Caliphal;califal;Kalifen-;;Califal;;;;;;;;;x;
 d_shiite;The Shia Caliphate;Le Califat chiite;Das Schia-Kalifat;;El Califato Chií;;;;;;;;;x;
 d_shiite_adj;Caliphal;califal;Kalifen-;;Califal;;;;;;;;;x;
-k_dacia;Wallachia;Valachie;Walachei;;Valaquia;;;;;;;;;x;
+k_dacia;Valacchia;Valachie;Walachei;;Valaquia;;;;;;;;;x;
 k_dacia_adj;Wallachian;valachien;Walachischer;;Valaco;;;;;;;;;x;
 b_sijilmasa;Sijilmasa;Sijilmasa;Sijilmasa;;Sijilmasa;;;;;;;;;x;
 b_merzouga;Merzouga;Merzouga;Merzouga;;Merzouga;;;;;;;;;x;

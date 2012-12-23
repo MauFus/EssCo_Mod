@@ -6285,7 +6285,7 @@ b_amastris;Amastris;Amastris;Amastris;;Amastris;;;;;;;;;x
 b_comana;Comana;Comana;Comana;;Comana;;;;;;;;;x
 b_talaura;Talaura;Talaura;Talaura;;Talaura;;;;;;;;;x
 b_themiscyra;Themiscyra;Thémiscyra;Themiscyra;;Themiscyra;;;;;;;;;x
-d_paphlagonia;Paphlagonia;Paphlagonie;Paphlagonien;;Paflagonia;;;;;;;;;x
+d_paphlagonia;Paflagonia;Paphlagonie;Paphlagonien;;Paflagonia;;;;;;;;;x
 d_paphlagonia_adj;Paphlagonian;Paphlagonienne;Paphlagoner;;Paflagona;;;;;;;;;x
 c_paphlagonia_adj;Paphlagonian;Paphlagonienne;Paphlagoner;;Hénetos;;;;;;;;;x
 b_kastamonu;Castra Comnenus;Kastamonu;Kastamonu;;Kastamonu;;;;;;;;;x
@@ -6314,7 +6314,7 @@ b_amorion;Amorion;Amorion;Amorion;;Amorion;;;;;;;;;x
 b_gordoservon;Gordoservon;Gordoservon;Gordoservon;;Gordoservon;;;;;;;;;x
 b_nakoleia;Nakoleia;Nakoleia;Nakoleia;;Nakoleia;;;;;;;;;x
 b_haymana;Haymana;Haymana;Haymana;;Haymana;;;;;;;;;x
-d_nikaea;Nikaea;Nicée;Nikäa;;Nicea;;;;;;;;;x
+d_nikaea;Nicea;Nicée;Nikäa;;Nicea;;;;;;;;;x
 c_nikaea_adj;Nikaean;Nicéenne;Nikäer;;Niceno;;;;;;;;;x
 b_nikaea;Nikaea;Nicée;Nikäa;;Nicea;;;;;;;;;x
 b_kios;Kios;Kios;Kios;;Kíos;;;;;;;;;x
@@ -6371,7 +6371,7 @@ b_laranda;Laranda;Laranda;Laranda;;Laranda;;;;;;;;;x
 b_terpe;Terpe;Terpe;Terpe;;Terpe;;;;;;;;;x
 b_amblada;Amblada;Amblada;Amblada;;Amblada;;;;;;;;;x
 b_sauatra;Sauatra;Sauatra;Sauatra;;Sauatra;;;;;;;;;x
-d_thracesia;Thracesia;Thracesia;Thrakien;;Thracesia;;;;;;;;;x
+d_thracesia;Tracesia;Thracesia;Thrakien;;Thracesia;;;;;;;;;x
 d_thracesia_adj;Thracesian;Thracésienne;Thrakischer;;Tracesia;;;;;;;;;x
 c_sozopolis_adj;Sozopolisian;Sozopolitaine;Sozopolisian;;Sozopolisianés;;;;;;;;;x
 b_souzopolis;Sozopolis;Sozopol;Sozopolis;;Sozópolis;;;;;;;;;x
@@ -6391,7 +6391,7 @@ b_hieropolis;Hieropolis;Hiérapolis;Hieropolis;;Hieropolis;;;;;;;;;x
 b_kona;Kona;Kona;Kona;;Kona;;;;;;;;;x
 b_gordes;Gordes;Gordes;Gordes;;Gordes;;;;;;;;;x
 b_flaviupolis;Flaviupolis;Flaviupolis;Flaviupolis;;Flaviupolis;;;;;;;;;x
-d_samos;Samos;Samos;Samos;;Samos;;;;;;;;;x
+d_samos;Smirne;Samos;Samos;;Samos;;;;;;;;;x
 d_samos_adj;Samosian;Samosienne;Samoser;;Samona;;;;;;;;;x
 c_ephesos_adj;Ephesosian;Éphèsienne;Ephesoser;;Efesio;;;;;;;;;x
 b_ephesos;Ephesos;Éphèse;Ephesos;;Éfesos;;;;;;;;;x
@@ -6420,7 +6420,7 @@ b_ikaria;Ikaria;Ikaria;Ikaria;;Icaria;;;;;;;;;x
 b_fourni;Fourni;Fourni;Fourni;;Fourni;;;;;;;;;x
 b_chrysostomos;Chrysostomos;Chrysostomos;Chrysostomos;;Chrysostomos;;;;;;;;;x
 b_pagondas;Pagondas;Pagondas;Pagondas;;Pagondas;;;;;;;;;x
-d_aegean_islands;Aegean Islands;Îles Egées;Ägäische Inseln;;Islas Egeas;;;;;;;;;x
+d_aegean_islands;Isole Egee;Îles Egées;Ägäische Inseln;;Islas Egeas;;;;;;;;;x
 d_aegean_islands_adj;Aegean;Egéenne;Ägäisch;;Egea;;;;;;;;;x
 c_abydos_adj;Abydosian;Abydosienne;Abydosischer;;Abidostar;;;;;;;;;x
 b_abydos;Abydos;Abydos;Abydos;;Abidos ;;;;;;;;;x
@@ -6458,7 +6458,7 @@ b_eresos;Eresos;Érésos;Eresos;;Eresos;;;;;;;;;x
 b_kalloni;Kalloni;Kalloni;Kalloni;;Kalloni;;;;;;;;;x
 b_thasos;Thasos;Thasos;Thasos;;Thasos;;;;;;;;;x
 b_moudros;Moudros;Moudros;Moudros;;Moudros;;;;;;;;;x
-d_thrace;Thrace;Thrace;Thrakien;;Tracia;;;;;;;;;x
+d_thrace;Tracia;Thrace;Thrakien;;Tracia;;;;;;;;;x
 d_thrace_adj;Thracian;Thracienne;Thrakischer;;Tracia;;;;;;;;;x
 c_kaliopolis_adj;Kaliopolisian;Kaliopolitaine;Kaliopolisch;;Kaliopolitano;;;;;;;;;x
 b_gallipoli;Gallipoli;Gallipoli;Gallipoli;;Gallipoli;;;;;;;;;x
@@ -6486,7 +6486,7 @@ b_aulaeitichus;Aulaeitichus;Aulaeitichus;Aulaeitichus;;Aulaeitichus;;;;;;;;;x
 b_phinopolis;Phinopolis;Phinopolis;Phinopolis;;Phinopolis;;;;;;;;;x
 b_sestos;Sestos;Sestos;Sestos;;Sestos;;;;;;;;;x
 b_chariopolis;Chariopolis;Chariopolis;Chariopolis;;Chariopolis;;;;;;;;;x
-d_adrianopolis;Adrianopolis;Andrinople;Adrianopolis;;Adrianópolis;;;;;;;;;x
+d_adrianopolis;Adrianopoli;Andrinople;Adrianopolis;;Adrianópolis;;;;;;;;;x
 d_adrianopolis_adj;Adrianopolitan;Andrinopolitaine;Adrianopolitischer;;Adrianopolitana;;;;;;;;;x
 c_adrianopolis_adj;Adrianopolitan;Andrinopolitaine;Adrianopolitischer;;Adrianopolitano;;;;;;;;;x
 b_adrianopolis;Adrianopolis;Adrinople;Adrianopolis;;Adrianópolis;;;;;;;;;x
@@ -6506,7 +6506,7 @@ b_peritheorion;Peritheorion;Périthéorion;Peritheorion;;Peritheorion;;;;;;;;;x
 b_anaktoropolis;Anaktoropolis;Anaktoropolis;Anaktoropolis;;Anaktoropolis;;;;;;;;;x
 b_polystylon;Polystylon;Polystylon;Polystylon;;Polystylon;;;;;;;;;x
 b_mosynopolis;Mosynopolis;Mosynopolis;Mosynopolis;;Mosynopolis;;;;;;;;;x
-d_thessalonika;Thessalonika;Thessalonique;Thessalonika;;Tesalónica;;;;;;;;;x
+d_thessalonika;Tessalonica;Thessalonique;Thessalonika;;Tesalónica;;;;;;;;;x
 d_thessalonika_adj;Thessalonian;Thessalonicienne;Thessalonikischer;;Tesalonicense;;;;;;;;;x
 c_chalkidike_adj;Chalkidikian;Chalcidienne;Chalkidikischer;;Chalkidikianés;;;;;;;;;x
 b_serres;Serres;Serrès;Serres;;Serres;;;;;;;;;x
@@ -6535,7 +6535,7 @@ b_kastri;Kastri;Kastri;Kastri;;Kastri;;;;;;;;;x
 b_pharsalos;Pharsalos;Pharsale;Pharsalos;;Farsala;;;;;;;;;x
 b_trikkala;Trikkala;Trikkala;Trikkala;;Trikala;;;;;;;;;x
 b_stagi;Stagi;Stagi;Stagi;;Stagi;;;;;;;;;x
-d_dyrrachion;Dyrrachion;Durrës;Dyrrachium;;Dirraquio;;;;;;;;;x
+d_dyrrachion;Durazzo;Durrës;Dyrrachium;;Dirraquio;;;;;;;;;x
 d_dyrrachion_adj;Dyrrachian;Dyrrachienne;Dyrrachischer;;Dirraquiana;;;;;;;;;x
 c_strymon_adj;Strymonian;Strymonienne;Strymonisch;;Strimoniano;;;;;;;;;x
 b_skopje;Skopje;Skopje;Skopje;;Skopie;;;;;;;;;x
@@ -6564,7 +6564,7 @@ b_elbasan;Elbasan;Elbasan;Elbasan;;Elbasan;;;;;;;;;x
 b_geziq;Gëziq;Gëziq;Gëziq;;Gëziq;;;;;;;;;x
 b_spinarizza;Spinarizza;Spinarizza;Spinarizza;;Spinarizza;;;;;;;;;x
 b_beat;Beat;Beat;Beat;;Beat;;;;;;;;;x
-d_epirus;Epirus;Épire;Epirus;;Épiro;;;;;;;;;x
+d_epirus;Epiro;Épire;Epirus;;Épiro;;;;;;;;;x
 d_epirus_adj;Epirotian;Épirote;Epirotischer;;Epirota;;;;;;;;;x
 c_epeiros_adj;Epirotian;Épirote;Epirotischer;;Ípeiros;;;;;;;;;x
 b_butrint;Butrint;Buthrote;Butrint;;Butrint;;;;;;;;;x
@@ -6593,7 +6593,7 @@ b_zante;Zante;Zante;Zante;;Zante;;;;;;;;;x
 b_paxos;Paxos;Paxos;Paxos;;Paxos;;;;;;;;;x
 b_ithaca;Ithaca;Ithaque;Ithaka;;Ítaca;;;;;;;;;x
 b_cerigo;Cerigo;Cythère;Cerigo;;Cerigo;;;;;;;;;x
-d_athens;Athens;Athènes;Athen;;Atenas;;;;;;;;;x
+d_athens;Atene;Athènes;Athen;;Atenas;;;;;;;;;x
 d_athens_adj;Athenian;Athénienne;Athenischer;;Ateniense;;;;;;;;;x
 c_demetrias_adj;Demetrian;Démétrienne;Demetrischer;;Demetrio;;;;;;;;;x
 b_thebes;Thebes;Thèbes;Theben;;Tebas;;;;;;;;;x
@@ -6622,7 +6622,7 @@ b_daphni;Daphni;Daphni;Daphni;;Daphni;;;;;;;;;x
 b_karydi;Karydi;Karydi;Karydi;;Karydi;;;;;;;;;x
 b_salamis;Salamis;Salamine;Salamis;;Salamis;;;;;;;;;x
 b_marathon;Marathon;Marathon;Marathon;;Marathon;;;;;;;;;x
-d_achaia;Achaia;Achaïe;Achaia;;Acaya;;;;;;;;;x
+d_achaia;Acaia;Achaïe;Achaia;;Acaya;;;;;;;;;x
 d_achaia_adj;Achaian;Achaïenne;Achaisch;;Aquea;;;;;;;;;x
 c_achaia_adj;Achaian;Achaïenne;Achaisch;;Aqueo;;;;;;;;;x
 b_patras;Patras;Patras;Patras;;Patras;;;;;;;;;x
@@ -6660,7 +6660,7 @@ b_sparta;Sparta;Sparte;Sparta;;Esparta;;;;;;;;;x
 b_lacedaemonia;Lacedaemonia;Laconie;Lakedämonia;;Lacedemonia;;;;;;;;;x
 b_gythio;Gythio;Gythio;Gythio;;Gythio;;;;;;;;;x
 b_elos;Elos;Élos;Elos;;Elos;;;;;;;;;x
-d_krete;Krete;Crète;Kreta;;Creta;;;;;;;;;x
+d_krete;Creta;Crète;Kreta;;Creta;;;;;;;;;x
 d_krete_adj;Cretan;Crétoise;Kretischer;;Cretense;;;;;;;;;x
 c_kaneia_adj;Kaneian;Kanéienne;Kaneisch;;Kaneiano;;;;;;;;;x
 b_kandia;Kandia;Kandia;Kandia;;Kandia;;;;;;;;;x
@@ -6680,7 +6680,7 @@ b_kastelli;Kastelli;Kastelli;Kastelli;;Kastelli;;;;;;;;;x
 b_sitia;Sitia;Sitia;Sitia;;Sitia;;;;;;;;;x
 b_ierapetra;Ierapetra;Ierapetra;Ierapetra;;Ierapetra;;;;;;;;;x
 b_knossos;Knossos;Knossos;Knossos;;Knossos;;;;;;;;;x
-d_cyprus;Cyprus;Chypre;Zypern;;Chipre;;;;;;;;;x
+d_cyprus;Cipro;Chypre;Zypern;;Chipre;;;;;;;;;x
 d_cyprus_adj;Cypriot;Chypriote;Zypriotischer;;Chipriota;;;;;;;;;x
 c_famagusta_adj;Famagustian;Famagoustienne;Famagustischer;;Famagustianí;;;;;;;;;x
 b_famagusta;Famagusta;Famagouste;Famagusta;;Famagusta;;;;;;;;;x
@@ -6738,7 +6738,7 @@ b_jevlisia;Jevlisia;Jevlisia;Jevlisia;;Jevlisia;;;;;;;;;x
 b_sujukqale;Sujuk-Qale;Sujuk-Qale;Sujuk-Qale;;Sujuk-Qale;;;;;;;;;x
 b_bata;Bata;Bata;Bata;;Bata;;;;;;;;;x
 b_tsemes;Tsemes;Tsemes;Tsemes;;Tsemes;;;;;;;;;x
-d_cibyrrhaeot;Cibyrrhaeot;Cibyrrhée;Cibyrrhaeot;;Cibyraiote;;;;;;;;;x
+d_cibyrrhaeot;Cibirreotia;Cibyrrhée;Cibyrrhaeot;;Cibyraiote;;;;;;;;;x
 d_cibyrrhaeot_adj;Cibyrrhaeotian;Cibyrrhéote;Cibyrrhaeotischer;;Cibyraiota;;;;;;;;;x
 c_attaleia_adj;Attaleian;Attaléienne;Attaleisch;;Attaleiano;;;;;;;;;x
 b_attaleia;Attaleia;Attaleia;Antalya;;Attaleia;;;;;;;;;x
@@ -9040,7 +9040,7 @@ b_perekop;Perekop;Perekop;Perekop;;Perekop;;;;;;;;;x
 b_qarasuvbazar;Qarasuvbazar;Qarasuvbazar;Qarasuvbazar;;Qarasuvbazar;;;;;;;;;x
 b_kezlev;Kezlev;Kezlev;Keslew;;Kezlev;;;;;;;;;x
 b_qurman;Qurman;Qurman;Qurman;;Qurman;;;;;;;;;x
-d_moldau;Moldau;Moldavie;Moldau;;Moldavia;;;;;;;;;x
+d_moldau;Moldavia;Moldavie;Moldau;;Moldavia;;;;;;;;;x
 d_moldau_adj;Moldovian;Moldave;Moldauischer;;Moldava;;;;;;;;;x
 c_peresechen_adj;Peresechenian;Peresechenienne;Peresetschenischer;;Peresechenianés;;;;;;;;;x
 b_iasi;Iasi;Iasi;Iasi;;Iasi;;;;;;;;;x
@@ -9216,7 +9216,7 @@ b_urengoi;Urengoi;Ourengoï;Urengoi;;Urengoi;;;;;;;;;x
 b_nazym;Nazym;Nazym;Nasym;;Nazym;;;;;;;;;x
 b_baygul;Baygul;Baygul;Baygul;;Baygul;;;;;;;;;x
 b_kaek;Kaek;Kaek;Kaek;;Kaek;;;;;;;;;x
-d_wallachia;Wallachia;Valachie;Walachei;;Valaquia;;;;;;;;;x
+d_wallachia;Valacchia;Valachie;Walachei;;Valaquia;;;;;;;;;x
 d_wallachia_adj;Wallachian;Valachienne;Wallachischer;;Valaca;;;;;;;;;x
 c_turnu_adj;Turnuian;Turnuienne;Turnuer;;Turnuianés;;;;;;;;;x
 b_turnu;Turnu;Turnu;Turnu;;Turnu;;;;;;;;;x
@@ -9370,7 +9370,7 @@ b_aksu;Aksu;Aksu;Aksu;;Aksu;;;;;;;;;x
 b_karamola;Karamola;Karamola;Karamola;;Karamola;;;;;;;;;x
 k_persia;Persia;Perse;Persien;;Persia;;;;;;;;;x
 k_persia_adj;Persian;Persanne;Persischer;;Persa;;;;;;;;;x
-d_bukhara;Bukhara;Boukhara;Buchara;;Bujará;;;;;;;;;x
+d_bukhara;Bucara;Boukhara;Buchara;;Bujará;;;;;;;;;x
 d_bukhara_adj;Bukharan;Boukharane;Bucharischer;;Bujarana;;;;;;;;;x
 c_kara-kum_adj;Kara-Kumian;Karakumienne;Kara-Kumi-;;Karakumí;;;;;;;;;x
 b_kyzylsu;Kyzyl Su;Kyzyl Su;Kyzyl Suu;;Kyzyl Su;;;;;;;;;x
@@ -9796,7 +9796,7 @@ b_aligoodarz;Aligoodarz;Aligudarz;Aligoodars;;Aligoodarz;;;;;;;;;x
 b_koohdasht;Koohdasht;Kuhdasht;Kuhdascht;;Koohdasht;;;;;;;;;x
 b_poledokhtar;Pol-e-Dokhtar;Pol-E-Dokhtar;Pol-e-Dokhtar;;Pol-e-Dokhtar;;;;;;;;;x
 b_alashtar;Alashtar;Alashtar;Alashtar;;Alashtar;;;;;;;;;x
-d_tigris;Tigris;Tigre;Tigris;;Tigris;;;;;;;;;x
+d_tigris;Tigri;Tigre;Tigris;;Tigris;;;;;;;;;x
 d_tigris_adj;Tigran;Tigrane;Tigrischer;;Tigrisana;;;;;;;;;x
 c_ilam_adj;Ilamian;Ilamienne;Ilamischer;;Ilamí;;;;;;;;;x
 b_dehloran;Dehloran;Dehloran;Dehloran;;Dehloran;;;;;;;;;x
@@ -9903,7 +9903,7 @@ b_jidda;Jidda;Djedda;Jidda;;Jidda;;;;;;;;;x
 b_ummalsabaan;Umm al Sabaan;Umm As Sabaan;Umm al Sabaan;;Umm al Sabaan;;;;;;;;;x
 b_hamala;Hamala;Hamala;Hamala;;Hamala;;;;;;;;;x
 b_aldur;Al Dur;Al Dur;Al Dur;;Al Dur;;;;;;;;;x
-d_nefoud;Nefoud;Nefoud;Nefoud;;Nafud;;;;;;;;;x
+d_nefoud;Nefud;Nefoud;Nefoud;;Nafud;;;;;;;;;x
 d_nefoud_adj;Nefoudi;Nefoudi;Nefoudischer;;Nafudí;;;;;;;;;x
 c_al_nadjaf_adj;Al Nadjafian;Nadjafienne;Al Nadschafischer;;Al Nadjafianés;;;;;;;;;x
 b_nadjaf;Nadjaf;Nadjaf;Nadschaf;;Nayaf;;;;;;;;;x
@@ -10247,7 +10247,7 @@ b_seneqerim;Senegerim;Senegerim;Senegerim;;Senegerim;;;;;;;;;x
 b_arguvan;Arguvan;Arguvan;Arguvan;;Arguvan;;;;;;;;;x
 b_kigi;Kigi;Kigi;Kigi;;Kigi;;;;;;;;;x
 b_yedisu;Yedisu;Yedisu;Yedisu;;Yedisu;;;;;;;;;x
-d_armenia_minor;Armenia Minor;Arménie Mineure;Kleinarmenien;;Armenia Menor;;;;;;;;;x
+d_armenia_minor;Armenia Minore;Arménie Mineure;Kleinarmenien;;Armenia Menor;;;;;;;;;x
 d_armenia_minor_adj;Armenian;Arménienne;Armenischer;;Armenia;;;;;;;;;x
 c_lykandos_adj;Lykandosian;Lykandosienne;Lykandosischer;;Lykandonés;;;;;;;;;x
 b_lykandos;Lykandos;Lykandos;Lykandos;;Lykandos;;;;;;;;;x
@@ -10294,7 +10294,7 @@ b_ninica;Ninica;Ninica;Ninica;;Ninica;;;;;;;;;x
 b_selinus;Selinus;Selinus;Selinus;;Selinus;;;;;;;;;x
 b_anemurium;Anemurium;Anemurium;Anemurium;;Anemurium;;;;;;;;;x
 b_dalisandus;Dalisandus;Dalisandus;Dalisandus;;Dalisandus;;;;;;;;;x
-d_trebizond;Trebizond;Trébizonde;Trapezunt;;Trapezunte;;;;;;;;;x
+d_trebizond;Trebisonda;Trébizonde;Trapezunt;;Trapezunte;;;;;;;;;x
 d_trebizond_adj;Trebizondian;Trébizondienne;Trapezuntischer;;Trapezontesa;;;;;;;;;x
 c_theodosiopolis_adj;Theodosiopolite;Théodosiopolitaine;Theodosiopoliter;;Theodosiopolitano;;;;;;;;;x
 b_theodosiopolis;Theodosiopolis;Theodosiopolis;Theodosiopolis;;Theodosiopolis;;;;;;;;;x
@@ -10550,7 +10550,7 @@ b_zombor;Zombor;Zombor;Zombor;;Zombor;;;;;;;;;x
 b_bacsalmas;Bácsalmás;Bácsalmás;Bácsalmás;;Bácsalmás;;;;;;;;;x
 b_pancsova;Pancsova;Pancsova;Pancsova;;Pancsova;;;;;;;;;x
 b_pardany;Párdány;Párdány;Párdány;;Párdány;;;;;;;;;x
-d_rashka;Rashka;Rashka;Rashka;;Rascia;;;;;;;;;x
+d_rashka;Rascia;Rashka;Rashka;;Rascia;;;;;;;;;x
 d_rashka_adj;Rashkan;Rashkane;Rashka-;;Rasciana;;;;;;;;;x
 c_rashka_adj;Rashkan;Rashkane;Rashka-;;Rashkanés;;;;;;;;;x
 b_prizren;Prizren;Prizren;Prizren;;Prizren;;;;;;;;;x
@@ -10570,7 +10570,7 @@ b_belacrkva;Bela Crkva;Bela Crkva;Bela Crkva;;Bela Crkva;;;;;;;;;x
 b_bradarevo;Bradarevo;Bradarevo;Bradarevo;;Bradarevo;;;;;;;;;x
 b_moraca;Moraca;Moraca;Moraca;;Moraca;;;;;;;;;x
 b_medun;Medun;Medun;Medun;;Medun;;;;;;;;;x
-d_dioclea;Duklja;Dioclée;Duklja;;Dioclea;;;;;;;;;x
+d_dioclea;Dioclea;Dioclée;Duklja;;Dioclea;;;;;;;;;x
 d_dioclea_adj;Dioclean;Diocléenne;Dioclea-;;Diocleciana;;;;;;;;;x
 c_zeta_adj;Zetan;Zétane;Zetan;;Zetanés;;;;;;;;;x
 b_podgorica;Podgorica;Podgorica;Podgorica;;Podgorica;;;;;;;;;x
@@ -12723,7 +12723,7 @@ b_alcoutim;Alcoutim;Alcoutim;Alcoutim;;Alcoutim;;;;;;;;;x
 b_aljezur;Aljezur;Aljezur;Aljezur;;Aljezur;;;;;;;;;x
 b_saobrasdealportel;São Brás de Alportel;São Brás de Alportel;São Brás de Alportel;;São Brás de Alportel;;;;;;;;;x
 b_olhao;Olhão;Olhão;Olhão;;Olhão;;;;;;;;;x
-k_mauretania;Mauretania;Mauritanie;Mauretania;;Mauritania;;;;;;;;;x
+k_mauretania;Mauritania;Mauritanie;Mauretania;;Mauritania;;;;;;;;;x
 k_mauretania_adj;Mauritanian;Mauritanienne;Mauretanischer;;Mauritana;;;;;;;;;x
 c_canarias_adj;Canarian;Canarienne;Kanarischer;;Canario;;;;;;;;;x
 b_grancanaria;Gran Canaria;Grande Canarie;Gran Canaria;;Gran Canaria;;;;;;;;;x
@@ -12781,7 +12781,7 @@ b_aitelaouni;Ait el Aouni;Ait El Aouni;Ait el Aouni;;Ait el Aouni;;;;;;;;;x
 b_qumelaioun;Qum el Aioun;Qum El Aioun;Qum el Aioun;;Qum el Aioun;;;;;;;;;x
 b_aguedal;Aguedal;Aguedal;Aguedal;;Aguedal;;;;;;;;;x
 b_agouidir;Agouidir;Agouidir;Agouidir;;Agouidir;;;;;;;;;x
-d_tangiers;Tangier;Tanger;Tanger;;Tánger;;;;;;;;;x
+d_tangiers;Tangeri;Tanger;Tanger;;Tánger;;;;;;;;;x
 d_tangiers_adj;Tangieran;Tangéroise;Tanger-;;Tungitana;;;;;;;;;x
 c_tangiers_adj;Tangieran;Tangéroise;Tanger-;;Tungitana;;;;;;;;;x
 b_tangiers;Tangier;Tanger;Tanger;;Tánger;;;;;;;;;x
@@ -12848,7 +12848,7 @@ b_debdou;Debdou;Debdou;Debdou;;Debdou;;;;;;;;;x
 b_tendrara;Tendrara;Tendrara;Tendrara;;Tendrara;;;;;;;;;x
 b_berkane;Berkane;Berkane;Berkane;;Berkane;;;;;;;;;x
 b_ahfir;Ahfir;Ahfir;Ahfir;;Ahfir;;;;;;;;;x
-d_alger;Alger;Alger;Alger;;Argel;;;;;;;;;x
+d_alger;Algeri;Alger;Alger;;Argel;;;;;;;;;x
 d_alger_adj;Algerian;Algérienne;Algerischer;;Argelina;;;;;;;;;x
 d_tlemcen;Tlemcen;Tlemcen;Tlemcen;;Tremecén;;;;;;;;;x
 d_tlemcen_adj;Tlemcenian;Tlemcenoise;Tlemcener;;Tlemsení;;;;;;;;;x
@@ -12906,7 +12906,7 @@ b_rhedadoua;Rhedadoua;Rhedadoua;Rhedadoua;;Rhedadoua;;;;;;;;;x
 b_elachour;El-Achour;El Achour;El-Achour;;El-Achour;;;;;;;;;x
 b_elRdair;El Rdair;El Rdair;El Rdair;;El Rdair;;;;;;;;;x
 b_tirourda;Tirourda;Tirourda;Tirourda;;Tirourda;;;;;;;;;x
-d_kabylia;Kabylia;Kabylie;Kabylia;;Cabilia;;;;;;;;;x
+d_kabylia;Cabilia;Kabylie;Kabylia;;Cabilia;;;;;;;;;x
 d_kabylia_adj;Kabylian;Kabyle;Kabylischer;;Cabileña;;;;;;;;;x
 c_beni_yanni_adj;Beni Yannian;Beni Yannienne;Beni Yannier;;Yanniano;;;;;;;;;x
 b_bourmedes;Boumerdès;Boumerdès;Boumerdès;;Boumerdès;;;;;;;;;x
@@ -12982,7 +12982,7 @@ b_elbouni;El Bouni;El Bouni;El Bouni;;El Bouni;;;;;;;;;x
 b_boudjama;Bou Djama;Bou Djama;Bou Djama;;Bou Djama;;;;;;;;;x
 b_drean;Dréan;Dréan;Dréan;;Dréan;;;;;;;;;x
 b_meroudj;Meroudj;Meroudj;Meroudj;;Meroudj;;;;;;;;;x
-d_tunis;Tunis;Tunis;Tunesien;;Túnez;;;;;;;;;x
+d_tunis;Tunisi;Tunis;Tunesien;;Túnez;;;;;;;;;x
 d_tunis_adj;Tunisian;Tunisienne;Tunesischer;;Tunecina;;;;;;;;;x
 c_tunis_adj;Tunisian;Tunisienne;Tunesischer;;Tunecino;;;;;;;;;x
 b_tunis;Tunis;Tunis;Tunis;;Túnez;;;;;;;;;x
@@ -13076,7 +13076,7 @@ b_lanuf;Lanuf;Lanuf;Lanuf;;Lanuf;;;;;;;;;x
 b_bishr;Bishr;Bishr;Bishr;;Bishr;;;;;;;;;x
 b_qaryatbishr;Qaryat Bishr;Qaryat Bishr;Qaryat Bishr;;Qaryat Bishr;;;;;;;;;x
 b_nawfalliyah;Nawfalliyah;Nawfalliyah;Nawfaliyah;;Nawfalliyah;;;;;;;;;x
-d_cyrenaica;Cyrenaica;Cyrénaïque;Kyrenaika;;Cirenaica;;;;;;;;;x
+d_cyrenaica;Cirenaica;Cyrénaïque;Kyrenaika;;Cirenaica;;;;;;;;;x
 d_cyrenaica_adj;Cyrenaican;Cyrénaïcaine;Kyrenäischer;;Cirinea;;;;;;;;;x
 c_cyrenaica_adj;Cyrenaican;Cyrénaïcaine;Kyrenäischer;;Cirinea;;;;;;;;;x
 b_cyrene;Cyrene;Cyrène;Kyrene;;Cirene;;;;;;;;;x
@@ -13114,9 +13114,9 @@ b_acroma;Acroma;Acroma;Acroma;;Acroma;;;;;;;;;x
 b_kambut;Kambut;Kambut;Kambut;;Kambut;;;;;;;;;x
 b_zanzur;Zanzur;Zanzur;Zanzur;;Zanzur;;;;;;;;;x
 b_rukbah;Rukbah;Rukbah;Rukbah;;Rukbah;;;;;;;;;x
-k_egypt;Egypt;Égypte;Ägypten;;Egipto;;;;;;;;;x
+k_egypt;Egitto;Égypte;Ägypten;;Egipto;;;;;;;;;x
 k_egypt_adj;Egyptian;Égyptienne;Ägyptischer;;Egipcia;;;;;;;;;x
-d_alexandria;Alexandria;Alexandrie;Alexandria;;Alejandría;;;;;;;;;x
+d_alexandria;Alessandria;Alexandrie;Alexandria;;Alejandría;;;;;;;;;x
 d_alexandria_adj;Alexandrian;Alexandrine;Alexandrischer;;Alejandrina;;;;;;;;;x
 c_alexandria_adj;Alexandrian;Alexandrine;Alexandrischer;;Alejandrina;;;;;;;;;x
 b_alexandria;Alexandria;Alexandria;Alexandria;;Alejandría;;;;;;;;;x
@@ -13240,7 +13240,7 @@ b_wannina;Wannina;Wannina;Wannina;;Wannina;;;;;;;;;x
 b_beitkhallaf;Beit Khallaf;Beit Khallaf;Beit Khallaf;;Beit Khallaf;;;;;;;;;x
 b_luxor;Luxor;Louxor;Luxor;;Luxor;;;;;;;;;x
 b_meir;Meir;Meir;Meir;;Meir;;;;;;;;;x
-d_aswan;Aswan;Assouan;Assuan;;Asuán;;;;;;;;;x
+d_aswan;Assuan;Assouan;Assuan;;Asuán;;;;;;;;;x
 d_aswan_adj;Aswani;Assouanaise;Assuanischer;;Asuanesa;;;;;;;;;x
 b_aswan;Aswan;Assouan;Assuan;;Asuán;;;;;;;;;x
 b_elefantina;Elefantina;Éléphantine;Elefantina;;Elefantina;;;;;;;;;x
@@ -13533,7 +13533,7 @@ b_haswayn;Haswayn;Haswayn;Haswayn;;Haswayn;;;;;;;;;x
 b_itab;Itab;Itab;Itab;;Itab;;;;;;;;;x
 b_alkurah;Al Kurah;Al Kurah;Al Kurah;;Al Kurah;;;;;;;;;x
 b_alhalya;Al Halya;Al Halya;Al Halya;;Al Halya;;;;;;;;;x
-k_abyssinia;Abyssinia;Abyssinie;Abessinien;;Abisinia;;;;;;;;;x
+k_abyssinia;Abissinia;Abyssinie;Abessinien;;Abisinia;;;;;;;;;x
 k_abyssinia_adj;Abyssinian;Abyssinienne;Abessinischer;;Abisinia;;;;;;;;;x
 d_harer;Harer;Harar;Harer;;Harar;;;;;;;;;x
 d_harer_adj;Hareri;Hareri;Harerischer;;Hararí;;;;;;;;;x
@@ -13676,9 +13676,9 @@ b_chiri;Chiri;Chiri;Chiri;;Chiri;;;;;;;;;x
 b_kaffa;Kaffa;Kaffa;Kaffa;;Kaffa;;;;;;;;;x
 b_yadeta;Yadeta;Yadeta;Yadeta;;Yadeta;;;;;;;;;x
 b_garo;Garo;Garo;Garo;;Garo;;;;;;;;;x
-k_jerusalem;Jerusalem;Jérusalem;Jerusalem;;Jerusalén;;;;;;;;;x
+k_jerusalem;Gerusalemme;Jérusalem;Jerusalem;;Jerusalén;;;;;;;;;x
 k_jerusalem_adj;Jerusalemite;Hiérosolymitaine;Jerusalemer;;Jerosolimitana;;;;;;;;;x
-d_oultrejourdain;Oultrejourdain;Outre-Jourdain;Transjordan;;Transjordania;;;;;;;;;x
+d_oultrejourdain;Oltregiordano;Outre-Jourdain;Transjordan;;Transjordania;;;;;;;;;x
 d_oultrejourdain_adj;Oultrejourdainian;Outre-Jourdanienne;Transjordanischer;;Transjordana;;;;;;;;;x
 c_negev_adj;Negevian;Negeviane;Negever;;Negeviano;;;;;;;;;x
 b_negev;Negev;Negev;Negev;;Negev;;;;;;;;;x
@@ -13707,7 +13707,7 @@ b_zaimona;Zaimona;Zaimona;Zaimona;;Zaimona;;;;;;;;;x
 b_bozra;Bozra;Bozra;Bozra;;Bozra;;;;;;;;;x
 b_punon;Punon;Punon;Punon;;Punon;;;;;;;;;x
 b_kirhaseset;Kir-Haseset;Kir-Haseset;Kir-Haseset;;Kir-Haseset;;;;;;;;;x
-d_ascalon;Ascalon;Ascalon;Askalon;;Ascalón;;;;;;;;;x
+d_ascalon;Ascalona;Ascalon;Askalon;;Ascalón;;;;;;;;;x
 d_ascalon_adj;Ascalonite;Ascalonite;Askaloner;;Ascalonita;;;;;;;;;x
 c_darum_adj;Darumian;Darumiane;Darumer;;Darumiano;;;;;;;;;x
 b_darum;Darum;Darum;Darum;;Darum ;;;;;;;;;x
@@ -13745,7 +13745,7 @@ b_gilat;Gilat;Gilat;Gilat;;Gilat;;;;;;;;;x
 b_rahat;Rahat;Rahat;Rahat;;Rahat;;;;;;;;;x
 b_ofakim;Ofakim;Ofakim;Ofakim;;Ofakim;;;;;;;;;x
 b_abuzqayqa;Abu-Zqayqa;Abu-Zqayqa;Abu-Zqayqa;;Abu-Zqayqa;;;;;;;;;x
-d_jerusalem;Jerusalem;Jérusalem;Jerusalem;;Jerusalén;;;;;;;;;x
+d_jerusalem;gerusalemme;Jérusalem;Jerusalem;;Jerusalén;;;;;;;;;x
 d_jerusalem_adj;Jerusalemite;Hiérosolymitaine;Jerusalemer;;Jerosolimitana;;;;;;;;;x
 c_jerusalem_adj;Jerusalemite;Hiérosolymitaine;Jerusalemer;;Jerosolimitano;;;;;;;;;x
 b_jerusalem;Jerusalem;Jérusalem;Jerusalem;;Jerusalén;;;;;;;;;x
@@ -13774,7 +13774,7 @@ b_bethgibelin;Beth Gibelin;Beth Gibelin;Beth Gibelin;;Beth Gibelin;;;;;;;;;x
 b_alsamoa;Al-Samoa;Al-Samoa;Al-Samoa;;Al-Samoa;;;;;;;;;x
 b_saintcharlton;Saint Charlton;Saint Charlton;St. Charlton;;Saint Charlton;;;;;;;;;x
 b_latrun;Latrun;Latrun;Latrun;;Latrun;;;;;;;;;x
-d_galilee;Galilee;Galilée;Galiläa;;Galilea;;;;;;;;;x
+d_galilee;Galilea;Galilée;Galiläa;;Galilea;;;;;;;;;x
 d_galilee_adj;Galilean;Galiléenne;Galiläischer;;Galilea;;;;;;;;;x
 c_tiberias_adj;Tiberian;Tibérienne;Tiberier;;Tiberiano;;;;;;;;;x
 b_tiberias;Tiberias;Tibériade;Tiberias;;Tiberias;;;;;;;;;x
@@ -13812,7 +13812,7 @@ b_belvoir;Belvoir;Belvoir;Belvoir;;Belvoir;;;;;;;;;x
 b_subeiba;Subeiba;Subeiba;Subeiba;;Subeiba;;;;;;;;;x
 b_karmel;Karmel;Karmel;Karmel;;Karmel;;;;;;;;;x
 b_qatsrin;Qatsrin;Qatsrin;Qatsrin;;Qatsrin;;;;;;;;;x
-k_syria;Syria;Syrie;Syrien;;Siria;;;;;;;;;x
+k_syria;Siria;Syrie;Syrien;;Siria;;;;;;;;;x
 k_syria_adj;Syrian;Syrienne;Syrischer;;Siria;;;;;;;;;x
 d_aleppo;Aleppo;Alep;Aleppo;;Alepo;;;;;;;;;x
 d_aleppo_adj;Aleppan;Aleppine;Alepper;;Alepina;;;;;;;;;x
@@ -13861,7 +13861,7 @@ b_bara;Bara;Bara;Bara;;Bara;;;;;;;;;x
 b_salamiyah;Salamiyah;Salamiyah;Salamijah;;Salamiyah;;;;;;;;;x
 b_serjilla;Serjilla;Serjilla;Serjilla;;Serjilla;;;;;;;;;x
 b_kharsan;Kharsan;Kharsan;Kharsan;;Kharsan;;;;;;;;;x
-d_antioch;Antioch;Antioche;Antioch;;Antioquía;;;;;;;;;x
+d_antioch;Antiochia;Antioche;Antioch;;Antioquía;;;;;;;;;x
 d_antioch_adj;Antiochian;Antiochienne;Antiocher;;Antioquena;;;;;;;;;x
 c_antiocheia_adj;Antiochian;Antiochienne;Antiocher;;Antiocheiano;;;;;;;;;x
 b_antiocheia;Antioch;Antiocheia;Antiochia;;Antioquía;;;;;;;;;x
@@ -13919,7 +13919,7 @@ b_laboue;Laboue;Laboue;Laboue;;Laboue;;;;;;;;;x
 b_buissera;Buissera;Buissera;Buissera;;Buissera;;;;;;;;;x
 b_riyaq;Riyaq;Riyaq;Riyaq;;Riyaq;;;;;;;;;x
 b_chlifa;Chlifa;Chlifa;Chlifa;;Chlifa;;;;;;;;;x
-d_damascus;Damascus;Damas;Damaskus;;Damasco;;;;;;;;;x
+d_damascus;Damasco;Damas;Damaskus;;Damasco;;;;;;;;;x
 d_damascus_adj;Damascan;Damascène;Damaskischer;;Damasquina;;;;;;;;;x
 c_damascus_adj;Damascan;Damascène;Damaskischer;;Damasquino;;;;;;;;;x
 b_qsarbardawil;Qsar Bardawil;Qsar Bardawil;Qsar Bardawil;;Qsar Bardawil;;;;;;;;;x
@@ -13957,7 +13957,7 @@ b_buwayda;Buwayda;Buwayda;Buwayda;;Buwayda;;;;;;;;;x
 b_ramtah;Ramtah;Ramtah;Ramtah;;Ramtah;;;;;;;;;x
 b_taebah;Taebah;Taebah;Taebah;;Taebah;;;;;;;;;x
 b_elemtaih;Elemtaih;Elemtaih;Elemtaih;;Elemtaih;;;;;;;;;x
-d_syria;Syria;Syrie;Syrien;;Siria;;;;;;;;;x
+d_syria;Siria;Syrie;Syrien;;Siria;;;;;;;;;x
 d_syria_adj;Syrian;Syrienne;Syrischer;;Siria;;;;;;;;;x
 #c_syria_adj;Syrian;Syrienne;Syrischer;;Sirio;;;;;;;;;x
 b_amrah;Amrah;Amrah;Amrah;;Amrah;;;;;;;;;x

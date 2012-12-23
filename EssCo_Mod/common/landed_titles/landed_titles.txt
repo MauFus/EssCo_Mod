@@ -4000,6 +4000,8 @@ e_byzantium = {
 			color2={ 255 255 20 }
 			
 			capital = 750 # Nikaea
+			dynasty_title_names = no
+			
 			
 			c_nikaea = {
 				color={ 205 104 170 }
@@ -4020,27 +4022,6 @@ e_byzantium = {
 				b_yalova = {
 				}
 				b_modrene = {
-				}
-			}
-			c_nikomedeia = {
-				color={ 208 107 173 }
-				color2={ 255 255 20 }
-				
-				b_nikomedeia = {
-				}
-				b_chalkedon = {
-				}
-				b_chrysopolis = {
-				} 
-				b_praenetos = {
-				}
-				b_calpe = {
-				}
-				b_palodes = {
-				}
-				b_adapazari = {
-				}
-				b_malagina = {
 				}
 			}
 			c_prusa = {
@@ -4090,29 +4071,9 @@ e_byzantium = {
 			color={ 234 39 167 }
 			color2={ 255 255 20 }
 			
-			capital = 486 # Samos
+			capital =745 # Smyrna
+			dynasty_title_names = no
 			
-			c_ephesos = {
-				color={ 237 42 171 }
-				color2={ 255 255 20 }
-				
-				b_ephesos = {
-				}
-				b_lebedos = {
-				}
-				b_miletos = {
-				}
-				b_magnesia = {
-				}
-				b_tralles = {
-				}
-				b_iassos = {
-				}
-				b_palation = {
-				}
-				b_petron = {
-				}
-			}
 			c_smyrna = {
 				color={ 240 45 174 }
 				color2={ 255 255 20 }
@@ -4134,34 +4095,6 @@ e_byzantium = {
 				b_erythrai = {
 				}
 			}
-			c_chios = {
-				color={ 243 48 177 }
-				color2={ 255 255 20 }
-				
-				b_samos = {
-				}
-				b_chios = {
-				}
-				b_tigani = {
-				}
-				b_marathokampos = {
-				}
-				b_ikaria = {
-				}
-				b_fourni = {
-				}
-				b_chrysostomos = {
-				}
-				b_pagondas = {
-				}
-			}
-		}
-		d_aegean_islands = {
-			color={ 104 8 103 }
-			color2={ 255 255 20 }
-			
-			capital = 484 # Naxos
-			
 			c_abydos = {
 				color={ 147 55 115 }
 				color2={ 255 255 20 }
@@ -4183,6 +4116,35 @@ e_byzantium = {
 				b_elaia = {
 				}
 			}
+			c_lesbos = {
+				color={ 153 61 121 }
+				color2={ 255 255 20 }
+				
+				b_mytilene = {
+				}
+				b_mithymna = {
+				}
+				b_plomari = {
+				}
+				b_agiasos = {
+				}
+				b_eresos = {
+				}
+				b_kalloni = {
+				}
+				b_thasos = {
+				}
+				b_moudros = {
+				}
+			}
+		}
+		d_aegean_islands = {
+			color={ 104 8 103 }
+			color2={ 255 255 20 }
+			
+			capital = 484 # Naxos
+			dynasty_title_names = no
+			
 			c_naxos = {
 				color={ 149 57 117 }
 				color2={ 255 255 20 }
@@ -4225,25 +4187,25 @@ e_byzantium = {
 				b_messapia = {
 				}
 			}
-			c_lesbos = {
-				color={ 153 61 121 }
+			c_chios = {
+				color={ 243 48 177 }
 				color2={ 255 255 20 }
 				
-				b_mytilene = {
+				b_samos = {
 				}
-				b_mithymna = {
+				b_chios = {
 				}
-				b_plomari = {
+				b_tigani = {
 				}
-				b_agiasos = {
+				b_marathokampos = {
 				}
-				b_eresos = {
+				b_ikaria = {
 				}
-				b_kalloni = {
+				b_fourni = {
 				}
-				b_thasos = {
+				b_chrysostomos = {
 				}
-				b_moudros = {
+				b_pagondas = {
 				}
 			}
 		}
@@ -4252,32 +4214,12 @@ e_byzantium = {
 			color2={ 255 255 20 }
 			
 			capital = 496 # Byzantion
+			dynasty_title_names = no
 			
 			orthodox = 250 # Crusade target weight
 			catholic = 125 # Crusade target weight
 			muslim = 100 # Crusade target weight
 			
-			c_kaliopolis = {
-				color={ 176 80 143 }
-				color2={ 255 255 20 }
-				
-				b_gallipoli = {
-				}
-				b_heraclea = {
-				}
-				b_madyta = {
-				}
-				b_rhaidestos = {
-				}
-				b_panidos = {
-				}
-				b_selymbria = {
-				}
-				b_lysimachia = {
-				}
-				b_sestus = {
-				}
-			}
 			c_byzantion = {
 				color={ 180 84 147 }
 				color2={ 255 255 20 }
@@ -4327,6 +4269,27 @@ e_byzantium = {
 				b_phinopolis = {
 				}
 			}
+			c_nikomedeia = {
+				color={ 208 107 173 }
+				color2={ 255 255 20 }
+				
+				b_nikomedeia = {
+				}
+				b_chalkedon = {
+				}
+				b_chrysopolis = {
+				} 
+				b_praenetos = {
+				}
+				b_calpe = {
+				}
+				b_palodes = {
+				}
+				b_adapazari = {
+				}
+				b_malagina = {
+				}
+			}
 		}
 		d_adrianopolis = {
 			color={ 213 74 165 }
@@ -4374,6 +4337,27 @@ e_byzantium = {
 				b_polystylon = {
 				}
 				b_mosynopolis = {
+				}
+			}
+			c_kaliopolis = {
+				color={ 176 80 143 }
+				color2={ 255 255 20 }
+				
+				b_gallipoli = {
+				}
+				b_heraclea = {
+				}
+				b_madyta = {
+				}
+				b_rhaidestos = {
+				}
+				b_panidos = {
+				}
+				b_selymbria = {
+				}
+				b_lysimachia = {
+				}
+				b_sestus = {
 				}
 			}
 		}
@@ -4753,6 +4737,7 @@ e_byzantium = {
 			color2={ 255 255 20 }
 			
 			capital = 480 # Chandax
+			dynasty_title_names = no
 			
 			c_kaneia = {
 				color={ 178 11 120 }
@@ -4796,12 +4781,34 @@ e_byzantium = {
 				b_knossos = {
 				}
 			}
+			c_rhodos = {
+				color={ 116 37 88 }
+				color2={ 255 255 20 }
+				
+				b_rhodos = {
+				}
+				b_lindos = {
+				}
+				b_kos = {
+				}
+				b_karpathos = {
+				}
+				b_pefkos = {
+				}
+				b_ialysos = {
+				}
+				b_haraki = {
+				}
+				b_koskinou = {
+				}
+			}
 		}
 		d_cyprus = {
 			color={ 239 109 163 }
 			color2={ 255 255 20 }
 			
 			capital = 757 # Famagusta
+			dynasty_title_names = no
 			
 			c_famagusta = {
 				color={ 228 19 156 }
@@ -4852,6 +4859,7 @@ e_byzantium = {
 			color2={ 255 255 20 }
 			
 			capital = 755 # Attaleia
+			dynasty_title_names = no
 			
 			c_attaleia = {
 				color={ 112 33 84 }
@@ -4874,25 +4882,25 @@ e_byzantium = {
 				b_sillyon = {
 				}
 			}
-			c_rhodos = {
-				color={ 116 37 88 }
+			c_ephesos = {
+				color={ 237 42 171 }
 				color2={ 255 255 20 }
 				
-				b_rhodos = {
+				b_ephesos = {
 				}
-				b_lindos = {
+				b_lebedos = {
 				}
-				b_kos = {
+				b_miletos = {
 				}
-				b_karpathos = {
+				b_magnesia = {
 				}
-				b_pefkos = {
+				b_tralles = {
 				}
-				b_ialysos = {
+				b_iassos = {
 				}
-				b_haraki = {
+				b_palation = {
 				}
-				b_koskinou = {
+				b_petron = {
 				}
 			}
 			c_lykia = {
@@ -4935,47 +4943,8 @@ e_byzantium = {
 			
 			capital = 759 # Ikonion
 			
-			c_dorylaion = {
-				color={ 176 25 124 }
-				color2={ 255 255 20 }
-				
-				b_dorylaion = {
-				}
-				b_pessinus = {
-				}
-				b_kotiaion = {
-				}
-				b_orkistos = {
-				}
-				b_polybotos = {
-				}
-				b_iustinianopolis = {
-				}
-				b_carura = {
-				}
-				b_germia = {
-				}
-			}
-			c_ikonion = {
-				color={ 178 27 126 }
-				color2={ 255 255 20 }
-				
-				b_ikonion = {
-				}
-				b_lisdra = {
-				}
-				b_gaspadale = {
-				}
-				b_isauria = {
-				}
-				b_laranda = {
-				}
-				b_terpe = {
-				}
-				b_amblada = {
-				}
-				b_sauatra = {
-				}
+			allow ={
+				always = no
 			}
 		}
 		
@@ -4984,6 +4953,7 @@ e_byzantium = {
 			color2={ 255 255 20 }
 			
 			capital = 748 # Laodikeia
+			dynasty_title_names = no
 			
 			c_sozopolis = {
 				color={ 158 47 120 }
@@ -5027,6 +4997,27 @@ e_byzantium = {
 				b_flaviupolis = {
 				}
 			}
+			c_dorylaion = {
+				color={ 176 25 124 }
+				color2={ 255 255 20 }
+				
+				b_dorylaion = {
+				}
+				b_pessinus = {
+				}
+				b_kotiaion = {
+				}
+				b_orkistos = {
+				}
+				b_polybotos = {
+				}
+				b_iustinianopolis = {
+				}
+				b_carura = {
+				}
+				b_germia = {
+				}
+			}
 		}
 		
 		d_charsianon = {
@@ -5034,6 +5025,7 @@ e_byzantium = {
 			color2={ 255 255 20 }
 			
 			capital = 760 # Tyana
+			dynasty_title_names = no
 			
 			c_kaisereia = {
 				color={ 240 71 181 }
@@ -5056,25 +5048,25 @@ e_byzantium = {
 				b_zoropassos = {
 				}
 			}
-			c_galatia = {
-				color={ 243 74 184 }
+			c_ikonion = {
+				color={ 178 27 126 }
 				color2={ 255 255 20 }
 				
-				b_mikissos = {
+				b_ikonion = {
 				}
-				b_tavia = {
+				b_lisdra = {
 				}
-				b_asponia = {
+				b_gaspadale = {
 				}
-				b_nyssa = {
+				b_isauria = {
 				}
-				b_carissa = {
+				b_laranda = {
 				}
-				b_kochisar = {
+				b_terpe = {
 				}
-				b_karacaviran = {
+				b_amblada = {
 				}
-				b_garsaura = {
+				b_sauatra = {
 				}
 			}
 			c_tyana = {
@@ -5104,6 +5096,7 @@ e_byzantium = {
 			color2={ 255 255 20 }
 			
 			capital = 738 # Amisos
+			dynasty_title_names = no
 			
 			c_amisos = {
 				color={ 255 2 169 }
@@ -5147,12 +5140,34 @@ e_byzantium = {
 				b_themiscyra = {
 				}
 			}
+			c_herakleia = {
+				color={ 235 78 181 }
+				color2={ 255 255 20 }
+				
+				b_herakleia = {
+				}
+				b_claudiopolis = {
+				}
+				b_flaviopolis = {
+				}
+				b_polis = {
+				}
+				b_bithynium = {
+				}
+				b_zephyropoli = {
+				}
+				b_amastrine = {
+				}
+				b_tium = {
+				}
+			}
 		}
 		d_paphlagonia = {
 			color={ 234 157 207 }
 			color2={ 255 255 20 }
 			
 			capital = 753 # Ankyra
+			dynasty_title_names = no
 			
 			c_paphlagonia = {
 				color={ 231 74 177 }
@@ -5175,25 +5190,25 @@ e_byzantium = {
 				b_leontopolis = {
 				}
 			}
-			c_herakleia = {
-				color={ 235 78 181 }
+			c_galatia = {
+				color={ 243 74 184 }
 				color2={ 255 255 20 }
 				
-				b_herakleia = {
+				b_mikissos = {
 				}
-				b_claudiopolis = {
+				b_tavia = {
 				}
-				b_flaviopolis = {
+				b_asponia = {
 				}
-				b_polis = {
+				b_nyssa = {
 				}
-				b_bithynium = {
+				b_carissa = {
 				}
-				b_zephyropoli = {
+				b_kochisar = {
 				}
-				b_amastrine = {
+				b_karacaviran = {
 				}
-				b_tium = {
+				b_garsaura = {
 				}
 			}
 			c_ankyra = {
@@ -5224,6 +5239,7 @@ e_byzantium = {
 			color2={ 255 255 255 }
 			
 			capital = 678 # Trepezous
+			dynasty_title_names = no
 			
 			dignity = 7
 			
@@ -5298,6 +5314,7 @@ e_byzantium = {
 		color2={ 255 255 255 }
 		
 		capital = 681 #	Ani
+		dynasty_title_names = no
 		
 		culture = armenian
 		
@@ -5309,6 +5326,7 @@ e_byzantium = {
 			color2={ 255 255 255 }
 			
 			capital = 670 # Azerbaijan
+			dynasty_title_names = no
 			
 			culture = persian
 			
@@ -5402,6 +5420,7 @@ e_byzantium = {
 			color2={ 255 255 255 }
 			
 			capital = 682 # Vaspurakan
+			dynasty_title_names = no
 			
 			c_vaspurakan = {
 				color={ 162 191 44 }
@@ -5466,13 +5485,6 @@ e_byzantium = {
 				b_zvartnots = {
 				}
 			}
-		}
-		d_mesopotamia = {
-			color={ 155 110 88 }
-			color2={ 255 255 255 }
-			
-			capital = 702 # Mesopotamia
-			
 			c_karin = {
 				color={ 117 154 36 }
 				color2={ 255 255 255 }
@@ -5494,6 +5506,14 @@ e_byzantium = {
 				b_kirklarkilisesi = {
 				}
 			}
+		}
+		d_mesopotamia = {
+			color={ 155 110 88 }
+			color2={ 255 255 255 }
+			
+			capital = 702 # Mesopotamia
+			dynasty_title_names = no
+			
 			c_mesopotamia = {
 				color={ 121 158 40 }
 				color2={ 255 255 255 }
@@ -5584,6 +5604,7 @@ e_byzantium = {
 			color2={ 255 255 255 }
 			
 			capital = 699 # Edessa
+			dynasty_title_names = no
 			
 			c_edessa = {
 				color={ 153 255 5 }
@@ -5654,6 +5675,7 @@ e_byzantium = {
 			color2={ 255 255 255 }
 			
 			capital = 706 # Koloneia
+			dynasty_title_names = no
 			
 			c_koloneia = {
 				color={ 133 235 23 }
@@ -5697,13 +5719,6 @@ e_byzantium = {
 				b_yedisu = {
 				}
 			}
-		}
-		d_armenia_minor = {
-			color={ 214 140 190 }
-			color2={ 255 255 255 }
-			
-			capital = 761 # Tarsos
-	
 			c_lykandos = {
 				color={ 131 192 44 }
 				color2={ 255 255 255 }
@@ -5725,6 +5740,14 @@ e_byzantium = {
 				b_arabissus = {
 				}
 			}
+		}
+		d_armenia_minor = {
+			color={ 214 140 190 }
+			color2={ 255 255 255 }
+			
+			capital = 761 # Tarsos
+			dynasty_title_names = no
+	
 			c_tarsos = {
 				color={ 135 196 48 }
 				color2={ 255 255 255 }
@@ -5870,6 +5893,27 @@ e_byzantium = {
 				b_knjazevac = {
 				}
 			}
+			c_serdica = {
+				color={ 158 43 201 }
+				color2={ 255 255 255 }
+				
+				b_serdica = {
+				}
+				b_velbazhd = {
+				}
+				b_rila = {
+				}
+				b_etropole = {
+				}
+				b_pernik = {
+				}
+				b_breznik = {
+				}
+				b_pravets = {
+				}
+				b_samundzhievo = {
+				}
+			}
 		}
 		d_turnovo = {
 			color={ 154 39 197 }
@@ -5896,27 +5940,6 @@ e_byzantium = {
 				b_maglizh = {
 				}
 				b_kazanlak = {
-				}
-			}
-			c_serdica = {
-				color={ 158 43 201 }
-				color2={ 255 255 255 }
-				
-				b_serdica = {
-				}
-				b_velbazhd = {
-				}
-				b_rila = {
-				}
-				b_etropole = {
-				}
-				b_pernik = {
-				}
-				b_breznik = {
-				}
-				b_pravets = {
-				}
-				b_samundzhievo = {
 				}
 			}
 			c_nikopolis = {
@@ -6111,6 +6134,13 @@ e_byzantium = {
 				b_bals = {
 				}
 			}
+		}
+		d_galaz = {
+			color={ 208 172 59 }
+			color2={ 255 255 255 }
+			
+			capital = 511 # Galaz
+		
 			c_galaz = {
 				color={ 217 102 253 }
 				color2={ 255 255 255 }
@@ -6130,6 +6160,48 @@ e_byzantium = {
 				b_tulcea = {
 				}
 				b_crisan = {
+				}
+			}
+			c_belgorod = {
+				color={ 231 210 153 }
+				color2={ 255 255 255 }
+			
+				b_belgorod = {
+				}
+				b_oblucita = {
+				}
+				b_chilia = {
+				}
+				b_palada = {
+				}
+				b_oancea = {
+				}
+				b_scheia = {
+				}
+				b_tigheci = {
+				}
+				b_falciu = {
+				}
+			}
+			c_birlad = {
+				color={ 233 212 155 }
+				color2={ 255 255 255 }
+			
+				b_barlad = {
+				}
+				b_husi = {
+				}
+				b_vaslui = {
+				}
+				b_galati = {
+				}
+				b_tecuci = {
+				}
+				b_braila = {
+				}
+				b_buzau = {
+				}
+				b_ramnicusarat = {
 				}
 			}
 		}
@@ -6200,48 +6272,6 @@ e_byzantium = {
 				b_alibei = {
 				}
 				b_basarabeasca = {
-				}
-			}
-			c_belgorod = {
-				color={ 231 210 153 }
-				color2={ 255 255 255 }
-			
-				b_belgorod = {
-				}
-				b_oblucita = {
-				}
-				b_chilia = {
-				}
-				b_palada = {
-				}
-				b_oancea = {
-				}
-				b_scheia = {
-				}
-				b_tigheci = {
-				}
-				b_falciu = {
-				}
-			}
-			c_birlad = {
-				color={ 233 212 155 }
-				color2={ 255 255 255 }
-			
-				b_barlad = {
-				}
-				b_husi = {
-				}
-				b_vaslui = {
-				}
-				b_galati = {
-				}
-				b_tecuci = {
-				}
-				b_braila = {
-				}
-				b_buzau = {
-				}
-				b_ramnicusarat = {
 				}
 			}
 		}
@@ -8518,6 +8548,7 @@ e_russia = {
 			color2={ 255 255 255 }
 			
 			capital = 582 # Vladimir
+			dynasty_title_names = no
 	
 			c_gorodez = {
 				color={ 193 207 149 }
@@ -9317,12 +9348,14 @@ e_russia = {
 		color2={ 255 255 255 }
 			
 		capital = 610 # Bulgar
+		dynasty_title_names = no
 	
 		d_bulgar = { 
 			color={ 193 158 63 }
 			color2={ 255 255 255 }
 			
 			capital = 610 # Bulgar
+			dynasty_title_names = no
 		
 			c_kama = {
 				color={ 199 164 69 }
@@ -9414,6 +9447,7 @@ e_russia = {
 			color2={ 255 255 255 }
 			
 			capital = 589 # Grassland Cheremisa
+			dynasty_title_names = no
 	
 			c_grassland_cheremisa = {
 				color={ 231 171 10 }
@@ -9505,6 +9539,7 @@ e_russia = {
 			color2={ 255 255 255 }
 			
 			capital = 592 # Burtasy
+			dynasty_title_names = no
 	
 			c_burtasy = {
 				color={ 243 183 22 }
@@ -9598,12 +9633,14 @@ e_russia = {
 		color2={ 255 255 255 }
 		
 		capital = 886 # Perm
+		dynasty_title_names = no
 	
 		d_perm = {
 			color={ 234 208 137 }
 			color2={ 255 255 255 }
 			
 			capital = 886 # Perm
+			dynasty_title_names = no
 		
 			c_perm = {
 				color={ 237 211 140 }
@@ -9695,6 +9732,7 @@ e_russia = {
 			color2={ 255 255 255 }
 			
 			capital = 889 # Chelyabi
+			dynasty_title_names = no
 			
 			c_chelyabi = {
 				color={ 246 220 149 }
@@ -9765,6 +9803,7 @@ e_russia = {
 			color2={ 255 255 255 }
 			
 			capital = 401 # Hlynov
+			dynasty_title_names = no
 			
 			c_hlynov = {
 				color={ 116 131 71 }
@@ -9856,6 +9895,7 @@ e_russia = {
 			color2={ 255 255 255 }
 			
 			capital = 891 # Tyumen
+			dynasty_title_names = no
 		
 			c_tyumen = {
 				color={ 219 166 23 }
@@ -9950,6 +9990,7 @@ e_persia = {
 	color2={ 255 255 255 }
 	
 	capital = 646 #	Esfahan
+	dynasty_title_names = no
 	
 	culture = persian
 	
@@ -9964,6 +10005,7 @@ e_persia = {
 		color2={ 255 255 255 }
 		
 		capital = 646 #	Esfahan
+			dynasty_title_names = no
 		
 		culture = persian
 		
@@ -9974,6 +10016,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 630 # Merv
+			dynasty_title_names = no
 			
 			c_merv = {
 				color={ 156 204 73 }
@@ -10038,12 +10081,34 @@ e_persia = {
 				b_kemir = {
 				}
 			}
+			c_gurgan = {
+				color={ 107 158 17 }
+				color2={ 255 255 255 }
+				
+				b_gurgan = {
+				}
+				b_gonbadeqabus = {
+				}
+				b_komishdepa = {
+				}
+				b_kordkuy = {
+				}
+				b_aqqala = {
+				}
+				b_ramian = {
+				}
+				b_minudasht = {
+				}
+				b_khanbebin = {
+				}
+			}
 		}
 		d_khorasan = {
 			color={ 99 150 9 }
 			color2={ 255 255 255 }
 			
 			capital = 632 # Khorasan
+			dynasty_title_names = no
 			
 			c_khorasan = {
 				color={ 103 154 13 }
@@ -10064,27 +10129,6 @@ e_persia = {
 				b_fagdatdezh = {
 				}
 				b_solak = {
-				}
-			}
-			c_gurgan = {
-				color={ 107 158 17 }
-				color2={ 255 255 255 }
-				
-				b_gurgan = {
-				}
-				b_gonbadeqabus = {
-				}
-				b_komishdepa = {
-				}
-				b_kordkuy = {
-				}
-				b_aqqala = {
-				}
-				b_ramian = {
-				}
-				b_minudasht = {
-				}
-				b_khanbebin = {
 				}
 			}
 			c_nishapur = {
@@ -10156,6 +10200,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 662 # Mazandaran
+			dynasty_title_names = no
 			
 			c_tabaristan = {
 				color={ 111 151 41 }
@@ -10226,6 +10271,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 646 # Esfahan
+			dynasty_title_names = no
 			
 			c_esfahan = {
 				color={ 145 179 87 }
@@ -10317,6 +10363,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 641 # Hormuz
+			dynasty_title_names = no
 			
 			c_sistan = {
 				color={ 102 122 67 }
@@ -10381,27 +10428,6 @@ e_persia = {
 				b_ghaleganj = {
 				}
 			}
-			c_ladistan = {
-				color={ 114 134 79 }
-				color2={ 255 255 255 }
-				
-				b_lad = {
-				}
-				b_khonj = {
-				}
-				b_evaz = {
-				}
-				b_jask = {
-				}
-				b_bastak = {
-				}
-				b_morbagh = {
-				}
-				b_forg = {
-				}
-				b_bandarkhamir = {
-				}
-			}
 			c_zermanya = {
 				color={ 118 138 83 }
 				color2={ 255 255 255 }
@@ -10427,6 +10453,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 643 # Fars
+			dynasty_title_names = no
 			
 			c_fars = {
 				color={ 91 130 24 }
@@ -10447,6 +10474,27 @@ e_persia = {
 				b_gerash = {
 				}
 				b_khafr = {
+				}
+			}
+			c_ladistan = {
+				color={ 114 134 79 }
+				color2={ 255 255 255 }
+				
+				b_lad = {
+				}
+				b_khonj = {
+				}
+				b_evaz = {
+				}
+				b_jask = {
+				}
+				b_bastak = {
+				}
+				b_morbagh = {
+				}
+				b_forg = {
+				}
+				b_bandarkhamir = {
 				}
 			}
 			c_hendjan = {
@@ -10497,6 +10545,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 658 # Hamadan
+			dynasty_title_names = no
 			
 			c_qom = {
 				color={ 187 228 115 }
@@ -10567,6 +10616,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 906 # Birjand
+			dynasty_title_names = no
 			
 			c_birjand = {
 				color={ 138 171 82 }
@@ -10631,6 +10681,35 @@ e_persia = {
 				b_kacharud = {
 				}
 			}
+			c_sabzevar = {
+				color={ 150 183 94 }
+				color2={ 255 255 255 }
+				
+				b_sabzevar = {
+				}
+				b_adraskan = {
+				}
+				b_baluci = {
+				}
+				b_saghar = {
+				}
+				b_kwajaha = {
+				}
+				b_taywara = {
+				}
+				b_gozareh = {
+				}
+				b_chanechahan = {
+				}
+			}
+		}
+		d_baluchistan = {
+			color={ 86 139 40 }
+			color2={ 255 255 255 }
+			
+			capital = 894 # Baluchistan
+			dynasty_title_names = no
+			
 			c_bam = {
 				color={ 144 177 88 }
 				color2={ 255 255 255 }
@@ -10694,27 +10773,6 @@ e_persia = {
 				b_sergen = {
 				}
 			}
-			c_sabzevar = {
-				color={ 150 183 94 }
-				color2={ 255 255 255 }
-				
-				b_sabzevar = {
-				}
-				b_adraskan = {
-				}
-				b_baluci = {
-				}
-				b_saghar = {
-				}
-				b_kwajaha = {
-				}
-				b_taywara = {
-				}
-				b_gozareh = {
-				}
-				b_chanechahan = {
-				}
-			}
 			c_baluchistan = {
 				color={ 152 185 96 }
 				color2={ 255 255 255 }
@@ -10745,12 +10803,14 @@ e_persia = {
 		
 		capital	= 901 # Khiva
 		culture = persian
+		dynasty_title_names = no
 		
 		d_khiva = {
 			color={ 185 210 142 }
 			color2={ 255 255 255 }
 			
-			capital = 903 # Samarkand
+			capital = 901 # Khiva
+			dynasty_title_names = no
 			
 			c_khiva = {
 				color={ 189 214 146 }
@@ -10815,6 +10875,14 @@ e_persia = {
 				b_gorogly = {
 				}
 			}
+		}
+		d_samarkand = {
+			color={ 185 240 172 }
+			color2={ 255 255 255 }
+			
+			capital = 903 # Samarkand
+			dynasty_title_names = no
+			
 			c_samarkand = {
 				color={ 197 221 154 }
 				color2={ 255 255 255 }
@@ -10885,6 +10953,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 628 # Bukhara
+			dynasty_title_names = no
 			
 			c_kara-kum = {
 				color={ 165 243 30 }
@@ -10957,6 +11026,7 @@ e_persia = {
 		color2={ 255 255 255 }
 		
 		capital	= 693 # Baghdad
+		dynasty_title_names = no
 		
 		culture = levantine_arabic
 		
@@ -10967,6 +11037,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 657 # Luristan
+			dynasty_title_names = no
 			
 			c_qazwin = {
 				color={ 70 107 176 }
@@ -11053,12 +11124,55 @@ e_persia = {
 				}
 			}
 		}
-		d_tigris = {
+		d_karbala = {
 			color={ 113 150 32 }
 			color2={ 255 255 255 }
 			
-			capital = 656 # Tigris
+			capital = 694 # Karbala
+			dynasty_title_names = no
 			
+			c_karbala = {
+				color={ 115 105 139 }
+				color2={ 255 255 255 }
+				
+				b_ainaltamur = {
+				}
+				b_karbala = {
+				}
+				b_hindiya = {
+				}
+				b_ofak = {
+				}
+				b_hamzah = {
+				}
+				b_shamiyah = {
+				}
+				b_qisair = {
+				}
+				b_ukhaidir = {
+				}
+			}
+			c_al_habbariyah = {
+				color={ 93 133 205 }
+				color2={ 255 255 255 }
+				
+				b_alhabbariyah = {
+				}
+				b_shabakah = {
+				}
+				b_nukhaib = {
+				}
+				b_qutaysh = {
+				}
+				b_aljirami = {
+				}
+				b_adhaman = {
+				}
+				b_daydab = {
+				}
+				b_nuayj = {
+				}
+			}
 			c_al_nadjaf = {
 				color={ 90 130 202 }
 				color2={ 255 255 255 }
@@ -11080,6 +11194,14 @@ e_persia = {
 				b_jaarah = {
 				}
 			}
+		}
+		d_tigris = {
+			color={ 113 150 32 }
+			color2={ 255 255 255 }
+			
+			capital = 656 # Tigris
+			dynasty_title_names = no
+			
 			c_ilam = {
 				color={ 58 118 228 }
 				color2={ 255 255 255 }
@@ -11170,6 +11292,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 649 # Basra
+			dynasty_title_names = no
 			
 			c_kufa = {
 				color={ 88 141 239 }
@@ -11261,28 +11384,8 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 693 # Baghdad
+			dynasty_title_names = no
 			
-			c_karbala = {
-				color={ 125 165 239 }
-				color2={ 255 255 255 }
-				
-				b_ainaltamur = {
-				}
-				b_karbala = {
-				}
-				b_hindiya = {
-				}
-				b_ofak = {
-				}
-				b_hamzah = {
-				}
-				b_shamiyah = {
-				}
-				b_qisair = {
-				}
-				b_ukhaidir = {
-				}
-			}
 			c_baghdad = {
 				color={ 129 169 243 }
 				color2={ 255 255 255 }
@@ -11302,27 +11405,6 @@ e_persia = {
 				b_madain = {
 				}
 				b_latifiya = {
-				}
-			}
-			c_al_habbariyah = {
-				color={ 93 133 205 }
-				color2={ 255 255 255 }
-				
-				b_alhabbariyah = {
-				}
-				b_shabakah = {
-				}
-				b_nukhaib = {
-				}
-				b_qutaysh = {
-				}
-				b_aljirami = {
-				}
-				b_adhaman = {
-				}
-				b_daydab = {
-				}
-				b_nuayj = {
 				}
 			}
 			c_deir = {
@@ -11394,6 +11476,7 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 			capital = 697 # Mosul
+			dynasty_title_names = no
 			
 			c_mosul = {
 				color={ 9 89 236 }
@@ -11435,6 +11518,56 @@ e_persia = {
 				b_dawodiya = {
 				}
 				b_sarsink = {
+				}
+			}
+			c_sinjar = {
+				color={ 17 97 244 }
+				color2={ 255 255 255 }
+				
+				b_sinjar = {
+				}
+				b_hatra = {
+				}
+				b_telassar = {
+				}
+				b_nineveh = {
+				}
+				b_talkayf = {
+				}
+				b_baaj = {
+				}
+				b_kouyunik = {
+				}
+				b_nabiyunus = {
+				}
+			}
+		}
+		d_bira = {
+			color={ 49 181 94 }
+			color2={ 255 255 255 }
+			
+			capital = 700 # Bira
+			dynasty_title_names = no
+			
+			c_bira = {
+				color={ 19 99 246 }
+				color2={ 255 255 255 }
+				
+				b_bira = {
+				}
+				b_tella = {
+				}
+				b_resaina = {
+				}
+				b_qalarebete = {
+				}
+				b_derik = {
+				}
+				b_qoser = {
+				}
+				b_samrah = {
+				}
+				b_stewr = {
 				}
 			}
 			c_al_jazira = {
@@ -11479,54 +11612,13 @@ e_persia = {
 				b_mhaymidah = {
 				}
 			}
-			c_sinjar = {
-				color={ 17 97 244 }
-				color2={ 255 255 255 }
-				
-				b_sinjar = {
-				}
-				b_hatra = {
-				}
-				b_telassar = {
-				}
-				b_nineveh = {
-				}
-				b_talkayf = {
-				}
-				b_baaj = {
-				}
-				b_kouyunik = {
-				}
-				b_nabiyunus = {
-				}
-			}
-			c_bira = {
-				color={ 19 99 246 }
-				color2={ 255 255 255 }
-				
-				b_bira = {
-				}
-				b_tella = {
-				}
-				b_resaina = {
-				}
-				b_qalarebete = {
-				}
-				b_derik = {
-				}
-				b_qoser = {
-				}
-				b_samrah = {
-				}
-				b_stewr = {
-				}
-			}
 		}
 		d_tabriz = {
 			color={ 60 140 60 }
 			color2={ 255 255 255 }
 			
 			capital = 666 # Gilan
+			dynasty_title_names = no
 			
 			c_oromieh = {
 				color={ 61 86 133 }
@@ -13470,6 +13562,7 @@ e_spain = {
 		dignity = 10 # Counted as having 10 more counties than it does
 		
 		capital = 199 # Burgos
+		dynasty_title_names = no
 		
 		culture = castillan
 		
@@ -13483,6 +13576,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 199 # Burgos
+			dynasty_title_names = no
 			
 			c_burgos = {
 				color = { 246 200 16 }
@@ -13576,6 +13670,7 @@ e_spain = {
 		color2={ 230 0 0 }
 		
 		capital = 204 # Barcelona
+		dynasty_title_names = no
 		
 		culture = castillan
 		
@@ -13589,6 +13684,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 202 # Zaragoza
+			dynasty_title_names = no
 			
 			c_albarracin = {
 				color = { 113 235 3 }
@@ -13680,6 +13776,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 204 # Barcelona
+			dynasty_title_names = no
 			
 			culture = catalan
 			
@@ -13752,6 +13849,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 205 # Empuries
+			dynasty_title_names = no
 			
 			culture = catalan
 			
@@ -13825,6 +13923,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 171 # Valencia
+			dynasty_title_names = no
 			
 			c_castellon = {
 				color = { 255 242 2 }
@@ -13895,6 +13994,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 827 # Mallorca
+			dynasty_title_names = no
 			
 			c_mallorca = {
 				color = { 255 249 3 }
@@ -14025,6 +14125,7 @@ e_spain = {
 		color2={ 255 255 255 }
 		
 		capital = 190 # Leon
+		dynasty_title_names = no
 		
 		culture = castillan
 		
@@ -14036,6 +14137,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 155 # Asturias
+			dynasty_title_names = no
 			
 			c_asturias_de_oviedo = {
 				color = { 233 158 51 }
@@ -14085,6 +14187,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 190 # Leon
+			dynasty_title_names = no
 			
 			c_leon = {
 				color = { 253 158 51 }
@@ -14155,6 +14258,7 @@ e_spain = {
 	k_spanish_galicia = {
 		color={ 255 224 94 }
 		capital = 156 # Coruña
+		dynasty_title_names = no
 		
 		culture = portuguese
 		
@@ -14166,6 +14270,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 156 # Coruna
+			dynasty_title_names = no
 			
 			c_coruna = {
 				color = { 183 118 51 }
@@ -14237,6 +14342,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 158 # porto
+			dynasty_title_names = no
 			
 			culture = portuguese
 			
@@ -14876,6 +14982,7 @@ e_spain = {
 			color2={ 255 255 255 }
 			
 			capital = 197 # Toledo
+			dynasty_title_names = no
 			
 			c_toledo = {
 				color = { 245 204 15 }
@@ -15102,26 +15209,27 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 722 # Petra
+			dynasty_title_names = no
 		
-			c_al_aqabah = {
-				color={ 124 199 5 }
+			c_petra = {
+				color={ 133 208 14 }
 				color2={ 255 255 255 }
 			
-				b_aqabah = {
+				b_tophel = {
 				}
-				b_reeshah = {
+				b_petra = {
 				}
-				b_quwairah = {
+				b_wadi_musa = {
 				}
-				b_mazraa = {
+				b_bozrah = {
 				}
-				b_feifa = {
+				b_shoubak = {
 				}
-				b_samar = {
+				b_abdelliya = {
 				}
-				b_elifaz = {
+				b_hamza = {
 				}
-				b_yotvata = {
+				b_husseiniya = {
 				}
 			}
 			c_ar_ar = {
@@ -15166,6 +15274,14 @@ e_arabia = {
 				b_bubeita = {
 				}
 			}
+		}
+		d_tabuk = {
+			color={ 61 116 2 }
+			color2={ 255 255 255 }
+			
+			capital = 721 # Tabuk
+			dynasty_title_names = no
+		
 			c_tabuk = {
 				color={ 130 205 11 }
 				color2={ 255 255 255 }
@@ -15187,36 +15303,27 @@ e_arabia = {
 				b_sharmah = {
 				}
 			}
-			c_petra = {
-				color={ 133 208 14 }
+			c_al_aqabah = {
+				color={ 124 199 5 }
 				color2={ 255 255 255 }
 			
-				b_tophel = {
+				b_aqabah = {
 				}
-				b_petra = {
+				b_reeshah = {
 				}
-				b_wadi_musa = {
+				b_quwairah = {
 				}
-				b_bozrah = {
+				b_mazraa = {
 				}
-				b_shoubak = {
+				b_feifa = {
 				}
-				b_abdelliya = {
+				b_samar = {
 				}
-				b_hamza = {
+				b_elifaz = {
 				}
-				b_husseiniya = {
+				b_yotvata = {
 				}
 			}
-		}
-		d_medina = {
-			color={ 150 249 43 }
-			color2={ 255 255 255 }
-			
-			capital = 719 # Mecca
-			
-			muslim = 500 # Crusade target weight
-		
 			c_al_jawf = {
 				color={ 154 253 47 }
 				color2={ 255 255 255 }
@@ -15259,6 +15366,16 @@ e_arabia = {
 				b_tawala = {
 				}
 			}
+		}
+		d_medina = {
+			color={ 150 249 43 }
+			color2={ 255 255 255 }
+			
+			capital = 719 # Mecca
+			dynasty_title_names = no
+			
+			muslim = 500 # Crusade target weight
+		
 			c_medina = {
 				color={ 162 253 55 }
 				color2={ 255 255 255 }
@@ -15332,6 +15449,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 860 # Sanaa
+			dynasty_title_names = no
 		
 			c_bayda = {
 				color={ 132 251 45 }
@@ -15417,6 +15535,56 @@ e_arabia = {
 				b_alarbadi = {
 				}
 			}
+		}
+		d_dhofar = {
+			color={ 63 119 100 }
+			color2={ 255 255 255 }
+			
+			capital = 866 # Dhofar
+			dynasty_title_names = no
+		
+			c_dhofar = {
+				color={ 104 207 13 }
+				color2={ 255 255 255 }
+			
+				b_salalah = {
+				}
+				b_thamarit = {
+				}
+				b_raysut = {
+				}
+				b_amal = {
+				}
+				b_shisr = {
+				}
+				b_dawkah = {
+				}
+				b_durrah = {
+				}
+				b_harzan = {
+				}
+			}
+			c_mahra = {
+				color={ 106 209 15 }
+				color2={ 255 255 255 }
+			
+				b_ghaydah = {
+				}
+				b_nishtun = {
+				}
+				b_damqwat = {
+				}
+				b_qishn = {
+				}
+				b_haswayn = {
+				}
+				b_itab = {
+				}
+				b_alkurah = {
+				}
+				b_alhalya = {
+				}
+			}
 			c_kathiri = {
 				color={ 140 255 53 }
 				color2={ 255 255 255 }
@@ -15444,6 +15612,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 868 # Muscat
+			dynasty_title_names = no
 		
 			c_dhu_zabi = {
 				color={ 96 199 5 }
@@ -15529,54 +15698,13 @@ e_arabia = {
 				b_masirah = {
 				}
 			}
-			c_dhofar = {
-				color={ 104 207 13 }
-				color2={ 255 255 255 }
-			
-				b_salalah = {
-				}
-				b_thamarit = {
-				}
-				b_raysut = {
-				}
-				b_amal = {
-				}
-				b_shisr = {
-				}
-				b_dawkah = {
-				}
-				b_durrah = {
-				}
-				b_harzan = {
-				}
-			}
-			c_mahra = {
-				color={ 106 209 15 }
-				color2={ 255 255 255 }
-			
-				b_ghaydah = {
-				}
-				b_nishtun = {
-				}
-				b_damqwat = {
-				}
-				b_qishn = {
-				}
-				b_haswayn = {
-				}
-				b_itab = {
-				}
-				b_alkurah = {
-				}
-				b_alhalya = {
-				}
-			}
 		}
 		d_nefoud = {
 			color={ 17 228 10 }
 			color2={ 255 255 255 }
 			
 			capital = 863 # Hajr
+			dynasty_title_names = no
 			
 			c_rafha = {
 				color={ 174 253 67 }
@@ -15668,6 +15796,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 652 # Al Hasa
+			dynasty_title_names = no
 			
 			c_damman = {
 				color={ 14 79 198 }
@@ -15754,6 +15883,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 802 # Alexandria
+			dynasty_title_names = no
 		
 			c_alexandria = {
 				color={ 102 221 136 }
@@ -15840,33 +15970,13 @@ e_arabia = {
 				b_ismant = {
 				}
 			}
-			c_gizeh = {
-				color={ 110 229 144 }
-				color2={ 255 255 255 }
-			
-				b_gizeh = {
-				}
-				b_aburowash = {
-				}
-				b_dashur = {
-				}
-				b_zawyetalayran = {
-				}
-				b_abughorob = {
-				}
-				b_abusir = {
-				}
-				b_saqqara = {
-				}
-				b_ellisht = {
-				}
-			}
 		}
 		d_damietta = {
 			color={ 3 255 74 }
 			color2={ 255 255 255 }
 			
 			capital = 798 # Damietta
+			dynasty_title_names = no
 		
 			c_gabiyaha = {
 				color={ 6 255 77 }
@@ -15958,6 +16068,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 796 # Cairo
+			dynasty_title_names = no
 		
 			c_cairo = {
 				color={ 24 236 119 }
@@ -16001,25 +16112,25 @@ e_arabia = {
 				b_suez = {
 				}
 			}
-			c_quena = {
-				color={ 32 244 127 }
+			c_gizeh = {
+				color={ 110 229 144 }
 				color2={ 255 255 255 }
 			
-				b_quena = {
+				b_gizeh = {
 				}
-				b_kosseir = {
+				b_aburowash = {
 				}
-				b_qus = {
+				b_dashur = {
 				}
-				b_abughusun = {
+				b_zawyetalayran = {
 				}
-				b_safaga = {
+				b_abughorob = {
 				}
-				b_marsaalam = {
+				b_abusir = {
 				}
-				b_troglodytica = {
+				b_saqqara = {
 				}
-				b_ummrus = {
+				b_ellisht = {
 				}
 			}
 			c_asyut = {
@@ -16051,6 +16162,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 794 # Aswan
+			dynasty_title_names = no
 		
 			c_aswan = {
 				color={ 43 190 122 }
@@ -16115,6 +16227,27 @@ e_arabia = {
 				b_derri = {
 				}
 			}
+			c_quena = {
+				color={ 32 244 127 }
+				color2={ 255 255 255 }
+			
+				b_quena = {
+				}
+				b_kosseir = {
+				}
+				b_qus = {
+				}
+				b_abughusun = {
+				}
+				b_safaga = {
+				}
+				b_marsaalam = {
+				}
+				b_troglodytica = {
+				}
+				b_ummrus = {
+				}
+			}
 		}
 		
 		d_sinai = {
@@ -16122,6 +16255,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 788 # Farama
+			dynasty_title_names = no
 		
 			c_farama = {
 				color={ 141 198 5 }
@@ -16227,6 +16361,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 723 # Madaba
+			dynasty_title_names = no
 		
 			c_negev = {
 				color={ 45 251 50 }
@@ -16318,6 +16453,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 780 # Ascalon
+			dynasty_title_names = no
 		
 			c_darum = {
 				color={ 5 199 37 }
@@ -16409,6 +16545,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 774 # Jerusalem
+			dynasty_title_names = no
 			
 			christian = 250 # Crusade target weight
 			muslim = 250 # Crusade target weight
@@ -16486,6 +16623,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 771 # Tyrus
+			dynasty_title_names = no
 		
 			c_tiberias = {
 				color={ 5 199 64 }
@@ -16582,6 +16720,7 @@ e_arabia = {
 		dynasty_title_names = no
 		
 		capital = 728 # Damascus
+		dynasty_title_names = no
 		
 		orthodox = 200 # Crusade target weight
 		muslim = 200 # Crusade target weight
@@ -16591,6 +16730,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 733 # Aleppo
+			dynasty_title_names = no
 		
 			c_asas = {
 				color={ 87 234 22 }
@@ -16655,27 +16795,6 @@ e_arabia = {
 				b_maaratannuman = {
 				}
 			}
-			c_homs = {
-				color={ 93 240 28 }
-				color2={ 255 255 255 }
-			
-				b_homs = {
-				}
-				b_zweitina = {
-				}
-				b_emesa = {
-				}
-				b_alkhazandar = {
-				}
-				b_qadesh = {
-				}
-				b_sadad = {
-				}
-				b_marmarita = {
-				}
-				b_qatna = {
-				}
-			}
 			c_hama = {
 				color={ 95 242 30 }
 				color2={ 255 255 255 }
@@ -16703,6 +16822,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 764 # Antioch
+			dynasty_title_names = no
 		
 			c_antiocheia = {
 				color={ 152 69 135 }
@@ -16774,6 +16894,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 767 # Tripoli
+			dynasty_title_names = no
 		
 			c_tortosa = {
 				color={ 73 152 34 }
@@ -16838,12 +16959,34 @@ e_arabia = {
 				b_chlifa = {
 				}
 			}
+			c_homs = {
+				color={ 93 240 28 }
+				color2={ 255 255 255 }
+			
+				b_homs = {
+				}
+				b_zweitina = {
+				}
+				b_emesa = {
+				}
+				b_alkhazandar = {
+				}
+				b_qadesh = {
+				}
+				b_sadad = {
+				}
+				b_marmarita = {
+				}
+				b_qatna = {
+				}
+			}
 		}
 		d_damascus = {
 			color={ 122 255 3 }
 			color2={ 255 255 255 }
 			
 			capital = 728 # Damascus
+			dynasty_title_names = no
 		
 			c_damascus = {
 				color={ 125 255 6 }
@@ -16908,6 +17051,14 @@ e_arabia = {
 				b_elemtaih = {
 				}
 			}
+		}
+		d_amman = {
+			color={ 75 255 60 }
+			color2={ 255 255 255 }
+			
+			capital = 724 # Amman
+			dynasty_title_names = no
+		
 			c_az_zarqa = {
 				color={ 103 143 214 }
 				color2={ 255 255 255 }
@@ -16950,12 +17101,34 @@ e_arabia = {
 				b_al_balqa = {
 				}
 			}
+			c_druz = {
+				color={ 39 236 24 }
+				color2={ 255 255 255 }
+			
+				b_salkhard = {
+				}
+				b_dibin = {
+				}
+				b_awas = {
+				}
+				b_busra = {
+				}
+				b_ghariyah = {
+				}
+				b_shannireh = {
+				}
+				b_samj = {
+				}
+				b_thoula = {
+				}
+			}
 		}
 		d_syria = {
 			color={ 35 232 20 }
 			color2={ 255 255 255 }
 			
 			capital = 727 # Syria
+			dynasty_title_names = no
 		
 			c_syria = {
 				color={ 37 234 22 }
@@ -16976,27 +17149,6 @@ e_arabia = {
 				b_buraq = {
 				}
 				b_baly = {
-				}
-			}
-			c_druz = {
-				color={ 39 236 24 }
-				color2={ 255 255 255 }
-			
-				b_salkhard = {
-				}
-				b_dibin = {
-				}
-				b_awas = {
-				}
-				b_busra = {
-				}
-				b_ghariyah = {
-				}
-				b_shannireh = {
-				}
-				b_samj = {
-				}
-				b_thoula = {
 				}
 			}
 			c_suwaida = {
@@ -17049,6 +17201,7 @@ e_arabia = {
 		color2={ 255 255 255 }
 		
 		capital = 883 # Gondar
+		dynasty_title_names = no
 		
 		culture = ethiopian
 		
@@ -17057,6 +17210,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 873 # Harer
+			dynasty_title_names = no
 		
 			c_busaso = {
 				color={ 155 4 61 }
@@ -17121,25 +17275,25 @@ e_arabia = {
 				b_babile = {
 				}
 			}
-			c_tadjoura = {
-				color={ 161 10 67 }
+			c_ankober = {
+				color={ 152 63 96 }
 				color2={ 255 255 255 }
 			
-				b_tadjoura = {
+				b_ankober = {
 				}
-				b_berenice = {
+				b_doqaqit = {
 				}
-				b_obock = {
+				b_qundi = {
 				}
-				b_galafi = {
-				} 
-				b_dikhil = {
+				b_saqqa = {
 				}
-				b_djibouti = {
+				b_aliyuamba = {
 				}
-				b_holhol = {
+				b_berehet = {
 				}
-				b_randa = {
+				b_keyagebriel = {
+				}
+				b_tegulet = {
 				}
 			}
 		}
@@ -17148,6 +17302,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 875 # Aksum
+			dynasty_title_names = no
 		
 			c_aksum = {
 				color={ 200 32 95 }
@@ -17168,6 +17323,27 @@ e_arabia = {
 				b_matara = {
 				}
 				b_qohaito = {
+				}
+			}
+			c_tadjoura = {
+				color={ 161 10 67 }
+				color2={ 255 255 255 }
+			
+				b_tadjoura = {
+				}
+				b_berenice = {
+				}
+				b_obock = {
+				}
+				b_galafi = {
+				} 
+				b_dikhil = {
+				}
+				b_djibouti = {
+				}
+				b_holhol = {
+				}
+				b_randa = {
 				}
 			}
 			c_akordat = {
@@ -17191,6 +17367,14 @@ e_arabia = {
 				b_shambuko = {
 				}
 			}
+		}
+		d_atbara = {
+			color={ 178 50 133 }
+			color2={ 255 255 255 }
+			
+			capital = 879 # Atbara
+			dynasty_title_names = no
+		
 			c_kassala = {
 				color={ 204 36 99 }
 				color2={ 255 255 255 }
@@ -17281,6 +17465,7 @@ e_arabia = {
 			color2={ 255 255 255 }
 			
 			capital = 883 # Gondar
+			dynasty_title_names = no
 		
 			c_asosa = {
 				color={ 150 61 94 }
@@ -17301,27 +17486,6 @@ e_arabia = {
 				b_ketema = {
 				}
 				b_kormuk = {
-				}
-			}
-			c_ankober = {
-				color={ 152 63 96 }
-				color2={ 255 255 255 }
-			
-				b_ankober = {
-				}
-				b_doqaqit = {
-				}
-				b_qundi = {
-				}
-				b_saqqa = {
-				}
-				b_aliyuamba = {
-				}
-				b_berehet = {
-				}
-				b_keyagebriel = {
-				}
-				b_tegulet = {
 				}
 			}
 			c_gondar = {
@@ -20314,6 +20478,7 @@ e_italica = {
 			color2={ 255 255 255 }
 			
 			capital = 335 # Benevento
+			dynasty_title_names = no
 			
 			catholic = 250 # Crusade target weight
 			
@@ -20326,6 +20491,7 @@ e_italica = {
 			color2={ 255 255 255 }
 			
 			capital = 851 # Capua
+			dynasty_title_names = no
 			
 			catholic = 250 # Crusade target weight
 			
@@ -20419,6 +20585,7 @@ e_italica = {
 			color2={ 255 255 255 }
 			
 			capital = 347 # Apulia
+			dynasty_title_names = no
 			
 			catholic = 250 # Crusade target weight
 			
@@ -20524,6 +20691,7 @@ e_italica = {
 			color2={ 255 255 255 }
 			
 			capital = 338 # Reggio
+			dynasty_title_names = no
 			
 			catholic = 250 # Crusade target weight
 			
@@ -20596,6 +20764,7 @@ e_italica = {
 			color2={ 255 255 255 }
 			
 			capital = 340 # Palermo
+			dynasty_title_names = no
 			
 			c_palermo = {
 				color={ 100 228 111 }
@@ -20666,6 +20835,7 @@ e_italica = {
 			color2={ 255 255 255 }
 			
 			capital = 343 # Siracusa
+			dynasty_title_names = no
 			
 			c_messina = {
 				color={ 242 225 250 }
@@ -22293,6 +22463,7 @@ e_altaica = {
 	color={ 243 180 17 }
 	color2={ 255 255 255 }
 	capital = 594 #	Sarkel
+	dynasty_title_names = no
 	
 	# Creation/usurpation trigger
 	allow = {
@@ -22310,12 +22481,14 @@ e_altaica = {
 		culture = cuman
 		
 		capital = 594 #	Sarkel
+		dynasty_title_names = no
 		
 		d_itil = {
 			color={ 151 118 30 }
 			color2={ 255 255 255 }
 			
 			capital = 620 # Itil
+			dynasty_title_names = no
 		
 			c_itil = {
 				color={ 155 122 34 }
@@ -22386,6 +22559,8 @@ e_altaica = {
 			color2={ 255 255 255 }
 			
 			capital = 617 # Uzens
+			dynasty_title_names = no
+			
 			c_yaik = {
 				color={ 159 126 38 }
 				color2={ 255 255 255 }
@@ -22455,6 +22630,7 @@ e_altaica = {
 			color2={ 255 255 255 }
 			
 			capital = 594 # Sarkel
+			dynasty_title_names = no
 		
 			c_khopyor = {
 				color={ 238 202 107 }
@@ -22525,6 +22701,7 @@ e_altaica = {
 			color2={ 255 255 255 }
 			
 			capital = 565 # Sharukan
+			dynasty_title_names = no
 		
 			c_sharukan = {
 				color={ 238 203 121 }
@@ -23008,12 +23185,14 @@ e_altaica = {
 		color2={ 255 255 255 }
 		
 		capital = 623 # Khwarizm
+		dynasty_title_names = no
 
 		d_khwarizmian = {
 			color={ 254 190 24 }
 			color2={ 255 255 255 }
 			
 			capital = 623 # Khwarizm
+			dynasty_title_names = no
 		
 			c_khwarizm = {
 				color={ 227 173 27 }
@@ -23106,6 +23285,7 @@ e_altaica = {
 			color2={ 255 255 255 }
 			
 			capital = 896 # Aktobe
+			dynasty_title_names = no
 		
 			c_ryn_desert = {
 				color={ 171 138 50 }
@@ -23457,6 +23637,7 @@ e_africa = {
 		color2={ 255 255 255 }
 		
 		capital = 843 # Marrakech
+		dynasty_title_names = no
 		
 		culture = maghreb_arabic
 		dynasty_title_names = no
@@ -23468,6 +23649,7 @@ e_africa = {
 			color2={ 255 255 255 }
 			
 			capital = 843 # Marrakech
+			dynasty_title_names = no
 		
 			c_marrakech = {
 				color={ 45 152 34 }
@@ -23488,48 +23670,6 @@ e_africa = {
 				b_thineghir = {
 				}
 				b_alnif = {
-				}
-			}
-			c_tharasset = {
-				color={ 47 154 36 }
-				color2={ 255 255 255 }
-			
-				b_tharasset = {
-				}
-				b_tartaya = {
-				}
-				b_tantan = {
-				}
-				b_akhfennir = {
-				}
-				b_chbika = {
-				}
-				b_tidergit = {
-				}
-				b_amot = {
-				}
-				b_tiglit = {
-				}
-			}
-			c_ifni = {
-				color={ 49 156 38 }
-				color2={ 255 255 255 }
-			
-				b_ifni = {
-				}
-				b_tiznit = {
-				}
-				b_ouaouteit = {
-				}
-				b_rgab = {
-				}
-				b_guelmim = {
-				}
-				b_belkassem = {
-				}
-				b_mihrleft = {
-				}
-				b_tizgui = {
 				}
 			}
 			c_anti-atlas = {
@@ -23574,6 +23714,14 @@ e_africa = {
 				b_agouidir = {
 				}
 			}
+		}
+		d_canarias = {
+			color={ 93 150 42 }
+			color2={ 255 255 255 }
+			
+			capital = 849 # Canarias
+			dynasty_title_names = no
+		
 			c_canarias = {
 				color={ 60 190 43 }
 				color2={ 255 255 255 }
@@ -23595,12 +23743,55 @@ e_africa = {
 				b_lapalma = {
 				}
 			}
+			c_tharasset = {
+				color={ 47 154 36 }
+				color2={ 255 255 255 }
+			
+				b_tharasset = {
+				}
+				b_tartaya = {
+				}
+				b_tantan = {
+				}
+				b_akhfennir = {
+				}
+				b_chbika = {
+				}
+				b_tidergit = {
+				}
+				b_amot = {
+				}
+				b_tiglit = {
+				}
+			}
+			c_ifni = {
+				color={ 49 156 38 }
+				color2={ 255 255 255 }
+			
+				b_ifni = {
+				}
+				b_tiznit = {
+				}
+				b_ouaouteit = {
+				}
+				b_rgab = {
+				}
+				b_guelmim = {
+				}
+				b_belkassem = {
+				}
+				b_mihrleft = {
+				}
+				b_tizgui = {
+				}
+			}
 		}
 		d_tangiers = {
 			color={ 45 255 3 }
 			color2={ 255 255 255 }
 			
 			capital = 841 # Tangiers
+			dynasty_title_names = no
 		
 			c_infa = {
 				color={ 48 255 6 }
@@ -23671,6 +23862,7 @@ e_africa = {
 			color2={ 255 255 255 }
 			
 			capital = 840 # Fes
+			dynasty_title_names = no
 		
 			c_fes = {
 				color={ 24 236 59 }
@@ -23754,6 +23946,7 @@ e_africa = {
 			color2={ 255 255 255 }
 			
 			capital = 831 # Al Djazir
+			dynasty_title_names = no
 		
 			c_atlas_mnt = {
 				color={ 49 196 83 }
@@ -23818,6 +24011,14 @@ e_africa = {
 				b_tirourda = {
 				}
 			}
+		}
+		d_mzab = {
+			color={ 2 100 13 }
+			color2={ 255 255 255 }
+			
+			capital = 829 # Mzab
+			dynasty_title_names = no
+		
 			c_mzab = {
 				color={ 39 157 50 }
 				color2={ 255 255 255 }
@@ -23887,6 +24088,7 @@ e_africa = {
 			color2={ 255 255 255 }
 			
 			capital = 834 # Tlemcen
+			dynasty_title_names = no
 			
 			c_tlemcen = {
 				color={ 43 190 77 }
@@ -23980,6 +24182,7 @@ e_africa = {
 		color2={ 255 255 255 }
 		
 		capital = 817 # Tunis
+		dynasty_title_names = no
 		
 		culture = maghreb_arabic
 		dynasty_title_names = no
@@ -23992,6 +24195,7 @@ e_africa = {
 			color2={ 255 255 255 }
 			
 			capital = 817 # Tunis
+			dynasty_title_names = no
 		
 			c_tunis = {
 				color={ 23 235 98 }
@@ -24012,48 +24216,6 @@ e_africa = {
 				b_kelibia = {
 				}
 				b_hammamet = {
-				}
-			}
-			c_medjerda = {
-				color={ 26 238 101 }
-				color2={ 255 255 255 }
-			
-				b_medjerda = {
-				}
-				b_lekef = {
-				}
-				b_siliana = {
-				}
-				b_kasserine = {
-				}
-				b_qaafur = {
-				}
-				b_sidimubarak = {
-				}
-				b_dougga = {
-				}
-				b_elkrib = {
-				}
-			}
-			c_bizerte = {
-				color={ 29 241 104 }
-				color2={ 255 255 255 }
-			
-				b_bizerte = {
-				}
-				b_tunbeja = {
-				}
-				b_jendouba = {
-				}
-				b_ghezala = {
-				}
-				b_manziljamal = {
-				}
-				b_almatin = {
-				}
-				b_tamra = {
-				}
-				b_netza = {
 				}
 			}
 			c_kairwan = {
@@ -24125,6 +24287,7 @@ e_africa = {
 			color2={ 255 255 255 }
 			
 			capital = 811 # Tripolitania
+			dynasty_title_names = no
 		
 			c_tripolitana = {
 				color={ 45 192 107 }
@@ -24216,6 +24379,7 @@ e_africa = {
 			color2={ 255 255 255 }
 			
 			capital = 806 # Cyrenaica
+			dynasty_title_names = no
 		
 			c_cyrenaica = {
 				color={ 34 152 65 }
@@ -24307,6 +24471,7 @@ e_africa = {
 			color2={ 255 255 255 }
 			
 			capital = 825 # Beni Yanni
+			dynasty_title_names = no
 		
 			c_beni_yanni = {
 				color={ 35 153 46 }
@@ -24392,6 +24557,14 @@ e_africa = {
 				b_eldjabia = {
 				}
 			}
+		}
+		d_bizerte = {
+			color={ 94 177 51 }
+			color2={ 255 255 255 }
+			
+			capital = 819 # Bizerte
+			dynasty_title_names = no
+		
 			c_annaba = {
 				color={ 51 255 108 }
 				color2={ 255 255 255 }
@@ -24413,6 +24586,48 @@ e_africa = {
 				b_meroudj = {
 				}
 			}
+			c_medjerda = {
+				color={ 26 238 101 }
+				color2={ 255 255 255 }
+			
+				b_medjerda = {
+				}
+				b_lekef = {
+				}
+				b_siliana = {
+				}
+				b_kasserine = {
+				}
+				b_qaafur = {
+				}
+				b_sidimubarak = {
+				}
+				b_dougga = {
+				}
+				b_elkrib = {
+				}
+			}
+			c_bizerte = {
+				color={ 29 241 104 }
+				color2={ 255 255 255 }
+			
+				b_bizerte = {
+				}
+				b_tunbeja = {
+				}
+				b_jendouba = {
+				}
+				b_ghezala = {
+				}
+				b_manziljamal = {
+				}
+				b_almatin = {
+				}
+				b_tamra = {
+				}
+				b_netza = {
+				}
+			}
 		}
 	}
 
@@ -24429,7 +24644,8 @@ e_africa = {
 			color={ 130 180 61 }
 			color2={ 255 255 255 }
 
-			capital = 911 # Timbuktu			
+			capital = 911 # Timbuktu	
+			dynasty_title_names = no		
 		
 			c_timbuktu = {
 				color={ 130 180 61 }
@@ -24490,6 +24706,7 @@ e_africa = {
 			color2={ 255 255 255 }
 
 			capital = 913 # Ghana
+			dynasty_title_names = no
 		
 			c_ghana = {
 				color={ 130 180 61 }
@@ -24540,6 +24757,7 @@ e_africa = {
 			color2={ 255 255 255 }
 
 			capital = 925 # Mali
+			dynasty_title_names = no
 		
 			c_mali = {
 				color={ 130 180 61 }
@@ -24592,6 +24810,7 @@ e_africa = {
 			color2={ 255 255 255 }
 
 			capital = 914 # Gao
+			dynasty_title_names = no
 		
 			c_gao = {
 				color={ 130 180 61 }
