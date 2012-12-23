@@ -6710,27 +6710,6 @@ e_scandinavia = {
 				b_sundsvall = {
 				}
 			}
-			c_halsingland = {
-				color={ 45 160 255 }
-				color2={ 255 255 255 }
-				
-				b_norrala = {
-				}
-				b_hog = {
-				}
-				b_jattendal = {
-				}
-				b_forsa = {
-				}
-				b_tasta = {
-				}
-				b_nordanstig = {
-				}
-				b_alir = {
-				}
-				b_sundhed = {
-				}
-			}
 		}
 		d_bergslagen = { 
 			color={ 0 96 255 }
@@ -6867,6 +6846,56 @@ e_scandinavia = {
 				b_alva = {
 				}
 				b_hemse = {
+				}
+			}
+		}
+		d_jamtland = {
+			color={ 15 199 239 }
+			color2={ 255 255 255 }
+			
+			capital = 282 # Jamtland
+			
+			c_jamtland = {
+				color={ 30 150 189 }
+				color2={ 255 255 255 }
+				
+				b_mjalleborgen = {
+				}
+				b_husan = {
+				}
+				b_vasterhus = {
+				}
+			}
+			c_herjedalen = {
+				color={ 25 205 240 }
+				color2={ 255 255 255 }
+				
+				b_sveg = {
+				}
+				b_hogvalen = {
+				}
+				b_tannas = {
+				}
+			}
+			c_halsingland = {
+				color={ 45 160 255 }
+				color2={ 255 255 255 }
+				
+				b_norrala = {
+				}
+				b_hog = {
+				}
+				b_jattendal = {
+				}
+				b_forsa = {
+				}
+				b_tasta = {
+				}
+				b_nordanstig = {
+				}
+				b_alir = {
+				}
+				b_sundhed = {
 				}
 			}
 		}
@@ -7022,13 +7051,6 @@ e_scandinavia = {
 				b_bogense = {
 				}
 			}
-		}
-		d_slesvig = {
-			color={ 224 74 74 }
-			color2={ 255 255 255 }
-			
-			capital = 267 # Jylland
-			
 			c_slesvig = {
 				color={ 225 78 78 }
 				color2={ 255 255 255 }
@@ -7070,6 +7092,16 @@ e_scandinavia = {
 				}
 				b_skagen = {
 				}
+			}
+		}
+		d_slesvig = {
+			color={ 224 74 74 }
+			color2={ 255 255 255 }
+			
+			capital = 267 # Jylland
+			
+			allow = {
+				always = no
 			}
 		}
 		
@@ -7525,6 +7557,13 @@ e_scandinavia = {
 				b_halsstein = {
 				}
 			}
+		}
+		d_fjords = {
+			color={ 114 60 175 }
+			color2={ 255 255 255 }
+			
+			capital = 391 # Nordland
+			
 			c_halogaland = {
 				color={ 98 38 255 }
 				color2={ 255 255 255 }
@@ -7586,35 +7625,6 @@ e_scandinavia = {
 				b_beiarn = {
 				}
 				b_harstad = {
-				}
-			}
-		}
-		d_jamtland = {
-			color={ 15 199 239 }
-			color2={ 255 255 255 }
-			
-			capital = 282 # Jamtland
-			
-			c_jamtland = {
-				color={ 30 150 189 }
-				color2={ 255 255 255 }
-				
-				b_mjalleborgen = {
-				}
-				b_husan = {
-				}
-				b_vasterhus = {
-				}
-			}
-			c_herjedalen = {
-				color={ 25 205 240 }
-				color2={ 255 255 255 }
-				
-				b_sveg = {
-				}
-				b_hogvalen = {
-				}
-				b_tannas = {
 				}
 			}
 		}
@@ -7771,6 +7781,33 @@ e_scandinavia = {
 				b_taipale = {
 				}
 			}
+			c_savolaks = {
+				color={ 120 10 10 }
+				color2={ 255 255 255 }
+			
+				b_olavinlinna = {
+				}
+				b_mikkeli = {
+				}
+				b_savitaipale = {
+				}
+				b_sotkamo = {
+				}
+				b_brahelinna = {
+				}
+				b_iisalmi = {
+				}
+				b_kuopio = {
+				}
+				b_sysma = {
+				}
+			}
+		}
+		d_kola = {
+			color={ 150 125 55 }
+			color2={ 255 255 255 }
+			
+			capital = 387 # Kola
 			
 			c_kola = {
 				color={ 145 35 35 }
@@ -7814,6 +7851,48 @@ e_scandinavia = {
 				b_pyaozero = {
 				}
 			}
+			c_osterbotten = {
+				color={ 152 66 66 }
+				color2={ 255 255 255 }
+			
+				b_oulu = {
+				}
+				b_nykarleby = {
+				}
+				b_kristinestad = {
+				} 
+				b_korsholm = {
+				}
+				b_liminka = {
+				}
+				b_kalajoki = {
+				}
+				b_jakobstad = {
+				}
+				b_veteli = {
+				}
+			}
+			c_kemi = {
+				color={ 130 65 55 }
+				color2={ 255 255 255 }
+			
+				b_kemi = {
+				}
+				b_neiden = {
+				}
+				b_rovaniemi = {
+				}
+				b_inari = {
+				}
+				b_tornio = {
+				}
+				b_kemijarvi = {
+				}
+				b_utsjoki = {
+				}
+				b_savukoski = {
+				}
+			}
 		}
 		d_finland = {
 			color={ 131 108 26 }
@@ -7821,27 +7900,6 @@ e_scandinavia = {
 			
 			capital = 382 # Suomi
 			
-			c_savolaks = {
-				color={ 120 10 10 }
-				color2={ 255 255 255 }
-			
-				b_olavinlinna = {
-				}
-				b_mikkeli = {
-				}
-				b_savitaipale = {
-				}
-				b_sotkamo = {
-				}
-				b_brahelinna = {
-				}
-				b_iisalmi = {
-				}
-				b_kuopio = {
-				}
-				b_sysma = {
-				}
-			}
 			c_nyland = {
 				color={ 185 65 65 }
 				color2={ 255 255 255 }
@@ -7926,48 +7984,6 @@ e_scandinavia = {
 				b_hiittenharju = {
 				}
 			}
-			c_osterbotten = {
-				color={ 152 66 66 }
-				color2={ 255 255 255 }
-			
-				b_oulu = {
-				}
-				b_nykarleby = {
-				}
-				b_kristinestad = {
-				} 
-				b_korsholm = {
-				}
-				b_liminka = {
-				}
-				b_kalajoki = {
-				}
-				b_jakobstad = {
-				}
-				b_veteli = {
-				}
-			}
-			c_kemi = {
-				color={ 130 65 55 }
-				color2={ 255 255 255 }
-			
-				b_kemi = {
-				}
-				b_neiden = {
-				}
-				b_rovaniemi = {
-				}
-				b_inari = {
-				}
-				b_tornio = {
-				}
-				b_kemijarvi = {
-				}
-				b_utsjoki = {
-				}
-				b_savukoski = {
-				}
-			}
 		}
 	}
 }
@@ -7994,11 +8010,11 @@ e_russia = {
 		
 		culture = russian
 		
-		d_bjarmia = {
-			color={ 100 115 55 }
+		d_onega = {
+			color={ 115 130 70}
 			color2={ 255 255 255 }
 			
-			capital = 396 # Bjarmia
+			capital = 394 # Trans-Portage
 			
 			culture = komi
 			
@@ -8044,6 +8060,35 @@ e_russia = {
 				b_obozerskiy = {
 				}
 			}
+			c_zaozerye = {
+				color={ 134 150 90 }
+				color2={ 255 255 255 }
+					
+				b_zarechnaya = {
+				}
+				b_nazankha = {
+				}
+				b_kharovsk = {
+				}
+				b_afoninskaya = {
+				}
+				b_borisovskaya = {
+				}
+				b_konechnaya = {
+				}
+				b_pashuchikha = {
+				}
+				b_bolshaya = {
+				}
+			}
+		}
+		d_bjarmia = {
+			color={ 100 115 55 }
+			color2={ 255 255 255 }
+			
+			capital = 396 # Bjarmia
+			
+			culture = komi
 			c_north_dvina = {
 				color={ 106 121 61 }
 				color2={ 255 255 255 }
@@ -8133,27 +8178,6 @@ e_russia = {
 				b_khoklovo = {
 				}
 				b_glushkovo = {
-				}
-			}
-			c_zaozerye = {
-				color={ 134 150 90 }
-				color2={ 255 255 255 }
-					
-				b_zarechnaya = {
-				}
-				b_nazankha = {
-				}
-				b_kharovsk = {
-				}
-				b_afoninskaya = {
-				}
-				b_borisovskaya = {
-				}
-				b_konechnaya = {
-				}
-				b_pashuchikha = {
-				}
-				b_bolshaya = {
 				}
 			}
 			c_chud = {
@@ -8268,6 +8292,13 @@ e_russia = {
 				b_luga = {
 				}
 			}
+		}
+		d_pskov = {
+			color={ 147 164 104 }
+			color2={ 255 255 255 }
+			
+			capital = 413 # Pskov
+			
 			c_pskov = {
 				color={ 151 167 107 }
 				color2={ 255 255 255 }
@@ -8408,47 +8439,8 @@ e_russia = {
 			
 			capital = 570 # Tver
 			
-			c_tver = {
-				color={ 172 186 128 }
-				color2={ 255 255 255 }
-					
-				b_tver = {
-				}
-				b_torzhok = {
-				}
-				b_ostashkov = {
-				}
-				b_bezhichi = {
-				}
-				b_tvergorodok = {
-				}
-				b_vyshnyvolochyok = {
-				}
-				b_zubtsov = {
-				}
-				b_udomelski = {
-				}
-			}
-			c_vyazma = {
-				color={ 175 189 131 }
-				color2={ 255 255 255 }
-					
-				b_vyazma = {
-				}
-				b_dukhov = {
-				}
-				b_yelnya = {
-				}
-				b_gzhatsky = {
-				}
-				b_dorogobuzh = {
-				}
-				b_vyazkholm = {
-				}
-				b_ugra = {
-				}
-				b_safonovo = {
-				}
+			allow = {
+				always = no
 			}
 		}
 		d_yaroslavl = {
@@ -8499,13 +8491,6 @@ e_russia = {
 				b_volgostroy = {
 				}
 			}
-		}
-		d_vladimir = {
-			color={ 180 200 90 }
-			color2={ 255 255 255 }
-			
-			capital = 582 # Vladimir
-	
 			c_galich_mersky = {
 				color={ 190 204 146 }
 				color2={ 255 255 255 }
@@ -8527,6 +8512,13 @@ e_russia = {
 				b_isaevo = {
 				}
 			}
+		}
+		d_vladimir = {
+			color={ 180 200 90 }
+			color2={ 255 255 255 }
+			
+			capital = 582 # Vladimir
+	
 			c_gorodez = {
 				color={ 193 207 149 }
 				color2={ 255 255 255 }
@@ -8660,6 +8652,48 @@ e_russia = {
 				b_klin = {
 				}
 			}
+			c_tver = {
+				color={ 172 186 128 }
+				color2={ 255 255 255 }
+					
+				b_tver = {
+				}
+				b_torzhok = {
+				}
+				b_ostashkov = {
+				}
+				b_bezhichi = {
+				}
+				b_tvergorodok = {
+				}
+				b_vyshnyvolochyok = {
+				}
+				b_zubtsov = {
+				}
+				b_udomelski = {
+				}
+			}
+			c_vyazma = {
+				color={ 175 189 131 }
+				color2={ 255 255 255 }
+					
+				b_vyazma = {
+				}
+				b_dukhov = {
+				}
+				b_yelnya = {
+				}
+				b_gzhatsky = {
+				}
+				b_dorogobuzh = {
+				}
+				b_vyazkholm = {
+				}
+				b_ugra = {
+				}
+				b_safonovo = {
+				}
+			}
 		}
 	}
 	
@@ -8677,27 +8711,6 @@ e_russia = {
 			
 			capital = 547 # Kiev
 	
-			c_korsun = {
-				color={ 102 102 22 }
-				color2={ 255 255 255 }
-	
-				b_korsun = {
-				}
-				b_kaniv = {
-				}
-				b_cherkassy = {
-				}
-				b_smila = {
-				}
-				b_zolotonosha = {
-				}
-				b_uman = {
-				}
-				b_zhuravky = {
-				}
-				b_mirov = {
-				}
-			}
 			c_kiev = {
 				color={ 106 106 26 }
 				color2={ 255 255 255 }
@@ -8717,6 +8730,48 @@ e_russia = {
 				b_malyn = {
 				}
 				b_fastiv = {
+				}
+			}
+			c_turov = {
+				color={ 166 89 91 }
+				color2={ 255 255 255 }
+				
+				b_turov = {
+				}
+				b_dubrovitsya = {
+				}
+				b_mazyr = {
+				}
+				b_slutsk = {
+				}
+				b_zhytkavichy = {
+				}
+				b_bobruisk = {
+				}
+				b_petrykaw = {
+				}
+				b_yelsk = {
+				}
+			}
+			c_pinsk = {
+				color={ 166 93 95 }
+				color2={ 255 255 255 }
+				
+				b_pinsk = {
+				}
+				b_lutsk = {
+				}
+				b_porkhovo = {
+				}
+				b_biaroza = {
+				}
+				b_stepan = {
+				}
+				b_kosava = {
+				}
+				b_luninets = {
+				}
+				b_dabuchin = {
 				}
 			}
 		}
@@ -8866,47 +8921,8 @@ e_russia = {
 			
 			capital = 552 # Turov
 			
-			c_turov = {
-				color={ 166 89 91 }
-				color2={ 255 255 255 }
-				
-				b_turov = {
-				}
-				b_dubrovitsya = {
-				}
-				b_mazyr = {
-				}
-				b_slutsk = {
-				}
-				b_zhytkavichy = {
-				}
-				b_bobruisk = {
-				}
-				b_petrykaw = {
-				}
-				b_yelsk = {
-				}
-			}
-			c_pinsk = {
-				color={ 166 93 95 }
-				color2={ 255 255 255 }
-				
-				b_pinsk = {
-				}
-				b_lutsk = {
-				}
-				b_porkhovo = {
-				}
-				b_biaroza = {
-				}
-				b_stepan = {
-				}
-				b_kosava = {
-				}
-				b_luninets = {
-				}
-				b_dabuchin = {
-				}
+			allow = {
+				always = no
 			}
 		}
 		
@@ -9029,6 +9045,27 @@ e_russia = {
 				b_rahacou = {
 				}
 			}
+			c_bryansk = {
+				color={ 223 238 179 }
+				color2={ 255 255 255 }
+				
+				b_bryansk = {
+				}
+				b_pochep = {
+				}
+				b_orel = {
+				}
+				b_karachev = {
+				}
+				b_dyatkovo = {
+				}
+				b_klynov = {
+				}
+				b_belev = {
+				}
+				b_mtsensk = {
+				}
+			}
 		}
 		d_chernigov = {
 			color={ 150 235 91 }
@@ -9078,13 +9115,6 @@ e_russia = {
 				b_mglin = {
 				}
 			}
-		}
-		d_novgorod-seversk = { 
-			color={ 105 166 64 }
-			color2={ 255 255 255 }
-			
-			capital = 567 # Novgorod Seversky
-	
 			c_novgorod_seversky = {
 				color={ 19 128 77 }
 				color2={ 255 255 255 }
@@ -9106,26 +9136,15 @@ e_russia = {
 				b_semenivka = {
 				}
 			}
-			c_bryansk = {
-				color={ 223 238 179 }
-				color2={ 255 255 255 }
-				
-				b_bryansk = {
-				}
-				b_pochep = {
-				}
-				b_orel = {
-				}
-				b_karachev = {
-				}
-				b_dyatkovo = {
-				}
-				b_klynov = {
-				}
-				b_belev = {
-				}
-				b_mtsensk = {
-				}
+		}
+		d_novgorod-seversk = { 
+			color={ 105 166 64 }
+			color2={ 255 255 255 }
+			
+			capital = 567 # Novgorod Seversky
+	
+			allow = {
+				always = no
 			}
 		}
 		
@@ -9269,6 +9288,27 @@ e_russia = {
 				b_khorol = {
 				}
 			}
+			c_korsun = {
+				color={ 102 102 22 }
+				color2={ 255 255 255 }
+	
+				b_korsun = {
+				}
+				b_kaniv = {
+				}
+				b_cherkassy = {
+				}
+				b_smila = {
+				}
+				b_zolotonosha = {
+				}
+				b_uman = {
+				}
+				b_zhuravky = {
+				}
+				b_mirov = {
+				}
+			}
 		}
 	}
 	
@@ -9345,48 +9385,6 @@ e_russia = {
 				b_tetyushi = {
 				}
 				b_koshki = {
-				}
-			}
-			c_syrt = {
-				color={ 205 170 75 }
-				color2={ 255 255 255 }
-			
-				b_samara = {
-				}
-				b_bandja = {
-				}
-				b_kinel = {
-				}
-				b_syzran = {
-				}
-				b_tashia = {
-				}
-				b_sarbay = {
-				}
-				b_osinki = {
-				}
-				b_shungut = {
-				}
-			}
-			c_southern_ural = {
-				color={ 207 172 77 }
-				color2={ 255 255 255 }
-			
-				b_boro = {
-				}
-				b_durtojle = {
-				}
-				b_daulakan = {
-				}
-				b_blagovescen = {
-				}
-				b_tuimasy = {
-				}
-				b_janauyl = {
-				}
-				b_iq = {
-				}
-				b_yamantaw = {
 				}
 			}
 			c_bashkirs = {
@@ -9501,6 +9499,13 @@ e_russia = {
 				b_barysh = {
 				}
 			}
+		}
+		d_burtasy = { 
+			color={ 210 165 34 }
+			color2={ 255 255 255 }
+			
+			capital = 592 # Burtasy
+	
 			c_burtasy = {
 				color={ 243 183 22 }
 				color2={ 255 255 255 }
@@ -9543,6 +9548,48 @@ e_russia = {
 				b_yavas = {
 				}
 			}
+			c_syrt = {
+				color={ 205 170 75 }
+				color2={ 255 255 255 }
+			
+				b_samara = {
+				}
+				b_bandja = {
+				}
+				b_kinel = {
+				}
+				b_syzran = {
+				}
+				b_tashia = {
+				}
+				b_sarbay = {
+				}
+				b_osinki = {
+				}
+				b_shungut = {
+				}
+			}
+			c_southern_ural = {
+				color={ 207 172 77 }
+				color2={ 255 255 255 }
+			
+				b_boro = {
+				}
+				b_durtojle = {
+				}
+				b_daulakan = {
+				}
+				b_blagovescen = {
+				}
+				b_tuimasy = {
+				}
+				b_janauyl = {
+				}
+				b_iq = {
+				}
+				b_yamantaw = {
+				}
+			}
 		}
 	}
 	
@@ -9579,6 +9626,27 @@ e_russia = {
 				b_biser = {
 				}
 			}
+			c_zyriane = {
+				color={ 195 160 65 }
+				color2={ 255 255 255 }
+			
+				b_kungur = {
+				}
+				b_kordon = {
+				}
+				b_suksun = {
+				}
+				b_kukushtan = {
+				}
+				b_gari = {
+				}
+				b_lek = {
+				}
+				b_ergach = {
+				}
+				b_posad = {
+				}
+			}
 			c_votyaki = {
 				color={ 197 162 67 }
 				color2={ 255 255 255 }
@@ -9598,27 +9666,6 @@ e_russia = {
 				b_shalya = {
 				}
 				b_shamary = {
-				}
-			}
-			c_yamalia = {
-				color={ 240 214 143 }
-				color2={ 255 255 255 }
-			
-				b_polnovatvozh = {
-				}
-				b_obdorsk = {
-				}
-				b_lapytnangk = {
-				}
-				b_ituyakha = {
-				}
-				b_urengoi = {
-				}
-				b_nazym = {
-				}
-				b_baygul = {
-				}
-				b_kaek = {
 				}
 			}
 			c_komi = {
@@ -9642,6 +9689,13 @@ e_russia = {
 				b_khalmeryu = {
 				}
 			}
+		}
+		d_chelyabi = {
+			color={ 205 185 70 }
+			color2={ 255 255 255 }
+			
+			capital = 889 # Chelyabi
+			
 			c_chelyabi = {
 				color={ 246 220 149 }
 				color2={ 255 255 255 }
@@ -9684,6 +9738,27 @@ e_russia = {
 				b_sherkala = {
 				}
 			}
+			c_yamalia = {
+				color={ 240 214 143 }
+				color2={ 255 255 255 }
+			
+				b_polnovatvozh = {
+				}
+				b_obdorsk = {
+				}
+				b_lapytnangk = {
+				}
+				b_ituyakha = {
+				}
+				b_urengoi = {
+				}
+				b_nazym = {
+				}
+				b_baygul = {
+				}
+				b_kaek = {
+				}
+			}
 		}
 		d_hlynov = {
 			color={ 134 145 31 }
@@ -9710,27 +9785,6 @@ e_russia = {
 				b_mozjga = {
 				}
 				b_wotka = {
-				}
-			}
-			c_zyriane = {
-				color={ 195 160 65 }
-				color2={ 255 255 255 }
-			
-				b_kungur = {
-				}
-				b_kordon = {
-				}
-				b_suksun = {
-				}
-				b_kukushtan = {
-				}
-				b_gari = {
-				}
-				b_lek = {
-				}
-				b_ergach = {
-				}
-				b_posad = {
 				}
 			}
 			c_ugra = {
@@ -19175,13 +19229,6 @@ e_italica = {
 				b_fusina = {
 				}
 			}
-		}
-		d_verona = {
-			color={ 170 255 170 }
-			color2={ 255 255 255 }
-			
-			capital = 319 # Verona
-			
 			c_treviso = {
 				color={ 251 226 226 }
 				color2={ 255 255 255 }
@@ -19201,27 +19248,6 @@ e_italica = {
 				b_ceneda = {
 				}
 				b_paese = {
-				}
-			}
-			c_verona = {
-				color={ 255 230 230 }
-				color2={ 255 255 255 }
-				
-				b_verona = {
-				}
-				b_vicenza = {
-				}
-				b_sanmartino = {
-				}
-				b_schio = {
-				}
-				b_montecchio = {
-				}
-				b_arzignano = {
-				}
-				b_lonigo = {
-				}
-				b_barbarano = {
 				}
 			}
 			c_padova = {
@@ -19245,6 +19271,34 @@ e_italica = {
 				b_vigonza = {
 				}
 			}
+		}
+		d_verona = {
+			color={ 170 255 170 }
+			color2={ 255 255 255 }
+			
+			capital = 319 # Verona
+			
+			c_verona = {
+				color={ 255 230 230 }
+				color2={ 255 255 255 }
+				
+				b_verona = {
+				}
+				b_vicenza = {
+				}
+				b_sanmartino = {
+				}
+				b_schio = {
+				}
+				b_montecchio = {
+				}
+				b_arzignano = {
+				}
+				b_lonigo = {
+				}
+				b_barbarano = {
+				}
+			}
 			c_mantua = {
 				color={ 255 238 238 }
 				color2={ 255 255 255 }
@@ -19266,10 +19320,32 @@ e_italica = {
 				b_bagnolosanvito = {
 				}
 			}
+			c_trent = {
+				color={ 253 239 228 }
+				color2={ 255 255 255 }
+
+				
+				b_trento = {
+				}
+				b_brixen = {
+				}
+				b_bozen = {
+				}
+				b_meran = {
+				}
+				b_schlanders = {
+				}
+				b_bruneck = {
+				} 
+				b_riva = {
+				}
+				b_rovereto = {
+				}
+			}
 		}
 		
 		d_susa = {
-			color={ 191 158 158 }
+			color={ 191 108 158 }
 			color2={ 255 255 255 }
 			
 			capital = 236 # Piemonte
@@ -19386,50 +19462,6 @@ e_italica = {
 				b_legnano = {
 				}
 				b_chiavenna = {
-				}
-			}
-			c_trent = {
-				color={ 253 239 228 }
-				color2={ 255 255 255 }
-
-				
-				b_trento = {
-				}
-				b_brixen = {
-				}
-				b_bozen = {
-				}
-				b_meran = {
-				}
-				b_schlanders = {
-				}
-				b_bruneck = {
-				} 
-				b_riva = {
-				}
-				b_rovereto = {
-				}
-			}
-			
-			c_pavia = {
-				color={ 255 243 232 }
-				color2={ 255 255 255 }
-				
-				b_pavia = {
-				}
-				b_bobbio = {
-				}
-				b_piacenza = {
-				}
-				b_voghera = {
-				}
-				b_alessandria = {
-				}
-				b_casteggio = {
-				}
-				b_colorno = {
-				}
-				b_montebello = {
 				}
 			}
 			c_cremona = {
@@ -19551,6 +19583,27 @@ e_italica = {
 				b_laspezia = {
 				}
 				b_noceto = {
+				}
+			}
+			c_pavia = {
+				color={ 255 243 232 }
+				color2={ 255 255 255 }
+				
+				b_pavia = {
+				}
+				b_bobbio = {
+				}
+				b_piacenza = {
+				}
+				b_voghera = {
+				}
+				b_alessandria = {
+				}
+				b_casteggio = {
+				}
+				b_colorno = {
+				}
+				b_montebello = {
 				}
 			}
 		}	
@@ -19740,6 +19793,28 @@ e_italica = {
 				b_sanvincenzo = {
 				}
 			}
+			
+			c_orbetello = {
+				color={ 240 255 234 }
+				color2={ 255 255 255 }
+				
+				b_orbetello = {
+				}
+				b_grosseto = {
+				}
+				b_pitigliano = {
+				}
+				b_roselle = {
+				}
+				b_sorano = {
+				}
+				b_sovana = {
+				}
+				b_vetulonia = {
+				}
+				b_rusellae = {
+				}
+			}
 		}	
 		d_ancona = {
 			color={ 230 227 180 }
@@ -19789,33 +19864,6 @@ e_italica = {
 				b_fossombrone = {
 				}
 			}
-		}	
-		d_spoleto = {
-			color={ 217 182 153 }
-			color2={ 255 255 255 }
-			
-			c_spoleto = {
-				color={ 225 250 235 }
-				color2={ 255 255 255 }
-				
-				b_spoleto = {
-				}
-				b_perugia = {
-				}
-				b_assisi = {
-				}
-				b_nursia = {
-				}
-				b_todi = {
-				}
-				b_valva = {
-				}
-				b_terni = {
-				}
-				b_foligno = {
-				}
-			}
-			
 			c_aprutium = {
 				color={ 205 210 205 }
 				color2={ 255 255 255 }
@@ -19836,6 +19884,14 @@ e_italica = {
 				}
 				b_aquila = {
 				}
+			}
+		}	
+		d_spoleto = {
+			color={ 217 182 153 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				always = no
 			}
 		}
 		
@@ -19891,26 +19947,25 @@ e_italica = {
 				b_ciconia = {
 				}
 			}
-			
-			c_orbetello = {
-				color={ 240 255 234 }
+			c_spoleto = {
+				color={ 225 250 235 }
 				color2={ 255 255 255 }
 				
-				b_orbetello = {
+				b_spoleto = {
 				}
-				b_grosseto = {
+				b_perugia = {
 				}
-				b_pitigliano = {
+				b_assisi = {
 				}
-				b_roselle = {
+				b_nursia = {
 				}
-				b_sorano = {
+				b_todi = {
 				}
-				b_sovana = {
+				b_valva = {
 				}
-				b_vetulonia = {
+				b_terni = {
 				}
-				b_rusellae = {
+				b_foligno = {
 				}
 			}
 		}
@@ -20116,13 +20171,6 @@ e_italica = {
 				b_blagaj = {
 				}
 			}
-		}
-		d_croatia = {
-			color={ 162 53 53 }
-			color2={ 255 255 255 }
-			
-			capital = 464 # Senj
-	
 			c_zachlumia = {
 				color={ 166 57 57 }
 				color2={ 255 255 255 }
@@ -20144,51 +20192,19 @@ e_italica = {
 				b_neretva = {
 				}
 			}
-			c_senj = {
-				color={ 170 61 61 }
-				color2={ 255 255 255 }
-	
-				b_senj = {
-				}
-				b_kaseg = {
-				}
-				b_brinje = {
-				}
-				b_karlobag = {
-				}
-				b_perusic = {
-				} 
-				b_donjilapac = {
-				}
-				b_udbina = {
-				}
-				b_otocac = {
-				}
-			}
-			c_veglia = {
-				color={ 174 65 65 }
-				color2={ 255 255 255 }
-	
-				b_veglia = {
-				}
-				b_krk = {
-				}
-				b_kraljevica = {
-				}
-				b_frankopan = {
-				}
-				b_bakar = {
-				}
-				b_crikvenica = {
-				}
-				b_cres = {
-				}
-				b_vrbovsko = {
-				}
+		}
+		d_croatia = {
+			color={ 162 53 53 }
+			color2={ 255 255 255 }
+			
+			capital = 464 # Senj
+		
+			allow = {
+				always = no
 			}
 		}
 		d_dalmatia = {
-			color={ 184 137 137 }
+			color={ 162 53 53 }
 			color2={ 255 255 255 }
 			
 			capital = 465 # Zadar
@@ -20235,6 +20251,48 @@ e_italica = {
 				b_pag = {
 				}
 			}
+			c_senj = {
+				color={ 170 61 61 }
+				color2={ 255 255 255 }
+	
+				b_senj = {
+				}
+				b_kaseg = {
+				}
+				b_brinje = {
+				}
+				b_karlobag = {
+				}
+				b_perusic = {
+				} 
+				b_donjilapac = {
+				}
+				b_udbina = {
+				}
+				b_otocac = {
+				}
+			}
+			c_veglia = {
+				color={ 174 65 65 }
+				color2={ 255 255 255 }
+	
+				b_veglia = {
+				}
+				b_krk = {
+				}
+				b_kraljevica = {
+				}
+				b_frankopan = {
+				}
+				b_bakar = {
+				}
+				b_crikvenica = {
+				}
+				b_cres = {
+				}
+				b_vrbovsko = {
+				}
+			}
 		}
 	}
 	
@@ -20259,47 +20317,8 @@ e_italica = {
 			
 			catholic = 250 # Crusade target weight
 			
-			c_benevento = {
-				color={ 224 240 249 }
-				color2={ 255 255 255 }
-				
-				b_benevento = {
-				}
-				b_avellino = {
-				}
-				b_ascoli = {
-				}
-				b_montemarono = {
-				}
-				b_frigento = {
-				}
-				b_trevico = {
-				}
-				b_conza = {
-				}
-				b_sanangelo = {
-				}
-			}
-			c_foggia = {
-				color={ 201 233 52 }
-				color2={ 255 255 255 }
-				
-				b_foggia = {
-				}
-				b_siponto = {
-				}
-				b_lucera = {
-				}
-				b_troia = {
-				}
-				b_bovino = {
-				}
-				b_salapla = {
-				}
-				b_vieste = {
-				}
-				b_termoli = {
-				}
+			allow ={
+				always = no
 			}
 		}
 		d_capua = {
@@ -20350,6 +20369,48 @@ e_italica = {
 				b_sorrento = {
 				}
 				b_capri = {
+				}
+			}
+			c_benevento = {
+				color={ 224 240 249 }
+				color2={ 255 255 255 }
+				
+				b_benevento = {
+				}
+				b_avellino = {
+				}
+				b_ascoli = {
+				}
+				b_montemarono = {
+				}
+				b_frigento = {
+				}
+				b_trevico = {
+				}
+				b_conza = {
+				}
+				b_sanangelo = {
+				}
+			}
+			c_salerno = {
+				color={ 245 194 199 }
+				color2={ 255 255 255 }
+				
+				b_salerno = {
+				}
+				b_acenzera = {
+				}
+				b_amalfi = {
+				}
+				b_nocera = {
+				}
+				b_acerno = {
+				}
+				b_lucania = {
+				}
+				b_agropoli = {
+				}
+				b_sarno = {
 				}
 			}
 		}
@@ -20424,6 +20485,27 @@ e_italica = {
 				b_oria = {
 				}
 			}
+			c_foggia = {
+				color={ 201 233 52 }
+				color2={ 255 255 255 }
+				
+				b_foggia = {
+				}
+				b_siponto = {
+				}
+				b_lucera = {
+				}
+				b_troia = {
+				}
+				b_bovino = {
+				}
+				b_salapla = {
+				}
+				b_vieste = {
+				}
+				b_termoli = {
+				}
+			}
 		}
 		d_salerno = {
 			color={ 175 224 86 }
@@ -20433,47 +20515,8 @@ e_italica = {
 			
 			catholic = 250 # Crusade target weight
 			
-			c_salerno = {
-				color={ 245 194 199 }
-				color2={ 255 255 255 }
-				
-				b_salerno = {
-				}
-				b_acenzera = {
-				}
-				b_amalfi = {
-				}
-				b_nocera = {
-				}
-				b_acerno = {
-				}
-				b_lucania = {
-				}
-				b_agropoli = {
-				}
-				b_sarno = {
-				}
-			}
-			c_taranto = {
-				color={ 236 225 250 }
-				color2={ 255 255 255 }
-				
-				b_taranto = {
-				}
-				b_mottola = {
-				}
-				b_castellaneta = {
-				}
-				b_tursi = {
-				}
-				b_montepeloso = {
-				}
-				b_tricanico = {
-				}
-				b_gravina = {
-				}
-				b_cassano = {
-				}
+			allow ={
+				always = no
 			}
 		}
 		d_calabria = {
@@ -20526,6 +20569,27 @@ e_italica = {
 				b_squillace = {
 				}
 			}
+			c_taranto = {
+				color={ 236 225 250 }
+				color2={ 255 255 255 }
+				
+				b_taranto = {
+				}
+				b_mottola = {
+				}
+				b_castellaneta = {
+				}
+				b_tursi = {
+				}
+				b_montepeloso = {
+				}
+				b_tricanico = {
+				}
+				b_gravina = {
+				}
+				b_cassano = {
+				}
+			}
 		}
 		d_sicily = {
 			color={ 155 254 86 }
@@ -20552,48 +20616,6 @@ e_italica = {
 				b_misilmeri = {
 				}
 				b_mistretta = {
-				}
-			}
-			c_messina = {
-				color={ 242 225 250 }
-				color2={ 255 255 255 }
-				
-				b_messina = {
-				}
-				b_lipari = {
-				}
-				b_taormina = {
-				}
-				b_sanmarcodalunzio = {
-				}
-				b_troinia = {
-				}
-				b_furnari = {
-				}
-				b_cataratti = {
-				}
-				b_torregrota = {
-				}
-			}
-			c_siracusa = {
-				color={ 150 231 143 }
-				color2={ 255 255 255 }
-				
-				b_syracusa = {
-				}
-				b_catania = {
-				}
-				b_lentini = {
-				}
-				b_noto = {
-				}
-				b_caltagirone = {
-				}
-				b_paterno = {
-				}
-				b_centuripe = {
-				}
-				b_augusta = {
 				}
 			}
 			c_agrigento = {
@@ -20636,6 +20658,55 @@ e_italica = {
 				b_marsala = {
 				}
 				b_alcarno = {
+				}
+			}
+		}
+		d_siracusa = {
+			color={ 195 254 86 }
+			color2={ 255 255 255 }
+			
+			capital = 343 # Siracusa
+			
+			c_messina = {
+				color={ 242 225 250 }
+				color2={ 255 255 255 }
+				
+				b_messina = {
+				}
+				b_lipari = {
+				}
+				b_taormina = {
+				}
+				b_sanmarcodalunzio = {
+				}
+				b_troinia = {
+				}
+				b_furnari = {
+				}
+				b_cataratti = {
+				}
+				b_torregrota = {
+				}
+			}
+			c_siracusa = {
+				color={ 150 231 143 }
+				color2={ 255 255 255 }
+				
+				b_syracusa = {
+				}
+				b_catania = {
+				}
+				b_lentini = {
+				}
+				b_noto = {
+				}
+				b_caltagirone = {
+				}
+				b_paterno = {
+				}
+				b_centuripe = {
+				}
+				b_augusta = {
 				}
 			}
 			c_malta = {
@@ -20737,27 +20808,6 @@ e_centre = {
 				b_ciechanow = {
 				}
 				b_wyszkow = {
-				}
-			}
-			c_czersk = {
-				color={ 6 127 50 }
-				color2={ 255 255 255 }
-				
-				b_czersk = {
-				}
-				b_radom = {
-				}
-				b_garwolin = {
-				}
-				b_siedlce = {
-				}
-				b_losice = {
-				}
-				b_gorzno = {
-				}
-				b_borowie = {
-				}
-				b_grojec = {
 				}
 			}
 			c_yatvyagi = {
@@ -21081,6 +21131,27 @@ e_centre = {
 				b_wlocawek = {
 				}
 				b_lubanie = {
+				}
+			}
+			c_czersk = {
+				color={ 6 127 50 }
+				color2={ 255 255 255 }
+				
+				b_czersk = {
+				}
+				b_radom = {
+				}
+				b_garwolin = {
+				}
+				b_siedlce = {
+				}
+				b_losice = {
+				}
+				b_gorzno = {
+				}
+				b_borowie = {
+				}
+				b_grojec = {
 				}
 			}
 		}
@@ -21415,27 +21486,6 @@ e_centre = {
 				b_tokaj = {
 				}
 			}
-			c_marmaros = {
-				color={ 164 23 23 }
-				color2={ 255 255 255 }
-				
-				b_maramarossziget = {
-				}
-				b_nagybanya = {
-				}
-				b_nagykaroly = {
-				}
-				b_huszt = {
-				}
-				b_aknasugatag = {
-				}
-				b_tecso = {
-				}
-				b_raho = {
-				}
-				b_felsoviso = {
-				}
-			}
 		}
 		d_pest = {
 			color={ 150 51 51 }
@@ -21485,25 +21535,25 @@ e_centre = {
 				b_kiskoros = {
 				}
 			}
-			c_csanad = {
-				color={ 179 70 70 }
+			c_marmaros = {
+				color={ 164 23 23 }
 				color2={ 255 255 255 }
 				
-				b_csanad = {
+				b_maramarossziget = {
 				}
-				b_szeged = {
+				b_nagybanya = {
 				}
-				b_mako = {
+				b_nagykaroly = {
 				}
-				b_battonya = {
+				b_huszt = {
 				}
-				b_csongrad = {
+				b_aknasugatag = {
 				}
-				b_mindszent = {
+				b_tecso = {
 				}
-				b_szentes = {
+				b_raho = {
 				}
-				b_hodmezovasarhely = {
+				b_felsoviso = {
 				}
 			}
 		}
@@ -21625,6 +21675,27 @@ e_centre = {
 				b_pardany = {
 				}
 			}
+			c_csanad = {
+				color={ 179 70 70 }
+				color2={ 255 255 255 }
+				
+				b_csanad = {
+				}
+				b_szeged = {
+				}
+				b_mako = {
+				}
+				b_battonya = {
+				}
+				b_csongrad = {
+				}
+				b_mindszent = {
+				}
+				b_szentes = {
+				}
+				b_hodmezovasarhely = {
+				}
+			}
 		}
 	}
 
@@ -21707,27 +21778,6 @@ e_centre = {
 				b_vanakastre = {
 				}
 			}
-			c_osel = {
-				color={ 101 48 48 }
-				color2={ 255 255 255 }
-			
-				b_kuressare = {
-				}
-				b_hiiumaa = {
-				}
-				b_muhu = {
-				}
-				b_valjala = {
-				}
-				b_poide = {
-				}
-				b_leisi = {
-				}
-				b_orisaare = {
-				}
-				b_kaarma = {
-				}
-			}
 		}
 		
 		d_prussia = {
@@ -21799,6 +21849,27 @@ e_centre = {
 				b_cranz = {
 				}
 			}
+			c_scalovia = {
+				color={ 190 85 85 }
+				color2={ 255 255 255 }
+					
+				b_ragnit = {
+				}
+				b_russ = {
+				}
+				b_jurgaiten = {
+				}
+				b_jomsberg = {
+				}
+				b_tilgit = {
+				} 
+				b_splitter = {
+				}
+				b_strewa = {
+				}
+				b_skomanten = {
+				}
+			}
 		}
 		
 		d_polotsk = {
@@ -21806,7 +21877,7 @@ e_centre = {
 			color2={ 255 255 255 }
 			
 			capital = 419 # Polotsk
-		
+			
 			c_polotsk = {
 				color={ 125 14 14 }
 				color2={ 255 255 255 }
@@ -21849,6 +21920,27 @@ e_centre = {
 				b_vilani = {
 				}
 			}
+			c_aukshayts = {
+				color={ 146 17 17 }
+				color2={ 255 255 255 }
+			
+				b_kaunas = {
+				}
+				b_vilnius = {
+				}
+				b_lida = {
+				}
+				b_utena = {
+				}
+				b_kernave = {
+				}
+				b_bralaus = {
+				}
+				b_kreva = {
+				}
+				b_zirmunai = {
+				}
+			}
 		}
 		d_lithuanians = {
 			color={ 81 0 0 }
@@ -21877,28 +21969,6 @@ e_centre = {
 				b_joniskis = {
 				}
 			}
-			
-			c_aukshayts = {
-				color={ 146 17 17 }
-				color2={ 255 255 255 }
-			
-				b_kaunas = {
-				}
-				b_vilnius = {
-				}
-				b_lida = {
-				}
-				b_utena = {
-				}
-				b_kernave = {
-				}
-				b_bralaus = {
-				}
-				b_kreva = {
-				}
-				b_zirmunai = {
-				}
-			}
 			c_sudovia = {
 				color={ 146 21 21 }
 				color2={ 255 255 255 }
@@ -21918,6 +21988,27 @@ e_centre = {
 				b_seiniai = {
 				}
 				b_merkine = {
+				}
+			}
+			c_memel = {
+				color={ 166 85 85 }
+				color2={ 255 255 255 }
+				
+				b_memel = {
+				}
+				b_kretingale = {
+				}
+				b_gargzdai = {
+				}
+				b_kaup = {
+				}
+				b_juodkrante = {
+				}
+				b_nida = {
+				}
+				b_dreverna = {
+				}
+				b_palanga = {
 				}
 			}
 		}
@@ -21969,6 +22060,27 @@ e_centre = {
 				b_ceklis = {
 				}
 			}
+			c_osel = {
+				color={ 101 48 48 }
+				color2={ 255 255 255 }
+			
+				b_kuressare = {
+				}
+				b_hiiumaa = {
+				}
+				b_muhu = {
+				}
+				b_valjala = {
+				}
+				b_poide = {
+				}
+				b_leisi = {
+				}
+				b_orisaare = {
+				}
+				b_kaarma = {
+				}
+			}
 		}
 		d_samogitia = {
 			color={ 150 70 70 }
@@ -21976,47 +22088,8 @@ e_centre = {
 			
 			capital = 422 # Scalovia
 			
-			c_scalovia = {
-				color={ 190 85 85 }
-				color2={ 255 255 255 }
-					
-				b_ragnit = {
-				}
-				b_russ = {
-				}
-				b_jurgaiten = {
-				}
-				b_jomsberg = {
-				}
-				b_tilgit = {
-				} 
-				b_splitter = {
-				}
-				b_strewa = {
-				}
-				b_skomanten = {
-				}
-			}
-			c_memel = {
-				color={ 166 85 85 }
-				color2={ 255 255 255 }
-				
-				b_memel = {
-				}
-				b_kretingale = {
-				}
-				b_gargzdai = {
-				}
-				b_kaup = {
-				}
-				b_juodkrante = {
-				}
-				b_nida = {
-				}
-				b_dreverna = {
-				}
-				b_palanga = {
-				}
+			allow = {
+				always = no
 			}
 		}
 	}
@@ -22077,27 +22150,6 @@ e_centre = {
                 b_stare_mesto = {
                 }
                 b_zbraslav = {
-                }
-            }
-            c_boleslav = {
-                color={ 201 116 17 }
-                color2={ 255 255 255 }
-                
-                b_glatz = {
-                }
-                b_nachod = {
-                }
-                b_hradiste = {
-                }
-                b_jicin = {
-                }
-                b_trutnov = {
-                }
-                b_kamieniec = {
-                }
-                b_jaromer = {
-                }
-                b_turnov = {
                 }
             }
             c_litomerice = {
@@ -22212,6 +22264,27 @@ e_centre = {
                 b_zlin = {
                 }
             }
+            c_boleslav = {
+                color={ 201 116 17 }
+                color2={ 255 255 255 }
+                
+                b_glatz = {
+                }
+                b_nachod = {
+                }
+                b_hradiste = {
+                }
+                b_jicin = {
+                }
+                b_trutnov = {
+                }
+                b_kamieniec = {
+                }
+                b_jaromer = {
+                }
+                b_turnov = {
+                }
+            }
         }
     }
 }
@@ -22286,6 +22359,33 @@ e_altaica = {
 				b_besikty = {
 				}
 			}
+			c_saray = {
+				color={ 175 142 54 }
+				color2={ 255 255 255 }
+			
+				b_akhtuba = {
+				}
+				b_saray = {
+				}
+				b_tsaganaman = {
+				}
+				b_uspenka = {
+				}
+				b_pokrovka = {
+				}
+				b_dzhelga = {
+				}
+				b_bataevka = {
+				}
+				b_chernyyar = {
+				}
+			}
+		}
+		d_uzens = {
+			color={ 191 158 70 }
+			color2={ 255 255 255 }
+			
+			capital = 617 # Uzens
 			c_yaik = {
 				color={ 159 126 38 }
 				color2={ 255 255 255 }
@@ -22349,27 +22449,6 @@ e_altaica = {
 				b_prishib = {
 				}
 			}
-			c_saray = {
-				color={ 175 142 54 }
-				color2={ 255 255 255 }
-			
-				b_akhtuba = {
-				}
-				b_saray = {
-				}
-				b_tsaganaman = {
-				}
-				b_uspenka = {
-				}
-				b_pokrovka = {
-				}
-				b_dzhelga = {
-				}
-				b_bataevka = {
-				}
-				b_chernyyar = {
-				}
-			}
 		}
 		d_sarkel = {
 			color={ 236 200 105 }
@@ -22396,48 +22475,6 @@ e_altaica = {
 				b_ustmedveditskaya = {
 				}
 				b_uvarovo = {
-				}
-			}
-			c_sugrov = {
-				color={ 240 204 109 }
-				color2={ 255 255 255 }
-			
-				b_sugrov = {
-				}
-				b_yauchy = {
-				}
-				b_khursa = {
-				}
-				b_khazar = {
-				}
-				b_khratayak = {
-				}
-				b_oboyan = {
-				}
-				b_tim = {
-				}
-				b_fatezh = {
-				}
-			}
-			c_desht-i-kipchak = {
-				color={ 242 206 111 }
-				color2={ 255 255 255 }
-			
-				b_bakhmut = {
-				}
-				b_sviatohirsk = {
-				}
-				b_krasne = {
-				}
-				b_dobropillia = {
-				}
-				b_druzhkivka = {
-				}
-				b_kramatorsk = {
-				}
-				b_lyman = {
-				}
-				b_mospyne = {
 				}
 			}
 			c_sarkel = {
@@ -22482,6 +22519,13 @@ e_altaica = {
 				b_ozerki = {
 				}
 			}
+		}
+		d_sharukan = {
+			color={ 236 240 105 }
+			color2={ 255 255 255 }
+			
+			capital = 565 # Sharukan
+		
 			c_sharukan = {
 				color={ 238 203 121 }
 				color2={ 255 255 255 }
@@ -22503,6 +22547,48 @@ e_altaica = {
 				b_lyubotin = {
 				}
 			}
+			c_sugrov = {
+				color={ 240 204 109 }
+				color2={ 255 255 255 }
+			
+				b_sugrov = {
+				}
+				b_yauchy = {
+				}
+				b_khursa = {
+				}
+				b_khazar = {
+				}
+				b_khratayak = {
+				}
+				b_oboyan = {
+				}
+				b_tim = {
+				}
+				b_fatezh = {
+				}
+			}
+			c_desht-i-kipchak = {
+				color={ 242 206 111 }
+				color2={ 255 255 255 }
+			
+				b_bakhmut = {
+				}
+				b_sviatohirsk = {
+				}
+				b_krasne = {
+				}
+				b_dobropillia = {
+				}
+				b_druzhkivka = {
+				}
+				b_kramatorsk = {
+				}
+				b_lyman = {
+				}
+				b_mospyne = {
+				}
+			}
 		}
 	}
 
@@ -22516,7 +22602,7 @@ e_altaica = {
 			color={ 188 91 154 }
 			color2={ 255 255 20 }
 			
-			capital = 560 # Cherson
+			capital = 561 # Theodosia
 			
 			c_theodosia = {
 				color={ 190 93 156 }
@@ -22560,27 +22646,6 @@ e_altaica = {
 				b_zavitne = {
 				}
 			}
-			c_cherson = {
-				color={ 194 97 160 }
-				color2={ 255 255 20 }
-				
-				b_kherson = {
-				}
-				b_doros = {
-				}
-				b_neapol = {
-				}
-				b_kerkinitis = {
-				}
-				b_cembalo = {
-				}
-				b_charax = {
-				}
-				b_sevastoupolis = {
-				}
-				b_kalamita = {
-				}
-			}
 			c_tmutarakan = {
 				color={ 196 99 162 }
 				color2={ 255 255 20 }
@@ -22604,7 +22669,7 @@ e_altaica = {
 			}
 		}
 		
-		d_crimea = { 
+		d_kherson = { 
 			color={ 226 186 80 }
 			color2={ 255 255 255 }
 			
@@ -22673,6 +22738,13 @@ e_altaica = {
 				b_chernihivka = {
 				}
 			}
+		}
+		d_crimea = { 
+			color={ 188 121 134 }
+			color2={ 255 255 255 }
+			
+			capital = 559 # Crimea
+		
 			c_lower_dniepr = {
 				color={ 246 206 100 }
 				color2={ 255 255 255 }
@@ -22715,6 +22787,27 @@ e_altaica = {
 				b_qurman = {
 				}
 			}
+			c_cherson = {
+				color={ 194 97 160 }
+				color2={ 255 255 20 }
+				
+				b_kherson = {
+				}
+				b_doros = {
+				}
+				b_neapol = {
+				}
+				b_kerkinitis = {
+				}
+				b_cembalo = {
+				}
+				b_charax = {
+				}
+				b_sevastoupolis = {
+				}
+				b_kalamita = {
+				}
+			}
 		}
 	}
 
@@ -22732,27 +22825,6 @@ e_altaica = {
 			
 			capital = 603 # Alania
 		
-			c_sarpa = {
-				color={ 255 212 90 }
-				color2={ 255 255 255 }
-			
-				b_elst = {
-				}
-				b_bachanta = {
-				}
-				b_ikburul = {
-				}
-				b_karatchaplak = {
-				}
-				b_yashkul = {
-				} 
-				b_ketchenery = {
-				}
-				b_yashalta = {
-				}
-				b_ysaganaman = {
-				}
-			}
 			c_yegorlyk = {
 				color={ 255 214 92 }
 				color2={ 255 255 255 }
@@ -22907,6 +22979,27 @@ e_altaica = {
 				b_beshtau = {
 				}
 			}
+			c_sarpa = {
+				color={ 255 212 90 }
+				color2={ 255 255 255 }
+			
+				b_elst = {
+				}
+				b_bachanta = {
+				}
+				b_ikburul = {
+				}
+				b_karatchaplak = {
+				}
+				b_yashkul = {
+				} 
+				b_ketchenery = {
+				}
+				b_yashalta = {
+				}
+				b_ysaganaman = {
+				}
+			}
 		}
 	}
 
@@ -22917,7 +23010,7 @@ e_altaica = {
 		capital = 623 # Khwarizm
 
 		d_khwarizmian = {
-			color={ 224 170 24 }
+			color={ 254 190 24 }
 			color2={ 255 255 255 }
 			
 			capital = 623 # Khwarizm
@@ -22983,27 +23076,6 @@ e_altaica = {
 				b_tigen = {
 				}
 				b_sayutes = {
-				}
-			}
-			c_aral = {
-				color={ 236 182 36 }
-				color2={ 255 255 255 }
-			
-				b_akdzulpas = {
-				}
-				b_aralsk = {
-				}
-				b_sapak = {
-				}
-				b_aralkum = {
-				}
-				b_kosskul = {
-				}
-				b_akespe = {
-				}
-				b_saksaulskiy = {
-				}
-				b_akshelek = {
 				}
 			}
 			c_usturt = {
@@ -23096,6 +23168,27 @@ e_altaica = {
 				b_sargatka = {
 				}
 				b_krasnyyar = {
+				}
+			}
+			c_aral = {
+				color={ 236 182 36 }
+				color2={ 255 255 255 }
+			
+				b_akdzulpas = {
+				}
+				b_aralsk = {
+				}
+				b_sapak = {
+				}
+				b_aralkum = {
+				}
+				b_kosskul = {
+				}
+				b_akespe = {
+				}
+				b_saksaulskiy = {
+				}
+				b_akshelek = {
 				}
 			}
 		}
