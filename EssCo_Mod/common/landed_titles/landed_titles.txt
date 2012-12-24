@@ -8006,6 +8006,169 @@ e_scandinavia = {
 			}
 		}
 	}
+	
+	# Titular
+	
+	k_iceland = {
+		color = { 165 160 255 }
+		capital = 1 # Vestisland
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_sorlandet = {
+		color = { 40 0 255 }
+		capital = 268 # Agder
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_gotaland = {
+		color = { 5 155 255 }
+		capital = 297 # Vastergotland
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_svealand = {
+		color = { 5 55 155 }
+		capital = 286 # Gastrikland
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_norrland = {
+		color = { 15 55 255 }
+		capital = 281 # Angermanland
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_estonia = {
+		color = { 150 25 10 }
+		capital = 378 # Reval
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_lappland = {
+		color = { 135 75 255 }
+		capital = 386 # Kemi
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_karelia = {
+		color = { 255 235 195 }
+		capital = 388 # Karjala
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_slesvig = {
+		color = { 224 74 74 }
+		capital = 264 # Slesvig
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_skane = {
+		color = { 215 5 5 }
+		capital = 303 # Skåne
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
 }
 
 e_russia = {
