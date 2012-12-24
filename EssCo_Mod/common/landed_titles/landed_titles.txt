@@ -10136,6 +10136,185 @@ e_russia = {
 			}
 		}
 	}
+	
+	# Titular
+	
+	k_galich = {
+		color = { 234 112 150 }
+		capital = 536 # Galich
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_belarus = {
+		color = { 145 204 15 }
+		capital = 550 # Minsk
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_ukraine = {
+		color = { 5 204 185 }
+		capital = 547 #Kiev
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_moskva = {
+		color = { 220 235 176 }
+		capital = 575 # Moskva
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_novgorod = {
+		color = { 67 104 164 }
+		capital = 414 # Novgorod
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_yaroslavl = {
+		color = { 184 198 140 }
+		capital = 407 # Kostroma
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_bjarmia = {
+		color = { 129 144 84 }
+		capital = 396 # Bjarmia
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_syberia = {
+		color = { 234 228 177 }
+		capital = 400 # Zyriane
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_urals = {
+		color = { 210 185 65 }
+		capital = 893 # Surgut
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_mordva = {
+		color = { 246 186 25 }
+		capital = 579 # Mordva
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_bulgaristan = {
+		color = { 243 158 43 }
+		capital = 610 # Bulgar
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
 }
 
 e_persia = {
@@ -21033,6 +21212,169 @@ e_italica = {
 			}
 		}
 	}
+	
+	# Titular
+	
+	k_illiria = {
+		color = { 225 234 165 }
+		capital = 464 # Senj
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_bosnia_mod = {
+		color = { 16 125 74 }
+		capital = 466 # Zachlumia
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_etruria = {
+		color = { 169 186 0 }
+		capital = 328 # Firenze
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_venezia = {
+		color = { 54 167 156 }
+		capital = 356 # Venezia
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_longobardia = {
+		color = { 5 124 45 }
+		capital = 235 # Lombardy
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_piemonte = {
+		color = { 164 12 68 }
+		capital = 236 # Piemonte
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_sardinia = {
+		color = { 160 200 160 }
+		capital = 329 # Cagliari
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_rome = {
+		color = { 220 210 200 }
+		capital = 333 # Roma
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_napoli = {
+		color = { 245 204 15 }
+		capital = 334 # Napoli
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_sicilia = {
+		color = { 249 232 247 }
+		capital = 340 # Palermo
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
 }
 
 e_centre = {
@@ -22588,6 +22930,137 @@ e_centre = {
             }
         }
     }
+	
+	# Titular
+	
+	k_latvia = {
+		color = { 162 10 10 }
+		capital = 374 # zemigalians
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_prussia = {
+		color = { 245 140 140 }
+		capital = 371 # Sambia
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_slovakia = {
+		color = { 209 61 61 }
+		capital = 442 # Trencin
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_carpatia = {
+		color = { 241 58 58 }
+		capital = 540 # Szekelyfold
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_danubia = {
+		color = { 15 204 255 }
+		capital = 518 # Bacs
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_pannonia = {
+		color = { 125 5 65 }
+		capital = 451 # Fejer
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_mazovia = {
+		color = { 30 127 2 }
+		capital = 529 # Plock
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_silesia = {
+		color = { 17 238 10 }
+		capital = 433 # Opole
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}	
 }
 
 e_altaica = {
@@ -23743,6 +24216,89 @@ e_altaica = {
 				b_bzyb = {
 				}
 				b_zugdidi = {
+				}
+			}
+		}
+	}
+	
+	# Titular
+	
+	k_dagestan = {
+		color = { 125 194 47 }
+		capital = 674 # Derbent
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_khazaria = {
+		color = { 24 86 255 }
+		capital = 618 # Guryev
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_sarmatia = {
+		color = { 246 86 25 }
+		capital = 566 #Sugrov
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_crimea = {
+		color = { 148 71 94 }
+		capital = 559 # Crimea
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_ciscaucasia = {
+		color = { 246 216 40 }
+		capital = 599 # Kuban
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
