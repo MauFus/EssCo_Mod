@@ -3772,7 +3772,6 @@ e_hre = {
 			}
 		}
 	}
-
 	k_belgium = {
 		color = { 200 120 60 }
 		capital = 117 # Brabant
@@ -3788,7 +3787,6 @@ e_hre = {
 			}
 		}
 	}
-
 	k_lorraine = {
 		color = { 190 187 187 }
 		capital = 127 #Lorraine
@@ -3804,7 +3802,6 @@ e_hre = {
 			}
 		}
 	}
-
 	k_luxembourg = {
 		color = { 147 147 147 }
 		capital = 115 #Luxembourg
@@ -3820,7 +3817,6 @@ e_hre = {
 			}
 		}
 	}
-
 	k_reinland = {
 		color = { 164 80 160 }
 		capital = 119 #Köln
@@ -3836,7 +3832,6 @@ e_hre = {
 			}
 		}
 	}
-
 	k_hannover = {
 		color = { 244 80 60 }
 		capital = 259 # Celle
@@ -3852,7 +3847,6 @@ e_hre = {
 			}
 		}
 	}
-
 	k_alemannia = {
 		color = { 204 140 60 }
 		capital = 253 # Wurttemberg
@@ -3868,10 +3862,9 @@ e_hre = {
 			}
 		}
 	}
-
 	k_baviera = {
 		color = { 11 191 238 }
-		capital = 360 #Oberbayern
+		capital = 360 # Oberbayern
 		
 		allow = {
 			NOT = {
@@ -3884,10 +3877,9 @@ e_hre = {
 			}
 		}
 	}
-
 	k_austria = {
 		color = { 200 238 238 }
-		capital = 449 #Österreich
+		capital = 449 # Österreich
 		
 		allow = {
 			NOT = {
@@ -3900,10 +3892,9 @@ e_hre = {
 			}
 		}
 	}
-
 	k_brandenburg = {
 		color = { 11 91 238 }
-		capital = 365 #Brandenburg
+		capital = 365 # Brandenburg
 		
 		allow = {
 			NOT = {
@@ -3916,10 +3907,9 @@ e_hre = {
 			}
 		}
 	}
-
 	k_mecklenburg = {
 		color = { 51 213 51 }
-		capital = 260 #mecklemburg
+		capital = 260 # Mecklemburg
 		
 		allow = {
 			NOT = {
@@ -13409,7 +13399,6 @@ e_france = {
 			}
 		}
 	}
-
 	k_neustria = {
 		color = { 94 132 234 }
 		capital = 138 # Orleans
@@ -13425,7 +13414,6 @@ e_france = {
 			}
 		}
 	}
-
 	k_loira = {
 		color = { 43 4 255 }
 		capital = 107 # Anjou
@@ -13441,7 +13429,6 @@ e_france = {
 			}
 		}
 	}
-
 	k_burgundia = {
 		color = { 103 37 128 }
 		capital = 136 #Dijon
@@ -13457,7 +13444,6 @@ e_france = {
 			}
 		}
 	}
-
 	k_occitania = {
 		color = { 84 80 255 }
 		capital = 147 # Limousin
@@ -13473,7 +13459,6 @@ e_france = {
 			}
 		}
 	}
-
 	k_provence = {
 		color = { 105 137 67 }
 		capital = 221 # Provence
@@ -13489,7 +13474,6 @@ e_france = {
 			}
 		}
 	}
-
 	k_septimania = {
 		color = { 194 200 247 }
 		capital = 212 # Narbonne
@@ -13505,7 +13489,6 @@ e_france = {
 			}
 		}
 	}
-
 	k_guyenne = {
 		color = { 81 30 183 }
 		capital = 149 # Bordeaux
@@ -13521,7 +13504,6 @@ e_france = {
 			}
 		}
 	}
-
 	k_swiss = {
 		color = { 183 28 21 }
 		capital = 244 # Bern
@@ -15070,7 +15052,6 @@ e_spain = {
 			}
 		}
 	}
-
 	k_valencia = {
 		color = { 13 170 54 }
 		capital = 171 # Valencia
@@ -15087,7 +15068,6 @@ e_spain = {
 			}
 		}
 	}
-
 	k_asturias = {
 		color = { 233 188 91 }
 		capital = 155 # Asturias
@@ -15103,7 +15083,6 @@ e_spain = {
 			}
 		}
 	}
-
 	k_spain = {
 		color = { 245 204 15 }
 		capital = 197 # Toledo
@@ -15120,7 +15099,6 @@ e_spain = {
 			}
 		}
 	}
-
 	k_lusitania = {
 		color = { 219 195 35 }
 		capital = 162 # Silves
@@ -15137,7 +15115,6 @@ e_spain = {
 			}
 		}
 	}
-
 	k_betica = {
 		color = { 251 229 34 }
 		capital = 183 # Aracena
@@ -15154,7 +15131,6 @@ e_spain = {
 			}	
 		}
 	}
-
 	k_granada = {
 		color = { 80 220 10 }
 		capital = 180 # Granada
@@ -17052,7 +17028,7 @@ e_arabia = {
 				}
 			}
 		}
-		d_amman = {
+		d_amman_sr = {
 			color={ 75 255 60 }
 			color2={ 255 255 255 }
 			
@@ -19207,7 +19183,6 @@ e_britannia = {
 			}
 		}
 	}
-
 	k_leinster = {
 		color = { 85 211 27 }
 		capital = 16 # Leinster
@@ -19223,7 +19198,6 @@ e_britannia = {
 			}
 		}
 	}
-
 	k_cornwall = {
 		color = { 250 20 15 }
 		capital = 31 # Cornwall
@@ -19239,7 +19213,6 @@ e_britannia = {
 			}
 		}
 	}
-
 	k_alba = {
 		color = { 10 81 243 }
 		capital = 40 # Moray
@@ -19255,7 +19228,6 @@ e_britannia = {
 			}
 		}
 	}
-
 	k_strathclyde = {
 		color = { 5 140 240 }
 		capital = 47 # Clydesdale
@@ -19271,7 +19243,6 @@ e_britannia = {
 			}
 		}
 	}
-
 	k_northumbria = {
 		color = { 255 10 0 }
 		capital = 52 # Northumberland
@@ -19287,7 +19258,6 @@ e_britannia = {
 			}
 		}
 	}
-
 	k_mercia = {
 		color = { 241 60 30 }
 		capital = 37 # Warwick
@@ -19303,7 +19273,6 @@ e_britannia = {
 			}
 		}
 	}
-
 	k_anglia = {
 		color = { 255 95 5 }
 		capital = 70 # Norfolk
@@ -19319,7 +19288,6 @@ e_britannia = {
 			}
 		}
 	}
-
 	k_wessex = {
 		color = { 241 20 65 }
 		capital = 26 # Winchester
