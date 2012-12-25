@@ -6399,6 +6399,249 @@ e_byzantium = {
 		}
 	}
 	
+	# Titular
+	
+	k_moesia = {
+		color = { 158 43 201 }
+		capital = 507 # Nikopolis
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_dacia_mod = {
+		color = { 208 192 29 }
+		capital = 511 # Galaz
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_thrace = {
+		color = { 220 20 220 }
+		capital = 497 # Thrake
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_macedonia = {
+		color = { 168 171 24 }
+		capital = 493 # Philippopolis
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_albania = {
+		color = { 140 140 140 }
+		capital = 470 # Dyrrachion
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_achaia = {
+		color = { 248 201 244 }
+		capital = 476 # Achaia
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_krete = {
+		color = { 168 11 14 }
+		capital = 480 # Chandax
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_cipro = {
+		color = { 85 138 236 }
+		capital = 757 # Famagusta
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_lydia = {
+		color = { 240 45 174 }
+		capital = 746 # Ephesos
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_bytinia = {
+		color = { 248 171 34 }
+		capital = 742 # Prusa
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_cappadocia = {
+		color = { 48 121 194 }
+		capital = 752 # Galatia
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_phrigia = {
+		color = { 8 21 94 }
+		capital = 759 # Ikonion
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_ponto = {
+		color = { 100 151 33 }
+		capital = 378 # Trapezous
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_cilicia = {
+		color = { 148 241 94 }
+		capital = 735 # Teluch
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_transcaucasia = {
+		color = { 88 121 94 }
+		capital = 671 # Suenik
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	
 }
 
 e_scandinavia = {
@@ -12013,6 +12256,153 @@ e_persia = {
 				b_shabestar = {
 				}
 				b_miyaneh = {
+				}
+			}
+		}
+	}
+	
+	# Titular
+	
+	k_assyria = {
+		color = { 61 86 133 }
+		capital = 497 # Mosul
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_babilon = {
+		color = { 9 89 236 }
+		capital = 693 # Baghdad
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_chaldea = {
+		color = { 61 121 231 }
+		capital = 656 # Tigris
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_elam = {
+		color = { 100 181 233 }
+		capital = 645 # Hendjan
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_media = {
+		color = { 50 211 133 }
+		capital = 661 # Tabaristan
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_parthia = {
+		color = { 100 251 33 }
+		capital = 659 # Qom
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_carmania = {
+		color = { 110 130 75 }
+		capital = 639 # Kerman
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_turkmenia = {
+		color = { 143 121 33 }
+		capital = 629 Turkmen
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_samarkand = {
+		color = { 155 240 172 }
+		capital = 903 # Samarkand
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
 				}
 			}
 		}
@@ -25951,10 +26341,7 @@ k_cyprus = {
 	color = { 85 138 236 }
 	capital = 757 # Famagusta
 	allow = {
-		OR = {
-			religion = catholic
-			is_heresy_of = catholic
-		}
+		always = no
 	}
 }
 k_beni_helal = {
