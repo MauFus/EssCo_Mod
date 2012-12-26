@@ -18261,6 +18261,201 @@ e_arabia = {
 			}
 		}
 	}
+	
+	# Titular
+	
+	k_ethiopia = {
+		color = { 159 8 65 }
+		capital = 873 # Harer
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_nubia_mod = {
+		color = { 161 172 86 }
+		capital = 879 # Atbara
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_oman = {
+		color = { 148 231 7 }
+		capital = 868 # Muscat
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_saba = {
+		color = { 63 59 0 }
+		capital = 858 # Aden
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_nefoud = {
+		color = { 182 253 75 }
+		capital = 863 # Hajr
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_dedan = {
+		color = { 31 76 2 }
+		capital = 720 # Hijaz
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_nylus = {
+		color = { 80 220 210 }
+		capital = 798 # Delta
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_gizah = {
+		color = { 250 220 10 }
+		capital = 800 # Gizeh
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_palestine = {
+		color = { 218 220 210 }
+		capital = 776 # Hebron
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_jourdane = {
+		color = { 180 20 10 }
+		capital = 723 #Madaba
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_fenicia = {
+		color = { 180 100 10 }
+		capital = 766 # Tortosa
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_damascus = {
+		color = { 162 255 0 }
+		capital = 728 #Damascus
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
 }
 
 e_britannia = {
@@ -25918,6 +26113,137 @@ e_africa = {
 				b_bura = {}
 				b_ouallam = {}
 				b_tera = {}
+			}
+		}
+	}
+	
+	# Titular
+	
+	k_lybia = {
+		color = { 0 255 0 }
+		capital = 810 # Leptis Magna
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_carthago = {
+		color = { 240 130 0 }
+		capital = 817 # Tunis
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_numidia = {
+		color = { 80 60 30 }
+		capital = 823 # Biskra
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_algeria = {
+		color = { 18 205 100 }
+		capital = 831 # Al Djazair
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_tingitania = {
+		color = { 130 100 150 }
+		capital = 839 # Cebta
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_morocco = {
+		color = { 180 50 0 }
+		capital = 845 # Anti-atlas
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_timbuktu = {
+		color = { 130 180 101 }
+		capital = 911 # Timbuktu
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+		}
+	}
+	k_ghana = {
+		color = { 160 180 111 }
+		capital = 912 # Aoudaghost
+		dynasty_title_names = no
+	
+		allow = {
+			NOT = {
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
 			}
 		}
 	}
