@@ -6573,7 +6573,7 @@ e_byzantium = {
 	}
 	k_ponto = {
 		color = { 100 151 33 }
-		capital = 378 # Trapezous
+		capital = 678 # Trapezous
 		dynasty_title_names = no
 	
 		allow = {
