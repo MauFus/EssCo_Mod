@@ -290,7 +290,7 @@ e_golden_horde = {
 	capital = 622
 	
 	# Always exists
-	landless = yes
+	#landless = yes
 	
 	tribe = yes
 	
@@ -304,7 +304,7 @@ e_il-khanate = {
 	capital = 622
 	
 	# Always exists
-	landless = yes
+	#landless = yes
 	
 	tribe = yes
 	
@@ -318,7 +318,7 @@ e_timurids = {
 	capital = 900
 	
 	# Always exists
-	landless = yes
+	#landless = yes
 	
 	tribe = yes
 	
@@ -2156,7 +2156,7 @@ e_hre = {
 		
 		culture = german
 		
-		capital = 115 #Luxemburg
+		capital = 128 #Metz
 		
 		catholic = 700 # Crusade target weight
 		
@@ -2804,7 +2804,7 @@ e_hre = {
 		
 		culture = german
 		
-		capital = 360 #Oberbayern
+		capital = 361 #Niederbayern
 		
 		catholic = 700 # Crusade target weight
 		
@@ -3759,17 +3759,15 @@ e_hre = {
 
 	k_holland = {
 		color = { 235 100 20 }
-		capital = 80 # Holland
-		
+		capital = 82 # Sticht
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_holland = { is_titular = no }
+			}	
 		}
 	}
 	k_belgium = {
@@ -3777,14 +3775,13 @@ e_hre = {
 		capital = 117 # Brabant
 		
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_belgium = { is_titular = no }
+			}	
 		}
 	}
 	k_lorraine = {
@@ -3792,14 +3789,13 @@ e_hre = {
 		capital = 127 #Lorraine
 		
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_lorraine = { is_titular = no }
+			}	
 		}
 	}
 	k_luxembourg = {
@@ -3807,14 +3803,13 @@ e_hre = {
 		capital = 115 #Luxembourg
 		
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_luxembourg = { is_titular = no }
+			}	
 		}
 	}
 	k_reinland = {
@@ -3822,14 +3817,13 @@ e_hre = {
 		capital = 119 #Köln
 		
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_reinland = { is_titular = no }
+			}	
 		}
 	}
 	k_hannover = {
@@ -3837,14 +3831,13 @@ e_hre = {
 		capital = 259 # Celle
 		
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_hannover = { is_titular = no }
+			}	
 		}
 	}
 	k_alemannia = {
@@ -3852,14 +3845,13 @@ e_hre = {
 		capital = 253 # Wurttemberg
 		
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_alemannia = { is_titular = no }
+			}	
 		}
 	}
 	k_baviera = {
@@ -3867,14 +3859,13 @@ e_hre = {
 		capital = 360 # Oberbayern
 		
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_baviera = { is_titular = no }
+			}	
 		}
 	}
 	k_austria = {
@@ -3882,14 +3873,13 @@ e_hre = {
 		capital = 449 # Österreich
 		
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_austria = { is_titular = no }
+			}	
 		}
 	}
 	k_brandenburg = {
@@ -3897,29 +3887,27 @@ e_hre = {
 		capital = 365 # Brandenburg
 		
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_brandenburg = { is_titular = no }
+			}	
 		}
 	}
-	k_mecklenburg = {
+	k_mecklemburg = {
 		color = { 51 213 51 }
 		capital = 260 # Mecklemburg
 		
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-							tier = king
-							tier = emperor
-						}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_mecklemburg = { is_titular = no }
+			}	
 		}
 	}
 }
@@ -3980,6 +3968,7 @@ e_byzantium = {
 		color={ 165 11 111 }
 		color2={ 255 255 23 }
 		
+		capital = 496 #Byzantion
 		culture = greek
 		
 		orthodox = 400 # Crusade target weight
@@ -4921,6 +4910,7 @@ e_byzantium = {
 		color={ 177 60 100 }
 		color2={ 255 255 23 }
 		
+		capital = 753 # Ankyra
 		culture = greek
 		
 		orthodox = 300 # Crusade target weight
@@ -6407,14 +6397,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_moesia = { is_titular = no }
+			}	
 		}
 	}
 	k_dacia_mod = {
@@ -6423,14 +6412,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_dacia_mod = { is_titular = no }
+			}	
 		}
 	}
 	k_thrace = {
@@ -6439,14 +6427,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_thrace = { is_titular = no }
+			}	
 		}
 	}
 	k_macedonia = {
@@ -6455,14 +6442,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_macedonia = { is_titular = no }
+			}	
 		}
 	}
 	k_albania = {
@@ -6471,14 +6457,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_albania = { is_titular = no }
+			}	
 		}
 	}
 	k_achaia = {
@@ -6487,14 +6472,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_achaia = { is_titular = no }
+			}	
 		}
 	}
 	k_krete = {
@@ -6503,14 +6487,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_krete = { is_titular = no }
+			}	
 		}
 	}
 	k_cipro = {
@@ -6519,14 +6502,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_cipro = { is_titular = no }
+			}	
 		}
 	}
 	k_lydia = {
@@ -6535,14 +6517,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_lydia = { is_titular = no }
+			}	
 		}
 	}
 	k_bytinia = {
@@ -6551,14 +6532,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_bytinia = { is_titular = no }
+			}	
 		}
 	}
 	k_cappadocia = {
@@ -6567,14 +6547,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_cappadocia = { is_titular = no }
+			}	
 		}
 	}
 	k_phrigia = {
@@ -6583,14 +6562,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_phrigia = { is_titular = no }
+			}	
 		}
 	}
 	k_ponto = {
@@ -6599,14 +6577,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_ponto = { is_titular = no }
+			}	
 		}
 	}
 	k_cilicia = {
@@ -6615,14 +6592,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_cilicia = { is_titular = no }
+			}	
 		}
 	}
 	k_transcaucasia = {
@@ -6631,14 +6607,13 @@ e_byzantium = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_transcaucasia = { is_titular = no }
+			}	
 		}
 	}
 	
@@ -8258,14 +8233,13 @@ e_scandinavia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_iceland = { is_titular = no }
+			}	
 		}
 	}
 	k_sorlandet = {
@@ -8274,14 +8248,13 @@ e_scandinavia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_sorlandet = { is_titular = no }
+			}	
 		}
 	}
 	k_gotaland = {
@@ -8290,14 +8263,13 @@ e_scandinavia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_gotaland = { is_titular = no }
+			}	
 		}
 	}
 	k_svealand = {
@@ -8306,14 +8278,13 @@ e_scandinavia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_svealand = { is_titular = no }
+			}	
 		}
 	}
 	k_norrland = {
@@ -8322,14 +8293,13 @@ e_scandinavia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_norrland = { is_titular = no }
+			}	
 		}
 	}
 	k_estonia = {
@@ -8338,14 +8308,13 @@ e_scandinavia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_estonia = { is_titular = no }
+			}	
 		}
 	}
 	k_lappland = {
@@ -8354,14 +8323,13 @@ e_scandinavia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_lappland = { is_titular = no }
+			}	
 		}
 	}
 	k_karelia = {
@@ -8370,14 +8338,13 @@ e_scandinavia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_karelia = { is_titular = no }
+			}	
 		}
 	}
 	k_slesvig = {
@@ -8386,14 +8353,13 @@ e_scandinavia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_slesvig = { is_titular = no }
+			}	
 		}
 	}
 	k_skane = {
@@ -8402,14 +8368,13 @@ e_scandinavia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_skane = { is_titular = no }
+			}	
 		}
 	}
 }
@@ -8418,7 +8383,7 @@ e_russia = {
 	color={ 147 164 104 }
 	color2={ 255 255 255 }
 	
-	capital = 547 # Kiev
+	capital = 408 # Beloozero
 	
 	culture = russian
 	
@@ -10388,14 +10353,13 @@ e_russia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_galich = { is_titular = no }
+			}	
 		}
 	}
 	k_belarus = {
@@ -10404,30 +10368,28 @@ e_russia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_belarus = { is_titular = no }
+			}	
 		}
 	}
 	k_ukraine = {
 		color = { 5 204 185 }
-		capital = 547 #Kiev
+		capital = 555 # Pereyaslavl
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_ukraine = { is_titular = no }
+			}	
 		}
 	}
 	k_moskva = {
@@ -10436,14 +10398,13 @@ e_russia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_moskva = { is_titular = no }
+			}	
 		}
 	}
 	k_novgorod = {
@@ -10452,14 +10413,13 @@ e_russia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_novgorod = { is_titular = no }
+			}	
 		}
 	}
 	k_yaroslavl = {
@@ -10468,14 +10428,13 @@ e_russia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_yaroslavl = { is_titular = no }
+			}	
 		}
 	}
 	k_bjarmia = {
@@ -10484,14 +10443,13 @@ e_russia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_bjarmia = { is_titular = no }
+			}	
 		}
 	}
 	k_syberia = {
@@ -10500,14 +10458,13 @@ e_russia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_syberia = { is_titular = no }
+			}	
 		}
 	}
 	k_urals = {
@@ -10516,14 +10473,13 @@ e_russia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_urals = { is_titular = no }
+			}	
 		}
 	}
 	k_mordva = {
@@ -10532,30 +10488,28 @@ e_russia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_mordva = { is_titular = no }
+			}	
 		}
 	}
 	k_bulgaristan = {
 		color = { 243 158 43 }
-		capital = 610 # Bulgar
+		capital = 613 # Bilyar
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_bulgaristan = { is_titular = no }
+			}	
 		}
 	}
 }
@@ -10570,7 +10524,10 @@ e_persia = {
 	culture = persian
 	
 	allow = {
-		culture_group = iranian
+		OR = {
+			culture = mongol
+			culture_group = iranian
+		}
 	}
 	
 	short_name = yes
@@ -11600,7 +11557,7 @@ e_persia = {
 		color={ 55 128 67 }
 		color2={ 255 255 255 }
 		
-		capital	= 693 # Baghdad
+		capital	= 695 # Deir
 		dynasty_title_names = no
 		
 		culture = levantine_arabic
@@ -12269,14 +12226,13 @@ e_persia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_assyria = { is_titular = no }
+			}	
 		}
 	}
 	k_babilon = {
@@ -12285,14 +12241,13 @@ e_persia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_babilon = { is_titular = no }
+			}	
 		}
 	}
 	k_chaldea = {
@@ -12301,14 +12256,13 @@ e_persia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_chaldea = { is_titular = no }
+			}	
 		}
 	}
 	k_elam = {
@@ -12317,14 +12271,13 @@ e_persia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_elam = { is_titular = no }
+			}	
 		}
 	}
 	k_media = {
@@ -12333,14 +12286,13 @@ e_persia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_media = { is_titular = no }
+			}	
 		}
 	}
 	k_parthia = {
@@ -12349,14 +12301,13 @@ e_persia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_parthia = { is_titular = no }
+			}	
 		}
 	}
 	k_carmania = {
@@ -12365,30 +12316,28 @@ e_persia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_carmania = { is_titular = no }
+			}	
 		}
 	}
 	k_turkmenia = {
 		color = { 143 121 33 }
-		capital = 629 Turkmen
+		capital = 629  # Turkmen
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_turkmenia = { is_titular = no }
+			}	
 		}
 	}
 	k_samarkand = {
@@ -12397,14 +12346,13 @@ e_persia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_samarkand = { is_titular = no }
+			}	
 		}
 	}
 } # e_persia
@@ -13755,7 +13703,7 @@ e_france = {
 		color={ 134 0 37 }
 		color2={ 220 220 0 }
 		
-		capital	= 221 # Provence
+		capital	= 228 # Dauphine Viennois
 		
 		culture = occitan
 		
@@ -14121,14 +14069,13 @@ e_france = {
 		capital = 97 # Arques
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_normandy = { is_titular = no }
+			}	
 		}
 	}
 	k_neustria = {
@@ -14136,14 +14083,13 @@ e_france = {
 		capital = 138 # Orleans
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_neustria = { is_titular = no }
+			}	
 		}
 	}
 	k_loira = {
@@ -14151,14 +14097,13 @@ e_france = {
 		capital = 107 # Anjou
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_loira = { is_titular = no }
+			}	
 		}
 	}
 	k_burgundia = {
@@ -14166,14 +14111,13 @@ e_france = {
 		capital = 136 #Dijon
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_burgundia = { is_titular = no }
+			}	
 		}
 	}
 	k_occitania = {
@@ -14181,14 +14125,13 @@ e_france = {
 		capital = 147 # Limousin
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_occitania = { is_titular = no }
+			}	
 		}
 	}
 	k_provence = {
@@ -14196,14 +14139,13 @@ e_france = {
 		capital = 221 # Provence
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_provence = { is_titular = no }
+			}	
 		}
 	}
 	k_septimania = {
@@ -14211,29 +14153,27 @@ e_france = {
 		capital = 212 # Narbonne
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_septimania = { is_titular = no }
+			}	
 		}
 	}
 	k_guyenne = {
 		color = { 81 30 183 }
-		capital = 149 # Bordeaux
+		capital = 150 # Albret / Marsan
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_guyenne = { is_titular = no }
+			}	
 		}
 	}
 	k_swiss = {
@@ -14241,14 +14181,13 @@ e_france = {
 		capital = 244 # Bern
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_swiss = { is_titular = no }
+			}	
 		}
 	}
 }
@@ -15770,18 +15709,17 @@ e_spain = {
 
 	k_catalonia = {
 		color = { 255 210 57 }
-		capital = 204 # Barcellona
+		capital = 205 # Empuries
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_catalonia = { is_titular = no }
+			}	
 		}
 	}
 	k_valencia = {
@@ -15790,14 +15728,13 @@ e_spain = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_valencia = { is_titular = no }
+			}	
 		}
 	}
 	k_asturias = {
@@ -15805,14 +15742,13 @@ e_spain = {
 		capital = 155 # Asturias
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_asturias = { is_titular = no }
+			}	
 		}
 	}
 	k_spain = {
@@ -15821,14 +15757,13 @@ e_spain = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_spain = { is_titular = no }
+			}	
 		}
 	}
 	k_lusitania = {
@@ -15837,14 +15772,13 @@ e_spain = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_lusitania = { is_titular = no }
+			}	
 		}
 	}
 	k_betica = {
@@ -15853,13 +15787,12 @@ e_spain = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
+				k_betica = { is_titular = no }
 			}	
 		}
 	}
@@ -15869,14 +15802,13 @@ e_spain = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_granada = { is_titular = no }
+			}	
 		}
 	}
 }
@@ -17427,7 +17359,7 @@ e_arabia = {
 		culture = levantine_arabic
 		dynasty_title_names = no
 		
-		capital = 728 # Damascus
+		capital = 727 # Syria
 		dynasty_title_names = no
 		
 		orthodox = 200 # Crusade target weight
@@ -18270,14 +18202,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_ethiopia = { is_titular = no }
+			}	
 		}
 	}
 	k_nubia_mod = {
@@ -18286,14 +18217,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_nubia_mod = { is_titular = no }
+			}	
 		}
 	}
 	k_oman = {
@@ -18302,14 +18232,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_oman = { is_titular = no }
+			}	
 		}
 	}
 	k_saba = {
@@ -18318,14 +18247,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_saba = { is_titular = no }
+			}	
 		}
 	}
 	k_nefoud = {
@@ -18334,14 +18262,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_nefoud = { is_titular = no }
+			}	
 		}
 	}
 	k_dedan = {
@@ -18350,14 +18277,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_dedan = { is_titular = no }
+			}	
 		}
 	}
 	k_nylus = {
@@ -18366,14 +18292,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_nylus = { is_titular = no }
+			}	
 		}
 	}
 	k_gizah = {
@@ -18382,14 +18307,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_gizah = { is_titular = no }
+			}	
 		}
 	}
 	k_palestine = {
@@ -18398,14 +18322,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_palestine = { is_titular = no }
+			}	
 		}
 	}
 	k_jourdane = {
@@ -18414,14 +18337,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_jourdane = { is_titular = no }
+			}	
 		}
 	}
 	k_fenicia = {
@@ -18430,14 +18352,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_fenicia = { is_titular = no }
+			}	
 		}
 	}
 	k_damascus = {
@@ -18446,14 +18367,13 @@ e_arabia = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_damascus = { is_titular = no }
+			}	
 		}
 	}
 }
@@ -20100,14 +20020,13 @@ e_britannia = {
 		capital = 5 # Ulster
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_ulster = { is_titular = no }
+			}	
 		}
 	}
 	k_leinster = {
@@ -20115,14 +20034,13 @@ e_britannia = {
 		capital = 16 # Leinster
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_leinster = { is_titular = no }
+			}	
 		}
 	}
 	k_cornwall = {
@@ -20130,14 +20048,13 @@ e_britannia = {
 		capital = 31 # Cornwall
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_cornwall = { is_titular = no }
+			}	
 		}
 	}
 	k_alba = {
@@ -20145,14 +20062,13 @@ e_britannia = {
 		capital = 40 # Moray
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_alba = { is_titular = no }
+			}	
 		}
 	}
 	k_strathclyde = {
@@ -20160,14 +20076,13 @@ e_britannia = {
 		capital = 47 # Clydesdale
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_strathclyde = { is_titular = no }
+			}	
 		}
 	}
 	k_northumbria = {
@@ -20175,14 +20090,13 @@ e_britannia = {
 		capital = 52 # Northumberland
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_northumbria = { is_titular = no }
+			}	
 		}
 	}
 	k_mercia = {
@@ -20190,14 +20104,13 @@ e_britannia = {
 		capital = 37 # Warwick
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_mercia = { is_titular = no }
+			}	
 		}
 	}
 	k_anglia = {
@@ -20205,14 +20118,13 @@ e_britannia = {
 		capital = 70 # Norfolk
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_anglia = { is_titular = no }
+			}	
 		}
 	}
 	k_wessex = {
@@ -20220,14 +20132,13 @@ e_britannia = {
 		capital = 26 # Winchester
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_wessex = { is_titular = no }
+			}	
 		}
 	}
 }
@@ -21359,7 +21270,7 @@ e_italica = {
 		color={ 175 244 86 }
 		color2={ 255 255 255 }
 		
-		capital = 334 #	Napoli
+		capital = 336 # Salerno
 		dynasty_title_names = no
 		
 		culture = italian
@@ -21806,14 +21717,13 @@ e_italica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_illiria = { is_titular = no }
+			}	
 		}
 	}
 	k_bosnia_mod = {
@@ -21822,14 +21732,13 @@ e_italica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_bosnia_mod = { is_titular = no }
+			}	
 		}
 	}
 	k_etruria = {
@@ -21838,14 +21747,13 @@ e_italica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_etruria = { is_titular = no }
+			}	
 		}
 	}
 	k_venezia = {
@@ -21854,14 +21762,13 @@ e_italica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_venezia = { is_titular = no }
+			}	
 		}
 	}
 	k_longobardia = {
@@ -21870,14 +21777,13 @@ e_italica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_longobardia = { is_titular = no }
+			}	
 		}
 	}
 	k_piemonte = {
@@ -21886,14 +21792,13 @@ e_italica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_piemonte = { is_titular = no }
+			}	
 		}
 	}
 	k_sardinia = {
@@ -21902,14 +21807,13 @@ e_italica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_sardinia = { is_titular = no }
+			}	
 		}
 	}
 	k_rome = {
@@ -21918,14 +21822,13 @@ e_italica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_rome = { is_titular = no }
+			}	
 		}
 	}
 	k_napoli = {
@@ -21934,14 +21837,13 @@ e_italica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_napoli = { is_titular = no }
+			}	
 		}
 	}
 	k_sicilia = {
@@ -21950,14 +21852,13 @@ e_italica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_sicilia = { is_titular = no }
+			}	
 		}
 	}
 }
@@ -21976,7 +21877,6 @@ e_centre = {
 			culture = hungarian
 			culture = polish
 			culture = bohemian
-			culture = pommeranian
 		}
 	}
 	
@@ -23524,14 +23424,13 @@ e_centre = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_latvia = { is_titular = no }
+			}	
 		}
 	}
 	k_prussia = {
@@ -23540,14 +23439,13 @@ e_centre = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_prussia = { is_titular = no }
+			}	
 		}
 	}
 	k_slovakia = {
@@ -23556,14 +23454,13 @@ e_centre = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_slovakia = { is_titular = no }
+			}	
 		}
 	}
 	k_carpatia = {
@@ -23572,14 +23469,13 @@ e_centre = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_carpatia = { is_titular = no }
+			}	
 		}
 	}
 	k_danubia = {
@@ -23588,14 +23484,13 @@ e_centre = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_danubia = { is_titular = no }
+			}	
 		}
 	}
 	k_pannonia = {
@@ -23604,14 +23499,13 @@ e_centre = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_pannonia = { is_titular = no }
+			}	
 		}
 	}
 	k_mazovia = {
@@ -23620,14 +23514,13 @@ e_centre = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_mazovia = { is_titular = no }
+			}	
 		}
 	}
 	k_silesia = {
@@ -23636,14 +23529,13 @@ e_centre = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_silesia = { is_titular = no }
+			}	
 		}
 	}	
 }
@@ -24814,14 +24706,13 @@ e_altaica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_dagestan = { is_titular = no }
+			}	
 		}
 	}
 	k_khazaria = {
@@ -24830,14 +24721,13 @@ e_altaica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_khazaria = { is_titular = no }
+			}	
 		}
 	}
 	k_sarmatia = {
@@ -24846,14 +24736,13 @@ e_altaica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_sarmatia = { is_titular = no }
+			}	
 		}
 	}
 	k_crimea = {
@@ -24862,14 +24751,13 @@ e_altaica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_crimea = { is_titular = no }
+			}	
 		}
 	}
 	k_ciscaucasia = {
@@ -24878,14 +24766,13 @@ e_altaica = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_ciscaucasia = { is_titular = no }
+			}	
 		}
 	}
 }
@@ -24900,7 +24787,7 @@ e_africa = {
 	allow = {
 		OR = {
 			culture = maghreb_arabic
-			culture = mande
+			culture = manden
 		}
 	}
 	
@@ -25453,7 +25340,7 @@ e_africa = {
 		color={ 21 255 3 }
 		color2={ 255 255 255 }
 		
-		capital = 817 # Tunis
+		capital = 811 # Tripolitana
 		dynasty_title_names = no
 		
 		culture = maghreb_arabic
@@ -25907,7 +25794,7 @@ e_africa = {
 		color={ 158 188 61 }
 		color2={ 255 255 255 }
 		
-		capital = 911 # Timbuktu
+		capital = 925 # Mali
 		
 		culture = manden
 		dynasty_title_names = no
@@ -26125,14 +26012,13 @@ e_africa = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_lybia = { is_titular = no }
+			}	
 		}
 	}
 	k_carthago = {
@@ -26141,14 +26027,13 @@ e_africa = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_carthago = { is_titular = no }
+			}	
 		}
 	}
 	k_numidia = {
@@ -26157,14 +26042,13 @@ e_africa = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_numidia = { is_titular = no }
+			}	
 		}
 	}
 	k_algeria = {
@@ -26173,14 +26057,13 @@ e_africa = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_algeria = { is_titular = no }
+			}	
 		}
 	}
 	k_tingitania = {
@@ -26189,14 +26072,13 @@ e_africa = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_tingitania = { is_titular = no }
+			}	
 		}
 	}
 	k_morocco = {
@@ -26205,14 +26087,13 @@ e_africa = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_morocco = { is_titular = no }
+			}	
 		}
 	}
 	k_timbuktu = {
@@ -26221,14 +26102,13 @@ e_africa = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_timbuktu = { is_titular = no }
+			}	
 		}
 	}
 	k_ghana = {
@@ -26237,14 +26117,13 @@ e_africa = {
 		dynasty_title_names = no
 	
 		allow = {
-			NOT = {
-				any_demesne_title = {
-					OR = {
-						tier = king
-						tier = emperor
-					}
+			OR = {
+				AND = {
+					NOT = { tier = king }
+					NOT = { tier = emperor }
 				}
-			}
+				k_ghana = { is_titular = no }
+			}	
 		}
 	}
 }
@@ -26743,7 +26622,7 @@ k_nubia = {
 	capital = 793 # Makuria
 	
 	allow = {
-		religion_group = christian
+		always = no
 	}
 }
 k_ottoman = {
@@ -26787,10 +26666,7 @@ k_trinacria = {
 #	capital = 340 #	Palermo
 	
 	allow = {
-		OR = {
-			religion = catholic
-			is_heresy_of = catholic
-		}
+		always = no
 	}
 }
 
@@ -26800,7 +26676,7 @@ k_venice = {
 	culture = italian
 	
 	allow = {
-		is_republic = yes
+		always = no
 	}
 }
 k_zenata = {
