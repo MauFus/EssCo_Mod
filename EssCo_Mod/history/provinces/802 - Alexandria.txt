@@ -6,9 +6,9 @@ title = c_alexandria
 # Settlements
 max_settlements = 6
 b_abukir = castle
+b_marabout = city
 b_alexandria = temple
 #b_burgelarab = castle
-#b_marabout = city
 #b_hammam = castle
 
 #b_damanhur = temple
