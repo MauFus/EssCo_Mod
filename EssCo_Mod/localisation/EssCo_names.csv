@@ -47,7 +47,7 @@ k_brandenburg;Brandeburgo;Brandeburgo;Brandeburgo;;Brandeburgo;;;;;;;;;x
 k_mecklemburg;Meclemburgo;Meclemburgo;Meclemburgo;;Meclemburgo;;;;;;;;;x
 ;;;;;;;;;;;;;;
 d_fjords;Fiordi;Fiordi;Fiordi;;Fiordi;;;;;;;;;x
-d_kola;Kola;Kola;Kola;;Kola;;;;;;;;;x
+d_kola_mod;Kola;Kola;Kola;;Kola;;;;;;;;;x
 k_iceland;Islanda;Islanda;Islanda;;Islanda;;;;;;;;;x
 k_sorlandet;Sorlandet;Sorlandet;Sorlandet;;Sorlandet;;;;;;;;;x
 k_gotaland;Gotaland;Gotaland;Gotaland;;Gotaland;;;;;;;;;x
@@ -103,7 +103,7 @@ d_kherson;Kherson;Kherson;Kherson;;Kherson;;;;;;;;;x
 d_uzens;Uzens;Uzens;Uzens;;Uzens;;;;;;;;;x
 d_sharukan;Sharukan;Sharukan;Sharukan;;Sharukan;;;;;;;;;x
 k_dagestan;Daghestan;Daghestan;Daghestan;;Daghestan;;;;;;;;;x
-k_khazaria;Khazaria;Khazaria;Khazaria;;Khazaria;;;;;;;;;x
+k_khazaria_mod;Khazaria;Khazaria;Khazaria;;Khazaria;;;;;;;;;x
 k_sarmatia;Sarmazia;Sarmazia;Sarmazia;;Sarmazia;;;;;;;;;x
 k_crimea;Crimea;Crimea;Crimea;;Crimea;;;;;;;;;x
 k_ciscaucasia;Ciscaucasia;Ciscaucasia;Ciscaucasia;;Ciscaucasia;;;;;;;;;x
