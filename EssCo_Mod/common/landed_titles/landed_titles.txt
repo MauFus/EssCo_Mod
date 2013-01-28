@@ -8041,7 +8041,7 @@ e_scandinavia = {
 				}
 			}
 		}
-		d_kola = {
+		d_kola_mod = {
 			color={ 150 125 55 }
 			color2={ 255 255 255 }
 			
@@ -20044,7 +20044,7 @@ e_britannia = {
 		}
 	}
 	k_cornwall = {
-		color = { 250 20 15 }
+		color = { 250 20 115 }
 		capital = 31 # Cornwall
 	
 		allow = {
@@ -20086,7 +20086,7 @@ e_britannia = {
 		}
 	}
 	k_northumbria = {
-		color = { 255 10 0 }
+		color = { 255 110 0 }
 		capital = 52 # Northumberland
 	
 		allow = {
@@ -20128,7 +20128,7 @@ e_britannia = {
 		}
 	}
 	k_wessex = {
-		color = { 241 20 65 }
+		color = { 255 100 165 }
 		capital = 26 # Winchester
 	
 		allow = {
@@ -24074,6 +24074,7 @@ e_altaica = {
 		color2={ 255 255 255 }
 		
 		capital = 603 # Alania
+		dynasty_title_names = no
 		
 		culture = alan
 
@@ -24082,6 +24083,7 @@ e_altaica = {
 			color2={ 255 255 255 }
 			
 			capital = 603 # Alania
+			dynasty_title_names = no
 		
 			c_yegorlyk = {
 				color={ 255 214 92 }
@@ -24173,6 +24175,7 @@ e_altaica = {
 			color2={ 255 255 255 }
 			
 			capital = 597 # Azov
+			dynasty_title_names = no
 		
 			c_tana = {
 				color={ 222 183 79 }
@@ -24460,6 +24463,7 @@ e_altaica = {
 		color2={ 255 255 255 }
 		
 		capital = 679 # Kartli
+		dynasty_title_names = no
 		
 		culture = georgian
 		
@@ -24470,6 +24474,7 @@ e_altaica = {
 			color2={ 255 255 255 }
 			
 			capital = 679 # Kartli
+			dynasty_title_names = no
 			
 			c_kartli = {
 				color={ 196 121 121 }
@@ -24561,6 +24566,7 @@ e_altaica = {
 			color2={ 255 255 255 }
 			
 			capital = 674 # Derbent
+			dynasty_title_names = no
 			
 			c_albania = {
 				color={ 253 176 176 }
@@ -24631,6 +24637,7 @@ e_altaica = {
 			color2={ 255 255 255 }
 			
 			capital = 601 # Imeretia
+			dynasty_title_names = no
 			
 			c_imeretia = {
 				color={ 246 152 152 }
@@ -24715,7 +24722,7 @@ e_altaica = {
 			}	
 		}
 	}
-	k_khazaria = {
+	k_khazaria_mod = {
 		color = { 24 86 255 }
 		capital = 618 # Guryev
 		dynasty_title_names = no
@@ -24726,7 +24733,7 @@ e_altaica = {
 					NOT = { tier = king }
 					NOT = { tier = emperor }
 				}
-				k_khazaria = { is_titular = no }
+				k_khazaria_mod = { is_titular = no }
 			}	
 		}
 	}
